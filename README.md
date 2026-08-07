@@ -1,2 +1,1 @@
-# 00-appunti.di--basso-elettrico
-Appunti di Basso Elettrico
+# Appunti di Basso Elettrico
