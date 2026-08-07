@@ -1,0 +1,15 @@
+# 1. BIBLIOGRAFIA
+
+Quello che leggete scritto qui non è inventato. Davvero.
+
+Sono appunti elaborati avendo in mano un riscontro bibliografico. 
+
+Di seguito la lista dei libri dei quali mi servo tuttora:
+
+- *David Overthrow* - "The Complete Electric Bass Method - Beginning/Intermediate/Mastering". Si tratta di tre volumi in lingua inglese con CD audio incluso editi da MM Alfred Publishing Co.
+- *David Overthrow* - "30-Days Bass Workout", un volume in lingua inglese edito da MM Alfred Publishing Co.
+- *Andrea Avena* - "Teoria e Armonia". Sono quattro volumi in lingua italiana con CD audio incluso editi da Sinfonica Jazz.
+
+Questa bibliografia crescerà nel tempo.
+
+Infine desidero ringraziare i miei insegnanti più fidati: Stefano Cesare, Bruno Zoia e Andrea Leprotti. Loro sono ottimi insegnanti, io probabilmente un pessimo studente.
