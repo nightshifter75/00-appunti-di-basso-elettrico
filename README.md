@@ -11,9 +11,9 @@ Qualche anno dopo mi sono ritrovato in quel periodo in cui hai finito la scuola 
 
 Tutto questo, ahimè, ha un prezzo, e a un certo punto la vita ti mette davanti a un bivio: continuare a fare il musicante scapestrato e guadagnare cinquantamila lire a concerto (e qualche soldo extra se vendi il CD autoprodotto) oppure farti la barba, metterti giacca e cravatta e trovare un lavoro vero.
 
-- "Che lavoro fai?"
-- "Il musicista."
-- "No, dicevo: che lavoro fai per vivere…"
+>- "Che lavoro fai?"
+>- "Il musicista."
+>- "No, dicevo: che lavoro fai per vivere…"
 
 Quando sono diventato più grandicello, dopo aver superato la fase post-adolescenziale in cui ero bassista, scaricatore di strumenti, venditore di CD autoprodotto, stampatore di spartiti e-altre-mille-cose, ho cominciato a studiare teoria musicale e come usare il computer per fare musica. È stato un periodo piuttosto lungo, sono cresciuto (non troppo, se non di girovita) e sono maturato. Il mio lavoro è diventato un altro. Lasciato il gruppo ho preso un appartamento in affitto per andare a vivere per conto mio. Tutti i miei ex colleghi musicisti venivano a trovarmi come i mercenari ai tempi di Leonardo Da Vinci si recavano al desco del signorotto facoltoso per le libagioni. Da allora è passato un bel pò di tempo, speso a fare un altro lavoro e a cercare di far funzionare aggeggi come quello che ho sottomano adesso mentre scrivo. Da qualche anno a questa parte ho ripreso anche a suonare in gruppo (i chitarristi da spiaggia avevano ragione: il basso da solo non si suona, non ha senso) e quindi di conseguenza, a studiare più seriamente, sebbene non per professione.
 
