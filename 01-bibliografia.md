@@ -1,4 +1,4 @@
-# 1. BIBLIOGRAFIA
+# 1. Bibliografia
 
 Quello che leggete scritto qui non è inventato. Davvero.
 
