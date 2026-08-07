@@ -25,6 +25,6 @@ Nei vari repertori, oltre alla prassi esecutiva e alle tecniche stilistiche dei 
 
 Il risultato di tutti questi fattori ha prodotto negli anni una serie di appunti piuttosto disordinati. Quando poi il troppo diventa ingestibile urge una soluzione per riordinare le idee, per rispolverare i neuroni e per avere un posto dove avere tutto questo a portata di mano.
 
-Non voglio certo scrivere un metodo per insegnare a suonare il basso elettrico! Io stesso sono ancora ad un livello quasi sufficiente e nonostante me la cavo non mi ritengo certo un musicista abile. Consideratelo la bella copia di un blocco note. Eccomi qui a raccontare le mie esperienze nello studio del basso elettrico, della teoria musicale, dell'ear training e dei vari repertori.
+Non voglio certo scrivere un metodo per insegnare a suonare il basso elettrico! Io stesso sono ancora ad un livello quasi sufficiente e nonostante me la cavo non mi ritengo certo un musicista abile. Consideratelo la bella copia di un blocco note.
 
-Il viaggio sarà lungo e tortuoso, il trabiccolo che vi trasporterà sarà malfermo e traballante, le informazioni che riceverete saranno quanto più accurate possibili (ma dategli il beneficio del dubbio) e il tono sarà semi serio. Se avete ancora voglia di starmi a sentire, vi darò volentieri uno strappo.
+Ebbene, eccomi qui a raccontare le mie esperienze nello studio del basso elettrico, della teoria musicale, dell'ear training e dei vari repertori. Il viaggio sarà lungo e tortuoso, il trabiccolo che vi trasporterà sarà malfermo e traballante, le informazioni che riceverete saranno quanto più accurate possibili (ma dategli il beneficio del dubbio) e il tono sarà semi serio. Se avete ancora voglia di starmi a sentire, vi darò volentieri uno strappo.
