@@ -1,5 +1,5 @@
 # Appunti di Basso Elettrico
-di Gianluca Cherubini
+*di Gianluca Cherubini*
 
 Un saluto cordiale a tutti gli aspiranti bassisti. Mi chiamo Gianluca e sono nato a Roma nel 1975. Suono il basso elettrico dal 1990, ovvero da quando quindici anni. Non sono un musicista, ho solamente una grande passione per questo strumento, perché per me rappresenta il cuore pulsante della musica. Un favoloso intreccio fra ritmo e armonia. 
 
@@ -28,3 +28,5 @@ Il risultato di tutti questi fattori ha prodotto negli anni una serie di appunti
 Non voglio certo scrivere un metodo per insegnare a suonare il basso elettrico! Io stesso sono ancora ad un livello quasi sufficiente e nonostante me la cavo non mi ritengo certo un musicista abile. Consideratelo la bella copia di un blocco note.
 
 Ebbene, eccomi qui a raccontare le mie esperienze nello studio del basso elettrico, della teoria musicale, dell'ear training e dei vari repertori. Il viaggio sarà lungo e tortuoso, il trabiccolo che vi trasporterà sarà malfermo e traballante, le informazioni che riceverete saranno quanto più accurate possibili (ma dategli il beneficio del dubbio) e il tono sarà semi serio. Se avete ancora voglia di starmi a sentire, vi darò volentieri uno strappo.
+
+**P.S.:** questi appunti nascono tanti anni fa. Se ci sono errori, segnalatemelo.
