@@ -59,13 +59,13 @@ Di seguito uno schema della tastiera del basso elettrico. Immaginate di sedervi 
 Di seguito lo stesso schema solo con le note naturali (fidatevi, vi serve):
 
 ```
-1	G3 |-----|-A3--|-----|-B3--|-C4--|-----|-D4--|-----|-E4--|-F4--|-----|-G4--|-----|-A4--|-----|-B4--|-C5--|-----|-D5--|-----|-E5--|-F5--|-----|-G5--|
-2	D3 |-----|-E3--|-F3--|-----|-G3--|-----|-A3--|-----|-B3--|-C4--|-----|-D4--|-----|-E4--|-F4--|-----|-G4--|-----|-A4--|-----|-B4--|-C5--|-----|-D5--|
-3	A2 |-----|-B2--|-C3--|-----|-D3--|-----|-E3--|-F3--|-----|-G3--|-----|-A3--|-----|-B3--|-C4--|-----|-D4--|-----|-E4--|-F4--|-----|-G4--|-----|-A4--|
-4	E2 |-F2--|-----|-G2--|-----|-A2--|-----|-B2--|-C3--|-----|-D3--|-----|-E3--|-F3--|-----|-G3--|-----|-A3--|-----|-B3--|-C4--|-----|-D4--|-----|-E4--|
-5	B1 |-C2--|-----|-D2--|-----|-E2--|-F2--|-----|-G2--|-----|-A2--|-----|-B2--|-C3--|-----|-D3--|-----|-E3--|-F3--|-----|-G3--|-----|-A3--|-----|-B3--|
-	     1     2     3     4     5     6     7     8     9     10    11    12    13    14    15    16    17    18    19    20    21    22    23    24
-	                 .           .           .           .                 :                 .           .           .           .                  :
+1	G3 |----|-A3-|----|-B3-|-C4-|----|-D4-|----|-E4-|-F4-|----|-G4-|----|-A4-|----|-B4-|-C5-|----|-D5-|----|-E5-|-F5-|----|-G5-|
+2	D3 |----|-E3-|-F3-|----|-G3-|----|-A3-|----|-B3-|-C4-|----|-D4-|----|-E4-|-F4-|----|-G4-|----|-A4-|----|-B4-|-C5-|----|-D5-|
+3	A2 |----|-B2-|-C3-|----|-D3-|----|-E3-|-F3-|----|-G3-|----|-A3-|----|-B3-|-C4-|----|-D4-|----|-E4-|-F4-|----|-G4-|----|-A4-|
+4	E2 |-F2-|----|-G2-|----|-A2-|----|-B2-|-C3-|----|-D3-|----|-E3-|-F3-|----|-G3-|----|-A3-|----|-B3-|-C4-|----|-D4-|----|-E4-|
+5	B1 |-C2-|----|-D2-|----|-E2-|-F2-|----|-G2-|----|-A2-|----|-B2-|-C3-|----|-D3-|----|-E3-|-F3-|----|-G3-|----|-A3-|----|-B3-|
+	     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15   16   17   18   19   20   21   22   23   24
+	               .         .         .         .              :              .         .         .          .             :
 ```
 
 La quinta corda (B1) o la quarta corda (E1) è la più grave, la prima corda (G3) è la più acuta. I tasti sono numerati da sinistra verso destra. Quindi se si prende la quarta corda la nota più grave è E2, al primo tasto abbiamo F2, al secondo tasto troviamo F#2 e così via. Al dodicesimo tasto abbiamo E3 e al ventiquattresimo (se ce lo abbiamo) abbiamo E4. Sulla terza corda A2 abbiamo A2 a vuoto, A#2 al primo tasto, B2 al secondo tasto e così via.
