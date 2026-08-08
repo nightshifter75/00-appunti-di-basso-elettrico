@@ -29,4 +29,4 @@ Non voglio certo scrivere un metodo per insegnare a suonare il basso elettrico! 
 
 Ebbene, eccomi qui a raccontare le mie esperienze nello studio del basso elettrico, della teoria musicale, dell'ear training e dei vari repertori. Il viaggio sarà lungo e tortuoso, il trabiccolo che vi trasporterà sarà malfermo e traballante, le informazioni che riceverete saranno quanto più accurate possibili (ma dategli il beneficio del dubbio) e il tono sarà semi serio. Se avete ancora voglia di starmi a sentire, vi darò volentieri uno strappo.
 
-**P.S.:** questi appunti nascono tanti anni fa. Se ci sono errori, segnalatemelo.
+**P.S.:** Questi appunti nascono tanti anni fa. Se ci sono errori, segnalatemelo.
