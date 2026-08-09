@@ -10,4 +10,4 @@ Quindi a chi non ha ancora capito a che cosa servite quando suonate il basso, ec
 
 Semplice no?
 
-<img width="1448" height="1086" alt="infografica-basso-elettrico" src="https://github.com/user-attachments/assets/c7a15d62-da0b-4a0d-8cf8-1509e2824aa7" />
+<img width="1448" height="1086" alt="infografica-basso-elettrico" src="https://github.com/user-attachments/assets/9f071b8e-c192-491c-be67-5f27b2d716ea" />
