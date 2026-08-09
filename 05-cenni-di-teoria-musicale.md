@@ -12,11 +12,11 @@ Il **pentagramma** è la notazione musicale per eccellenza, valida per tutti gli
 
 Questo che segue è un pentagramma. Viene usato per scrivere le note suonate da uno strumento con una registro limitato come archi e fiati. Le note che vedete sono C4, D4, E4, F4, G4, A4 e B4. Il simbolo in fondo a forma di "f" rappresenta una pausa.
 
-FIGURA 2 - PENTAGRAMMA
+<img width="537" height="68" src="https://github.com/user-attachments/assets/bd7c7d5e-af39-45f5-a28a-41806f3470db" />
 
 Quest'altro invece è un **doppio pentagramma**, l'unione di due pentagrammi uniti con una parentesi graffa. Viene usato per scrivere le note suonate da strumenti con un registro esteso come pianoforte e arpa. Le note sul pentagramma più in basso sono C3, D3, E3, F3, G3, A3 e B3 e le altre sono sempre C4, D4, E4, F4, G4, A4 e B4. Attenzione: non va suonata prima la riga sopra e poi quella sotto! Bisogna suonare C3 e C4 insieme, D3 e D4 insieme, ecc…
 
-FIGURA 3 - DOPPIO PENTAGRAMMA
+<img width="537" height="132" src="https://github.com/user-attachments/assets/4f206e10-e15e-4b38-b47f-5bf0f69f305e" />
 
 La **chiave** è quel simbolo che si mette all'inizio di ogni pentagramma e serve a determinare il registro, basso o acuto. Si usano comunemente chiave di **violino** (o chiave di SOL) per le note acute (quella a forma di s rovesciata con un ricciolo) e chiave di **basso** (o chiave di FA) per le note basse (quella a forma di c rovesciata con due puntini). La chiave di violino poggia sul quarto rigo, ovvero il SOL che viene dopo il DO centrale (G4) e quella di basso poggia sul secondo rigo, ovvero il FA prima del DO centrale (F3). 
 
@@ -28,11 +28,11 @@ Come si può vedere, ci sono due scale che vanno da C a B: quella che parte da C
 
 Se una nota è più alta o più bassa di quelle rappresentabili sul rigo si usano dei tagli addizionali. Il DO centrale (C4) è il taglio addizionale in alto sulla chiave di basso e in basso su quella di violino. Nelle due figure sopra potete vedere che la prima nota è un C4 e infatti la testa "tagliata" in due da una piccola linea. Se il pentagramma non ci basta possiamo usare ulteriori tagli addizionali. Guardate qui:
 
-FIGURA 4 - TAGLI ADDIZIONALI
+<img width="583" height="355" src="https://github.com/user-attachments/assets/2675c1a9-65db-48cb-8e5e-ed1696e0e425" />
 
 Questa figura mostra la posizione (rispetto a ogni chiave) di tutti i DO di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili. E adesso un'altra:
 
-FIGURA 5 - NOTE SULLA TASTIERA
+<img width="1371" height="502" src="https://github.com/user-attachments/assets/f5ddc69f-148f-4f18-80fe-cd8377c06084" />
 
 Questa figura mostra la corrispondenza delle note sul pentagramma con i tasti del basso elettrico.
 
