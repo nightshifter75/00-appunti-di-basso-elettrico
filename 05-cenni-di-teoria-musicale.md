@@ -38,21 +38,21 @@ Questa figura mostra la corrispondenza delle note sul pentagramma con i tasti de
 
 La **durata** di una nota (o di una pausa) si specifica con la forma della nota (o della pausa) stessa, e viene indicata in senso relativo (un quarto, un ottavo, ecc…). Più tardi sarà più chiaro a cosa si riferisce il rapporto di un quarto o un ottavo. Come vedete le note hanno una testa "vuota" o "piena" e possono avere o meno un gambo, con o senza una o più code. La direzione del gambo è verso l'alto se la nota è sotto il rigo centrale (qualunque sia la chiave) o verso il basso se la nota si trova dal rigo centrale in su (rigo centrale compreso):
 
-FIGURA 6 - DURATE
+<img width="1005" height="1117" src="https://github.com/user-attachments/assets/ab3065c0-3b8d-4259-ada0-d2208c7e024c" />
 
 Le note vengono raggruppate in **misure** (o **battute**) separate da barrette verticali che attraversano il pentagramma. Il **tempo** è la suddivisione delle misure con il quale pulsa la musica e viene indicato all'inizio e accanto alla chiave sotto forma di frazione. Stabilisce all'interno di una misura quante e quali note (e pause) sono contenute, ovvero il **battito** o **movimento**. Il numeratore indica di quanti movimenti è fatta una misura e il denominatore indica la durata di ogni movimento. Es. 4/4 vuol dire che una misura è formata da 4 semiminime (o altre note che in totale danno una durata equivalente). 12/8 vuol dire che una misura è composta da 12 crome (idem come sopra).
 
 Le durate di cui sopra hanno il rapporto di un intero o di una frazione di un intero. Questo significa che le note non durano più di una misura. Esistono però anche delle durate non più usate:
 
-FIGURA 7 - DURATE IN DISUSO
+<img width="602" height="395" src="https://github.com/user-attachments/assets/6df79913-3b6b-4419-b8e7-c20526ee14ee" />
 
 Forse la fusa la potreste trovare, ma le altre note no. Se dobbiamo scrivere un suono che dura più di una misura usiamo comunque una semibreve e una **legatura di valore** con un'altra nota. Una legatura di valore è una linea curva che lega due note. Oltre due note in due misure diverse può collegare due note anche nella stessa misura. Con questo sistema è possibile scrivere note che durano ad esempio 9/8 (si lega una nota da un ottavo con una da un quarto). Inoltre è possibile aumentare la durata di una nota mettendo a fianco alla nota da uno a tre punti con la **legatura di punto**. Un punto aggiunge la metà della durata, due punti la metà più un quarto e tre punti la metà più un quarto più un ottavo. Es. Una minima con un punto durerà 2/4+1/4=3/4. Una semibreve con due punti durerà 4/4+2/4+1/4=7/4. Una semiminima con tre punti durerà 1/4+1/8+1/16.
 
 Qualche esempio:
 
-FIGURA 8 - LEGATURA
+<img width="512" height="148" src="https://github.com/user-attachments/assets/be5027de-5a46-4429-a893-59fd24dfc893" />
 
-FIGURA 9 - LEGATURA
+<img width="501" height="114" src="https://github.com/user-attachments/assets/e969a7ff-d8e2-4092-baa4-f37da00df2ae" />
 
 Entrambi gli esempi hanno un tempo di 4/4. Nel primo esempio si vede un G#2 che dura 8/4. Nel secondo esempio abbiamo due misure scandite da 4 minime (A3) e delle note sopra (E4) che durano la prima 3/8 (una semiminima con la legatura di punto = 1/4+1/8), la seconda nota 1/4 (due crome con una legatura di valore = 1/8+1/8) e le altre a seguire. Infatti 2 minime = 4/4, due semiminime col punto + due crome legate = 4/4 e due semiminime col punto + una semiminima = 4/4.
 
@@ -60,7 +60,7 @@ Attenzione perché esistono anche altri tipi di legature: la legatura di frase �
 
 Un esempio classico di legatura di frase è l'inizio della Rapsodia in Blue di George Gershwin, dove 17 semibiscrome sono legate insieme:
 
-FIGURA 10 - RAPSODIA IN BLUE
+<img width="727" height="174" src="https://github.com/user-attachments/assets/9bda6b56-b15f-49ea-be19-ee0579783862" />
 
 Attenzione perché la curva del legato può trarvi in inganno! Vedete quel "3" sotto la curva della legatura di frase nei due gruppi di tre crome nella seconda misura? Non è un legato, ma una terzina. Vuol dire che le tre note saranno suonate con la durata complessiva di una semiminima (cioè 1/4, la quarta parte del movimento). Se fate i conti tornano, come tornano per la "diciassettina" della prima misura (sì, se guardate bene c'è scritto: 17).
 
@@ -74,7 +74,7 @@ Un ultimissimo concetto: la **dinamica**. Ovvero modulare l'**intensità** di un
 
 L'altro sistema di scrittura si chiama **intavolatura**. Mentre il pentagramma rappresenta la nota che si deve suonare, l'intavolatura rappresenta la posizione delle dita sulla tastiera di uno strumento a corda come il liuto, la tiorba, il basso o la chitarra. Nel caso del basso elettrico è formata da 4 (o 5) linee che rappresentano le 4 (o 5) corde del basso, dalla più acuta alla più grave. Il numero indicato su ogni rigo indica il tasto che va premuto (0 per la corda a vuoto), mentre in basso si può indicare con un numero da uno a quattro il dito della mano sinistra da usare per premere il tasto. Esistono poi altri simboli che si usano per indicare l'applicazione di una certa tecnica delle dita della mano sinistra o destra. I tasti da suonare sono in successione sulle note e ogni numero rappresenta una nota, sia in una melodia che in un accordo. A torto si pensa che l'intavolatura è una invenzione recente creata per i musicisti pigri che non vogliono imparare a leggere uno spartito. L'intavolatura risale al XVI secolo, mentre il pentagramma risale comunque al IX secolo. Non mi dilungherò sull'intavolatura (che vi consiglio caldamente di usare all'inizio solo per aiutarvi a leggere il pentagramma), ometto tutta una serie di simboli che afferiscono alla durata delle note e all'espressione che a mio avviso possono essere annotati benissimo sul pentagramma. Ecco un esempio di pentagramma e intavolatura:
 
-FIGURA 11 - INTAVOLATURA
+<img width="1059" height="259" src="https://github.com/user-attachments/assets/42577a34-d80b-4441-82fc-cd3fdffd5ff8" />
 
 Attenzione ai termini anglosassoni! Sono falsi amici! Se vi capita un libro in inglese sarà più facile per voi leggerlo se conoscete bene i seguenti termini:
 
