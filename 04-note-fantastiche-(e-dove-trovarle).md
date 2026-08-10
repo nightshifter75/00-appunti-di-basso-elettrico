@@ -82,4 +82,4 @@ La mano destra deve essere rilassata. Per usare il plettro è sufficiente impugn
 
 La nota più grave (E2 o B1) si ottiene pizzicando la corda a vuoto, cioè pizzicandola con l'indice della mano destra. La nota successiva (F2 o C2) si ottiene mettendo l'indice della mano sinistra sul primo tasto della corda più grave e pizzicando la corda con il medio della mano destra. La nota immediatamente successiva (F#2/Gb2 o C#2/Db2) si ottiene mettendo il medio della mano sinistra sul secondo tasto e pizzicando la corda con l'indice della mano destra senza spostare le dita fino ad ora usate. E così via… Non devo continuare, vero?
 
-<img width="1024" height="1536"src="https://github.com/user-attachments/assets/0a160380-44c7-4f43-8578-441149f17d17" />
+<img width="1024" height="1536" src="https://github.com/user-attachments/assets/0a160380-44c7-4f43-8578-441149f17d17" />
