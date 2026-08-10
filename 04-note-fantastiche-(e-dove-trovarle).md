@@ -1,6 +1,6 @@
 # 4. Note Fantastiche (e dove trovarle)
 
-Dopo aver scoperto cosa sia un basso elettrico è utile sapere dove sono le **note**.
+Dopo aver scoperto cosa sia un basso elettrico è utile sapere cosa sono e dove sono le **note**.
 
 Ma prima, è doverosa una piccola digressione sul suono.
 
