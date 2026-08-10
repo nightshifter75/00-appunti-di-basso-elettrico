@@ -68,7 +68,7 @@ Inoltre non confondete il punto del legato con quello dello staccato! Lo staccat
 
 Nelle figure di esempio sopra, nel pentagramma semplice e doppio, abbiamo due misure. Inoltre abbiamo un simbolo "C" che indica che la suddivisione delle misure. Quel simbolo è detto comune, cioè il classico quattro quarti. Quindi in una misura da 4/4 potremo mettere una nota che dura 4/4, due da 2/4, quatto da un quarto, otto da 1/8, sedici da 1/16, e così via, come anche una combinazione di esse, fino a totalizzare appunto 4/4. Negli esempi infatti ci sono 7 note e una pausa da 1/4.
 
-Il **ritmo** o (**tempo di metronomo**) stabilisce la durata di ogni nota. Una nota può durare un quarto, ma un quarto di cosa? Di un secondo? Di un ora? Il ritmo si indica con una durata di riferimento e un numero. Il numero rappresenta i **battiti al minuto** (*bpm*) per la durata specificata. Es. Se abbiamo un tempo di 4/4 e una semiminima viene suonata a 120 bpm vuol dire che in un minuto trovano posto 120 note per un totale di 30 misure. Il ritmo quindi scandisce il numeratore del tempo con un battito. Una misura di 4/4 a 120 bpm scandisce quattro battiti e ogni battito dura il tempo di una semiminima, cioè mezzo secondo.
+La **velocità** o (**tempo di metronomo**) stabilisce la durata di ogni nota. Una nota può durare un quarto, ma un quarto di cosa? Di un secondo? Di un ora? La velocità si indica con una durata di riferimento e un numero. Il numero rappresenta i **battiti al minuto** (*bpm*) per la durata specificata. Es. Se abbiamo un tempo di 4/4 e una semiminima viene suonata a 120 bpm vuol dire che in un minuto trovano posto 120 note per un totale di 30 misure. La velocitàv quindi scandisce il numeratore del tempo con un battito. Una misura di 4/4 a 120 bpm scandisce quattro battiti e ogni battito dura il tempo di una semiminima, cioè mezzo secondo.
 
 Un ultimissimo concetto: la **dinamica**. Ovvero modulare l'**intensità** di un suono. Vi ricordo che **intensità** e **volume** sono due cose differenti. L'intensità di un suono modifica il timbro del suono stesso arricchendolo di armonici, mentre il volume, che non è una caratteristica intrinseca del suono ma del segnale amplificato, ne aumenta la forma d'onda che di per sé è già formata. Se suoniamo un accordo di pianoforte delicatamente oppure con vigore otterremo lo stesso accordo, il primo meno intenso e con un timbro meno ricco di armonici. Se aumentiamo il volume dell'accordo suonato piano avremo un risultato differente da quello suonato più vigorosamente. La dinamica viene annotata sotto il pentagramma con apposite sigle in carattere corsivo, più precisamente chiamate **segni di espressione** oppure **segni dinamici**. Essi sono, dalla minima alla massima dinamica: ***ppp*** (più che pianissimo), ***pp*** (pianissimo), ***p*** (piano), ***mp*** (mezzopiano), ***mf*** (mezzoforte), ***f*** (forte), ***ff*** (fortissimo), ***fff*** (più che fortissimo). Il cambiamento di dinamica può essere improvviso (talvolta indicato esplicitamente con la sigla ***subito***) oppure progressivo. In questo caso si usano espressioni testuali come ***crescendo*** e ***diminuendo***, talvolta accompagnate da ***poco a poco***. Spesso si preferisce notare delle "forcelle", ovvero coppie di linee orizzontali che si allontanano (dipartendosi da un punto indicano un ***crescendo***) o si avvicinano (chiudendosi in un punto indicano il ***diminuendo***). Potete vedere un esempio sopra la minima della seconda misura della Rapsodia in Blue di Gershwin. Mentre la durata è relativa al tempo di metronomo, la dinamica è relativa e basta. Nonostante i computer abbiano un'idea precisa e misurabile della dinamica, queste indicazioni sono relative al gusto interpretativo del musicista che le esegue.
 
@@ -78,31 +78,27 @@ L'altro sistema di scrittura si chiama **intavolatura**. Mentre il pentagramma r
 
 Attenzione ai termini anglosassoni! Sono falsi amici! Se vi capita un libro in inglese sarà più facile per voi leggerlo se conoscete bene i seguenti termini:
 
-Il pentagramma si dice **staff**.
-L'intavolatura si dice **tablature** (per gli amici **tab**).
-La durata si dice **duration**.
-L'altezza si dice **pitch**.
-L'alterazione si dice **accidental**.
-La chiave si dice **clef**. Attenzione a non confonderla con **key** che è la **tonalità** (di cui ci occuperemo).
-La misura si dice **measure**. Spesso in italiano trovate anche il termine battuta per dire la stessa cosa.
-La battuta si dice **bar**. Ma spesso si utilizza in un contesto informatico.
-Il tempo si dice **signature**. Da non confondere con la parola firma che in musica non centra nulla.
-Il battito si dice **beat**.
-La legatura di valore si dice **tie**. Un tie si distingue **tie across the barline** (fra due misure) o **tie across the beat** (nella stessa misura).
-La legatura di punto si dice **augmentation**.
-La nota con il punto si dice **dotted note**.
-La legatura di frase si dice **portamento** o **legato**.
-La terzina si dice **triplet**.
-Lo staccato si dice **staccato**.
-Il ritmo si dice **tempo**. Vi ricordo che si misura in bpm, beats per minute.
-La dinamica si dice **velocity**. Ma spesso si utilizza in un contesto informatico.
+- Il pentagramma si dice **staff**;
+- L'intavolatura si dice **tablature** (per gli amici **tab**);
+- La durata si dice **duration**;
+- L'altezza si dice **pitch**;
+- L'alterazione si dice **accidental**;
+- La chiave si dice **clef**;
+- La tonalità si dice **key**;
+- La misura si dice **measure**;
+- La battuta si dice **bar**;
+- Il tempo si dice **signature**;
+- Il battito si dice **beat**;
+- La legatura di valore si dice **tie across the barline** quando si legano note fra due misure o **tie across the beat** quando si legano note nella stessa battuta;
+- La legatura di punto si dice **augmentation**;
+- La nota con il punto si dice **dotted note**;
+- La legatura di frase si dice **portamento** o **legato**;
+- La terzina si dice **triplet**;
+- Lo staccato si dice **staccato**;
+- La velocità del branco si dice **tempo** e si misura in bpm (beats per minute);
+- La dinamica si dice **velocity**;
+- Il diesis si dice **sharp**;
+- Il bemolle si dice **flat**;
+- Il bequadro si dice **natural sign**.
 
-Alcune raccomandazioni:
-
-1. Non confondete il tempo di metronomo con il tempo di movimento. Cioè non mischiate 120 bpm con 4/4. Non usate la parola tempo in italiano per dire nessuna delle due cose: se dovete dire 120 bpm dite ritmo e se dovete dire 4/4 dite movimento.
-2. Non usate in italiano la parola battuta, potreste confondervi con il battito, usate la parola misura. In inglese evitate l'uso di bar (a meno che non si tratti di un software musicale), ma dite measure. 
-3. Non confondete clef e key, clef e signature, signature e key. Ripeto: clef è la chiave e indica il registro, key è la tonalità (e non la chiave) e signature è il movimento.
-
-Piccola postilla che se non usate il computer per fare musica potete saltare. Nei software musicali la suddivisione delle note si da con numero di quattro cifre detto position suddiviso da punti: **Bar**, **Beat**, **Division**, **Tick**, nel formato `<bar>.<beat>.<division>.<tick>`. Bar e beat li conosciamo. Per division si intende il denominatore del movimento, mentre il tick è l'unità minima di durata di una nota. Una semibreve dura 3840 tick, una minima ne dura 1920, una semiminima ne dura 960, una croma ne dura 480, una semicroma ne dura 240, una biscroma ne dura 120, una semibiscroma ne dura 60, una fusa 30. Una position 1.1.1.1 vuol dire misura 1 battito 1 division 1 tick 1. Se abbiamo due misure da 4/4 avremo: 1.1.1.1 per l'inizio della misura e 2.4.4.1 per la fine della seconda misura.
-
-Dimenticavo: diesis si dice **sharp**, il bemolle si dice **flat**, e bequadro si dice **natural sign**. Inoltre qualcuno utilizza diesis e bemolli doppi, non saprei dirvi perché. Sappiamo che il bequadro annulla l'effetto di diesis e bemolli. Qualcuno riconosce la regola che diesis, bemolle, doppio diesis e il doppio bemolle si annullano con un semplice bequadro, altri impongono l'uso del doppio bequadro per il totale annientamento dell'accidente doppio (sembra un pessimo augurio) e un diesis-bequadro e bemolle-bequadro, per l'annullamento parziale. Se li trovate ditemelo, io non ne ho mai visti.
+Piccola postilla che se non usate il computer per fare musica potete saltare. Nei software musicali la suddivisione delle note si da con numero di quattro cifre detto position suddiviso da punti: **Bar**, **Beat**, **Division**, **Tick**, nel formato ```<bar>.<beat>.<division>.<tick>```. Bar e beat li conosciamo. Per division si intende il denominatore del movimento, mentre il tick è l'unità minima di durata di una nota. Una semibreve dura 3840 tick, una minima ne dura 1920, una semiminima ne dura 960, una croma ne dura 480, una semicroma ne dura 240, una biscroma ne dura 120, una semibiscroma ne dura 60, una fusa 30. Una position 1.1.1.1 vuol dire misura 1 battito 1 division 1 tick 1. Se abbiamo due misure da 4/4 avremo: 1.1.1.1 per l'inizio della misura e 2.4.4.1 per la fine della seconda misura.
