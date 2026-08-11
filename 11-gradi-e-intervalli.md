@@ -38,6 +38,6 @@ Ma che motivo c'è di distinguere fra diatonico e cromatico? Semplicissimo: il m
 
 Una scala cromatica **non ha una funzione musicale:** parte da una nota e si sposta per intervalli di semitono e basta fino al suo 12 grado, ovvero di un'ottava.
 
-Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un determinato rapporto di intervalli variabili da una successione di toni e semitoni per svolgere una funzione musicale emotiva.** Allegria, sognante, festoso, malinconico, teso, ecc... Questo perché gli intervalli tra il I grado e gli altri gradi formano **l'identità armonica della scala**.
+Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un determinato rapporto di intervalli variabili da una successione di toni e semitoni per svolgere una funzione musicale emotiva:** allegra, sognante, festosa, malinconica, tesa, ecc... Questo perché i deferenti tipi di intervallo tra il I grado e gli altri gradi formano **l'identità armonica della scala**.
 
 [CONTINUA]
