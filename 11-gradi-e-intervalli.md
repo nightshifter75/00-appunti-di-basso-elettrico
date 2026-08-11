@@ -1,6 +1,20 @@
 # 11. Gradi e Intervalli
 
-Nelle tabelle viste nel paragrafo della scala
+Vediamo di nuovo una delle tabelle viste nel paragrafo presente:
+
+Ecco la scala maggiore di C confrontata con la scala cromatica di C.
+```
+┌──────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+│ SCALA E NOTE │  1   │  2   │  3   │  4   │  5   │  6   │  7   │  8   │  9   │  10  │  11  │  12  │  13  │
+├──────────────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│ CROMATICA    │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │
+│ MAGGIORE     │  C   │      │  D   │      │  E   │  F   │      │  G   │      │  A   │      │  B   │  C   │
+├──────────────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│ GRADI        │  I   │      │  II  │      │  III │  IV  │      │  V   │      │  VI  │      │  VII │ VIII │
+└──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+```
+
+Sarebbe il caso di spiegare alcune cose prima di procedere, e una id queste è il concetto di grado e intervallo. E fidatevi, era meglio farlo adesso anziché prima.
 
 Cerchiamo bene di ficcarci in testa questo concetto: **Un grado musicale è la posizione di una nota all'interno di una scala, mentre un intervallo musicale è la distanza di altezza fra due note.** 
 
