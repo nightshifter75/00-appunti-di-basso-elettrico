@@ -19,3 +19,15 @@ Come dite? Non è uscito nessun suono? Certo! Nessuno vi ha detto di suonare!
 <img width="1240" height="1614" src="https://github.com/user-attachments/assets/8fcc1d81-296d-4e77-85a5-225d143ed05a" />
 
 Adesso suonerete ben quattro note! Sempre a tempo di metronomo intorno ai 60-80 bpm, suonate la quarta corda a vuoto per sedici volte, alternando le due dita, poi la terza, poi la seconda e poi la prima e scendete sulla seconda, poi terza e poi quarta. Fatto questo eseguite il tutto a rovescio, suonando la quarta corda, poi la terza, poi la seconda e finite con la prima.
+
+## Stretching Mano Sinistra
+
+<img width="1240" height="663" src="https://github.com/user-attachments/assets/2e7c4bc0-4d8a-4fb4-8913-12c9ab0c9616" />
+
+Dopo aver riscaldato le mani bisogna "stiracchiarle". Eseguite questo esercizio suonando la prima nota (primo tasto seconda corda) con l'indice, la seconda nota con il medio senza staccare l'indice e la terza con il mignolo senza staccare le altre due. Sentirete sicuramente i muscoli che si stano stirando. Tenendo questa posizione suonate anche la quarta nota, a tempo. Alzate le dita (poco!) e ripetete la stessa posizione al secondo tasto per altre due misure, poi al terzo e poi al quarto. Dopo ripetete la stessa cosa ma partendo dal primo tasto prima corda.
+
+## Stretching Mano Destra
+
+<img width="1240" height="1109" src="https://github.com/user-attachments/assets/560d7856-7272-48ef-994a-45722f06a04f" />
+
+Eseguite questo esercizio suonando a tempo le prime 16 note partendo dal primo tasto prima corda con indice, medio, anulare e mignolo della mano sinistra usandoli uno a uno senza staccarli e alternando indice e medio della mano destra. Dopodiché fate scivolare la mano sinistra in modo che l'indice vada sul quinto tasto e procedete allo stesso modo per le altre 16 note. Ripetete la stessa cosa con la seconda e la terza corda.
