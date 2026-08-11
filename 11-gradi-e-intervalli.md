@@ -12,7 +12,7 @@ Nella scala cromatica i 12 gradi formano intervalli di semitono, mentre nella sc
 **Intervallo:**
 - È lo spazio di altezza tra due suoni dati;
 - Si misura in toni e semitoni;
-- Si classifica per ampiezza numerica (seconda, terza, quarta, eccetera) e qualità (maggiore, minore, giusta, eccetera).
+- Si classifica per ampiezza numerica (seconda, terza, quarta, ecc...) e qualità (maggiore, minore, giusta, aumentata, diminuita, ecc...).
 
 **Rapporto fra scale diatoniche e cromatiche:**
 - Scala cromatica: Ha 12 gradi consecutivi. La distanza fissa tra ogni grado adiacente è un semitono (il più piccolo intervallo usato nella musica occidentale);
