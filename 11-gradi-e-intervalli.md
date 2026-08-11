@@ -14,7 +14,7 @@ Ecco la scala maggiore di C confrontata con la scala cromatica di C.
 └──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
 
-Sarebbe il caso di spiegare alcune cose prima di procedere, e una id queste è il concetto di grado e intervallo. E fidatevi, era meglio farlo adesso anziché prima.
+Sarebbe il caso di spiegare alcune cose prima di procedere, e una di queste è il concetto di **grado** e **intervallo**. E fidatevi, è meglio farlo adesso anziché prima.
 
 Cerchiamo bene di ficcarci in testa questo concetto: **Un grado musicale è la posizione di una nota all'interno di una scala, mentre un intervallo musicale è la distanza di altezza fra due note.** 
 
