@@ -1,6 +1,6 @@
 # 8. La Scala Cromatica
 
-Una scala cromatica è una scala musicale composta da tutti e dodici i semitoni del sistema temperato, la cui estensione copre tutti i suoni compresi in un ottava. In pratica la scala cromatica completa non viene quasi mai usata nella sua intera estensione, se non nei casi in cui si intende riprodurre l'effetto di un glissando con strumenti che non possono modulare in maniera continua i suoni (come il pianoforte e tutti gli strumenti a corda). Quindi la scala cromatica è la scala che contiene tutte le altre scale. Parte da una qualsiasi nota e arriva alla stessa nota dalla quale è partita, un'ottava sopra.
+La **Scala Cromatica** è una scala musicale composta **da tutti e dodici i semitoni del sistema temperato**, la cui estensione copre tutti i suoni compresi in un ottava. In pratica la scala cromatica completa non viene quasi mai usata nella sua intera estensione, se non nei casi in cui si intende riprodurre l'effetto di un glissando con strumenti che non possono modulare in maniera continua i suoni (come il pianoforte e tutti gli strumenti a corda). Quindi la scala cromatica è la scala che contiene tutte le altre scale. Parte da una qualsiasi nota e arriva alla stessa nota dalla quale è partita, un'ottava sopra.
 
 <img width="1240" height="298" src="https://github.com/user-attachments/assets/fc3f5019-eb95-42a7-aa54-335c8dae5f77" />
 
