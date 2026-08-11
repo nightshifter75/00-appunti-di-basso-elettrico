@@ -1,5 +1,7 @@
 # 11. Gradi e Intervalli
 
+Nelle tabelle viste nel paragrafo della scala
+
 Cerchiamo bene di ficcarci in testa questo concetto: **Un grado musicale è la posizione di una nota all'interno di una scala, mentre un intervallo musicale è la distanza di altezza fra due note.** 
 
 Nella scala cromatica i 12 gradi formano intervalli di semitono, mentre nella scala diatonica i 7 gradi formano intervalli misti di toni e semitoni.
@@ -15,7 +17,7 @@ Nella scala cromatica i 12 gradi formano intervalli di semitono, mentre nella sc
 - Si classifica per ampiezza numerica (seconda, terza, quarta, ecc...) e qualità (maggiore, minore, giusta, aumentata, diminuita, ecc...).
 
 **Rapporto fra scale diatoniche e cromatiche:**
-- Scala cromatica: Ha 12 gradi consecutivi. La distanza fissa tra ogni grado adiacente è un semitono (il più piccolo intervallo usato nella musica occidentale);
+- Scala cromatica: Ha 12 gradi consecutivi (quindi tredici note contando anche quella di chiusura). La distanza fissa tra ogni grado adiacente è un semitono (il più piccolo intervallo usato nella musica occidentale);
 - Scala diatonica: Ha 7 gradi principali (più l'ottava di chiusura). La distanza tra i gradi adiacenti alterna toni e semitoni in una determinata sequenza (a seconda del tipo di scala diatonica). Gli intervalli tra la tonica (I grado) e gli altri gradi formano l'identità armonica della scala.
 
 Ma che motivo c'è di distinguere fra diatonico e cromatico? Semplicissimo: il motivo è musicale. 
