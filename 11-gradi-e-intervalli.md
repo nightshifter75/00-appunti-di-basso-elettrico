@@ -36,7 +36,7 @@ Nella scala cromatica i 12 gradi formano intervalli di semitono, mentre nella sc
 
 Ma che motivo c'è di distinguere fra diatonico e cromatico? Semplicissimo: il motivo è **musicale**. 
 
-Una scala cromatica **non ha una funzione musicale**. Quindi parte da una nota e si sposta per intervalli di semitono e basta fino al suo 12 grado, ovvero di un'ottava.
+Una scala cromatica **non ha una funzione musicale:** parte da una nota e si sposta per intervalli di semitono e basta fino al suo 12 grado, ovvero di un'ottava.
 
 Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un determinato rapporto di intervalli variabili da una successione di toni e semitoni per svolgere una funzione musicale emotiva.** Allegria, sognante, festoso, malinconico, teso, ecc... 
 
