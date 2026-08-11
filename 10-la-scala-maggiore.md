@@ -39,7 +39,7 @@ E ora una scala cromatica e maggiore di D:
 └──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
 
->**ATTENZIONE!** prima di scandalizzarvi, notando che la sesta nota della scala cromatica (che corrisponde al quarto grado della scala maggiore), si chiama A# e nella scala maggiore si chiama Bb, vorrei tranquillizzarvi dicendo che non è un errore di battitura. 
+>**ATTENZIONE!** prima di scandalizzarvi, notando che la sesta nota della scala cromatica di F si chiama A# e invece il quarto grado della scala maggiore di F (che sono la stessa nota) si chiama Bb, vorrei tranquillizzarvi dicendo che non è un errore di battitura. 
 >
 >C'è una ragione per cui le note enarmoniche si chiamano con il diesis o con il bemolle, e generalmente, come già detto, si usa l'uno o l'altro se stiamo scendendo o salendo. Nel caso della scala cromatica di F si legge in questo modo: F, F#, G, G#, eccetera… Nel caso volessimo leggere le stesse note in direzione discendente partendo dall'ultima nota e arrivando alla prima dovremmo dire F, E, Eb, D, Db, eccetera eccetera.
 >
