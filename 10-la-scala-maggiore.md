@@ -1,3 +1,14 @@
 # 10. La Scala Maggiore
 
-La **Scala Maggiore** è una scala di 8 gradi all'interno della SCALA CROMATICA con i seguenti intervalli: T-T-S-T-T-T-S.
+La **Scala Maggiore** è una scala di 8 **gradi** all'interno della Scala Cromatica con i seguenti intervalli: **T-T-S-T-T-T-S**.
+
+```
+┌──────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+│ SCALA E NOTE │   1  │   2  │   3  │   4  │   5  │   6  │   7  │   8  │   9  │  10  │  11  │  12  │  13  │
+├──────────────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│ CROMATICA    │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │
+│ MAGGIORE     │  C   │      │  D   │      │  E   │      │      │      │      │      │      │      │      │
+├──────────────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│ GRADI        │ I    │      │  II  │      │  III │  IV  │      │  V   │      │  VI  │      │ VII  │ VIII │
+└──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+```
