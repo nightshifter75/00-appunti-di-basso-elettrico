@@ -1,4 +1,4 @@
-# 9. Esercizi per Basso a 5 corde
+# 9. Riscaldamento, Stretching e Scala Cromatica per Basso a 5 corde
 
 Qui trovate gli esercizi visti fino adesso per il basso a 5 corde. Sbizzarritevi.
 
