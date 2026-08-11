@@ -102,3 +102,5 @@ Attenzione ai termini anglosassoni! Sono falsi amici! Se vi capita un libro in i
 - Il bequadro si dice **natural sign**.
 
 Piccola postilla che se non usate il computer per fare musica potete saltare. Nei software musicali la suddivisione delle note si da con numero di quattro cifre detto position suddiviso da punti: **Bar**, **Beat**, **Division**, **Tick**, nel formato ```<bar>.<beat>.<division>.<tick>```. Bar e beat li conosciamo. Per division si intende il denominatore del movimento, mentre il tick è l'unità minima di durata di una nota. Una semibreve dura 3840 tick, una minima ne dura 1920, una semiminima ne dura 960, una croma ne dura 480, una semicroma ne dura 240, una biscroma ne dura 120, una semibiscroma ne dura 60, una fusa 30. Una position 1.1.1.1 vuol dire misura 1 battito 1 division 1 tick 1. Se abbiamo due misure da 4/4 avremo: 1.1.1.1 per l'inizio della misura e 2.4.4.1 per la fine della seconda misura.
+
+<img width="1536" height="1024" src="https://github.com/user-attachments/assets/81b3d601-4811-419e-9ccd-d7e4f50c8f51" />
