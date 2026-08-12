@@ -1,4 +1,4 @@
-# 11. Gradi e Intervalli
+# 11. Gradi, Intervalli e Tonalità
 
 Vediamo di nuovo una delle tabelle viste nel paragrafo presente:
 
@@ -50,27 +50,34 @@ Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un de
 - Se si diminuisce di un semitono un grado giusto diventa **diminuito**;
 - Se si aumenta di un semitono un grado maggiore o giusto si dice **aumentato**.
 
-``
-┌────┬──────────────────────┬─────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
-│ **N.** │ **INTERVALLO**           │ **ST.** │  **C**   │  **C#**  │  **D**   │  *D#*  │  **E**   │  **F**   │  **F#**  │  **G**   │  **G#**  │  **A**   │  **A#**  │  **B**   │
-├────┼──────────────────────┼─────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
-│  1 │ UNISONO              │ (0) │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
-│  2 │ SECONDA MINORE       │ (1) │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │
-│  3 │ SECONDA MAGGIORE     │ (2) │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │
-│  4 │ TERZA   MINORE       │ (3) │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │
-│  5 │ TERZA   MAGGIORE     │ (4) │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │
-│  6 │ QUARTA  GIUSTA       │ (5) │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │
-│  7 │ QUARTA  AUMENTATA**  │ (6) │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │
-│  8 │ QUINTA  GIUSTA       │ (7) │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │
-│  9 │ QUINTA  AUMENTATA*** │ (8) │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │
-│ 10 │ SESTA   MAGGIORE     │ (9) │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │
-│ 11 │ SETTIMA MINORE       │(10) │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │
-│ 12 │ SETTIMA MAGGIORE     │(11) │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │
-│ 13 │ OTTAVA  GIUSTA       │(12) │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
-└────┴─────────────────────┴─────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
-* si può chiamare anche MEDIANA o CARATTERISTICA.
-** si può chiamare anche QUINTA DIMINUITA (6).
-*** si può chiamare anche SESTA MINORE (8).
+```
+┌────┬─────────────────────┬────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+│ N. │ INTERVALLO          │ ST │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+├────┼─────────────────────┼────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│  1 │ UNISONO             │  0 │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+│  2 │ SECONDA MINORE      │  1 │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │
+│  3 │ SECONDA MAGGIORE    │  2 │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │
+│  4 │ TERZA   MINORE      │  3 │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │
+│  5 │ TERZA   MAGGIORE    │  4 │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │
+│  6 │ QUARTA  GIUSTA      │  5 │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │
+│  7 │ QUARTA  AUMENTATA*  │  6 │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │
+│  8 │ QUINTA  GIUSTA      │  7 │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │
+│  9 │ QUINTA  AUMENTATA** │  8 │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │
+│ 10 │ SESTA   MAGGIORE    │  9 │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │
+│ 11 │ SETTIMA MINORE      │ 10 │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │
+│ 12 │ SETTIMA MAGGIORE    │ 11 │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │
+│ 13 │ OTTAVA  GIUSTA      │ 12 │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+└────┴─────────────────────┴────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+* si può chiamare anche QUINTA DIMINUITA (6).
+** si può chiamare anche SESTA MINORE (8).
 ```
 
-Come si legge questa tabella? 
+Come si legge questa tabella?
+
+Si parte dall'intestazione e si prende una colonna, ad esempio la colonna D.
+La linea numero 3 rappresenta tutti gli intervalli di SECONDA MAGGIORE che hanno una distanza di 2 semitoni (colonna ST) dalla nota di partenza. 
+Quindi D e E sono un intervallo di SECONDA MAGGIORE.
+
+Una volta chiaro il concetto **La tonalità è il centro tonale di un pezzo musicale.** 
+
+A partire dalle note della scala tonale si possono costruire accompagnamenti e melodie che risultano in chiave con una certa tonalità. Una tonalità  si stabilisce con la tonica e con gli intervalli della scala. Se partiamo dal C e procediamo con gli intervalli T T S T T T S avremo C D E F G A B C e quindi una scala di C MAGGIORE. Da notare (come illustrato nella tabella dei gradi e degli intervalli) che le note C D E F G A B C corrispondono ai gradi tonica, sopratonica, modale, sottodominante, dominante, sopraddominante, sensibile e tonica. Analogamente per costruire una scala di D MAGGIORE si procede partendo da D, si stabiliscono i gradi attraverso gli intervalli e si ricavano le otto note della scala. Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi della scala maggiore possiamo, con la tabella che segue, ricavare tutte e tredici le tonalità:
