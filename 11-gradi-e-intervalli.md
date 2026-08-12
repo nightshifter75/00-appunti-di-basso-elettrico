@@ -40,4 +40,37 @@ Una scala cromatica **non ha una funzione musicale:** parte da una nota e si spo
 
 Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un determinato rapporto di intervalli variabili da una successione di toni e semitoni per svolgere una funzione musicale emotiva:** allegra, sognante, festosa, malinconica, tesa, ecc... Questo perché i deferenti tipi di intervallo tra il I grado e gli altri gradi formano **l'identità armonica della scala**.
 
-[CONTINUA]
+**Quindi:**
+- Ogni **nota** all'interno di una scala si identifica con un **grado** e con un **intervallo**;
+- Negli intervalli il numero fra parentesi è la distanza in semitoni dalla prima nota;
+- I nomi degli intervalli possono cambiare a seconda di come si calcola la distanza;
+- La parte **ordinale** del nome (**seconda**, **terza**, **quarta**, **quinta**, **sesta** e **settima**) corrisponde alla nota;
+- La parte della qualità armonica (**maggiore** o **giusta**) serve per classificare i gradi;
+- Se si diminuisce di un semitono un grado maggiore si ha uno **minore**;
+- Se si diminuisce di un semitono un grado giusto diventa **diminuito**;
+- Se si aumenta di un semitono un grado maggiore o giusto si dice **aumentato**.
+
+```
+┌────┬─────────────────────┬──────────────────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+│ N. │ GRADO               │ INTERVALLO               │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+├────┼─────────────────────┼──────────────────────────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│  1 │ TONICA (I)          │ UNISONO              (0) │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+│  2 │                     │ SECONDA MINORE       (1) │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │
+│  3 │ SOPRATONICA (II)    │ SECONDA MAGGIORE     (2) │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │
+│  4 │                     │ TERZA   MINORE       (3) │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │
+│  5 │ MODALE (III)*       │ TERZA   MAGGIORE     (4) │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │
+│  6 │ SOTTODOMINANTE (IV) │ QUARTA  GIUSTA       (5) │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │
+│  7 │                     │ QUARTA  AUMENTATA**  (6) │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │
+│  8 │ DOMINANTE (V)       │ QUINTA  GIUSTA       (7) │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │
+│  9 │                     │ QUINTA  AUMENTATA*** (8) │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │
+│ 10 │ SOPRADOMINANTE (VI) │ SESTA   MAGGIORE     (9) │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │
+│ 11 │                     │ SETTIMA MINORE      (10) │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │
+│ 12 │ SENSIBILE (VII)     │ SETTIMA MAGGIORE    (11) │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │
+│ 13 │ TONICA (VIII)       │ OTTAVA  GIUSTA      (12) │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+└────┴─────────────────────┴──────────────────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+* si può chiamare anche MEDIANA o CARATTERISTICA.
+** si può chiamare anche QUINTA DIMINUITA (6).
+*** si può chiamare anche SESTA MINORE (8).
+```
+
+Come si legge questa tabella? 
