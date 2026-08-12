@@ -14,11 +14,11 @@ Ecco la scala maggiore di C confrontata con la scala cromatica di C.
 └──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
 
-Sarebbe il caso di spiegare alcune cose prima di procedere, e una di queste è il concetto di **grado** e **intervallo**. E fidatevi, è meglio farlo adesso anziché prima.
+Sarebbe il caso di spiegare alcune cose prima di procedere, e una di queste è il concetto di **grado** e **intervallo**. E fidatevi, è meglio farlo adesso.
 
 Cerchiamo bene di ficcarci in testa questo concetto: **Un grado musicale è la posizione di una nota all'interno di una scala, mentre un intervallo musicale è la distanza di altezza fra due note.** 
 
-Nella scala cromatica i 12 gradi formano intervalli di semitono, mentre nella scala diatonica i 7 gradi formano intervalli misti di toni e semitoni.
+Nella scala cromatica tutte e 12 le note hanno lo stesso intervallo di un semitono, mentre nella scala diatonica i 7 gradi hanno intervalli misti di toni e semitoni.
 
 **Grado:**
 - È la posizione fissa della nota nella scala;
@@ -31,17 +31,17 @@ Nella scala cromatica i 12 gradi formano intervalli di semitono, mentre nella sc
 - Si classifica per ampiezza numerica (seconda, terza, quarta, ecc...) e qualità (maggiore, minore, giusta, aumentata, diminuita, ecc...).
 
 **Rapporto fra scale diatoniche e cromatiche:**
-- Scala cromatica: Ha 12 gradi consecutivi (quindi tredici note contando anche quella di chiusura). La distanza fissa tra ogni grado adiacente è un semitono (il più piccolo intervallo usato nella musica occidentale);
+- La scala cromatica ha 12 note consecutive (tredici  contando anche quella di chiusura). La distanza fissa tra ogni grado adiacente è un semitono (il più piccolo intervallo usato nella musica occidentale);
 - Scala diatonica: Ha 7 gradi principali (più l'ottava di chiusura). La distanza tra i gradi adiacenti alterna toni e semitoni in una determinata sequenza (a seconda del tipo di scala diatonica).
 
 Ma che motivo c'è di distinguere fra diatonico e cromatico? Semplicissimo: il motivo è **musicale**. 
 
-Una scala cromatica **non ha una funzione musicale:** parte da una nota e si sposta per intervalli di semitono e basta fino al suo 12 grado, ovvero di un'ottava.
+Una scala cromatica **non ha una funzione musicale:** parte da una nota e si sposta per intervalli di semitono e basta fino all'ottava.
 
 Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un determinato rapporto di intervalli variabili da una successione di toni e semitoni per svolgere una funzione musicale emotiva:** allegra, sognante, festosa, malinconica, tesa, ecc... Questo perché i deferenti tipi di intervallo tra il I grado e gli altri gradi formano **l'identità armonica della scala**.
 
 **Quindi:**
-- Ogni **nota** all'interno di una scala si identifica con un **grado** e con un **intervallo**;
+- Ogni **nota** all'interno di una scala diatonica si identifica con un **grado** e con un **intervallo**;
 - Negli intervalli il numero fra parentesi è la distanza in semitoni dalla prima nota;
 - I nomi degli intervalli possono cambiare a seconda di come si calcola la distanza;
 - La parte **ordinale** del nome (**seconda**, **terza**, **quarta**, **quinta**, **sesta** e **settima**) corrisponde alla nota;
@@ -51,32 +51,33 @@ Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un de
 - Se si aumenta di un semitono un grado maggiore o giusto si dice **aumentato**.
 
 ```
-┌────┬─────────────────────┬────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
-│ N. │ INTERVALLO          │ ST │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
-├────┼─────────────────────┼────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
-│  1 │ UNISONO             │  0 │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
-│  2 │ SECONDA MINORE      │  1 │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │
-│  3 │ SECONDA MAGGIORE    │  2 │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │
-│  4 │ TERZA   MINORE      │  3 │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │
-│  5 │ TERZA   MAGGIORE    │  4 │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │
-│  6 │ QUARTA  GIUSTA      │  5 │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │
-│  7 │ QUARTA  AUMENTATA*  │  6 │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │
-│  8 │ QUINTA  GIUSTA      │  7 │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │
-│  9 │ QUINTA  AUMENTATA** │  8 │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │
-│ 10 │ SESTA   MAGGIORE    │  9 │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │
-│ 11 │ SETTIMA MINORE      │ 10 │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │
-│ 12 │ SETTIMA MAGGIORE    │ 11 │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │
-│ 13 │ OTTAVA  GIUSTA      │ 12 │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
-└────┴─────────────────────┴────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
-* si può chiamare anche QUINTA DIMINUITA (6).
-** si può chiamare anche SESTA MINORE (8).
+┌────┬─────────────────────┬──────────────────────┬────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+│ N. │ GRADO               │ INTERVALLO           │ ST │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+├────┼─────────────────────┼──────────────────────┼────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│  1 │ TONICA (I)          │ UNISONO              │  0 │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+│  2 │                     │ SECONDA MINORE       │  1 │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │
+│  3 │ SOPRATONICA (II)    │ SECONDA MAGGIORE     │  2 │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │
+│  4 │                     │ TERZA   MINORE       │  3 │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │
+│  5 │ MODALE (III)*       │ TERZA   MAGGIORE     │  4 │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │
+│  6 │ SOTTODOMINANTE (IV) │ QUARTA  GIUSTA       │  5 │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │
+│  7 │                     │ QUARTA  AUMENTATA**  │  6 │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │
+│  8 │ DOMINANTE (V)       │ QUINTA  GIUSTA       │  7 │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │
+│  9 │                     │ QUINTA  AUMENTATA*** │  8 │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │
+│ 10 │ SOPRADOMINANTE (VI) │ SESTA   MAGGIORE     │  9 │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │
+│ 11 │                     │ SETTIMA MINORE       │ 10 │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │
+│ 12 │ SENSIBILE (VII)     │ SETTIMA MAGGIORE     │ 11 │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │
+│ 13 │ TONICA (VIII)       │ OTTAVA  GIUSTA       │ 12 │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+└────┴─────────────────────┴──────────────────────┴────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+* si può chiamare anche MEDIANA o CARATTERISTICA.
+** si può chiamare anche QUINTA DIMINUITA.
+*** si può chiamare anche SESTA MINORE.
 ```
 
 Come si legge questa tabella?
 
 Si parte dall'intestazione e si prende una colonna, ad esempio la colonna D.
 La linea numero 3 rappresenta tutti gli intervalli di SECONDA MAGGIORE che hanno una distanza di 2 semitoni (colonna ST) dalla nota di partenza. 
-Quindi D e E sono un intervallo di SECONDA MAGGIORE.
+Quindi D e E sono un intervallo di SECONDA MAGGIORE e E è la SOPRATONICA di D.
 
 Una volta chiaro il concetto **La tonalità è il centro tonale di un pezzo musicale.** 
 
