@@ -17,10 +17,10 @@ Infine desidero ringraziare i miei insegnanti più fidati: Stefano Cesare, Bruno
 Nella stesura di questi appunti verranno utilizzate questi tipi di evidenziazioni:
 
 > [!NOTE]
-> Questo è una nota evidenziata in blu.
+> Qui ci sono dei consigli utili (con il colore blu)
 
 > [!TIP]
-> Questo è un consiglio utile in verde.
+> Questa è una dritta! (con il colore verde)
 
 > [!WARNING]
-> Questo è un avvertimento in giallo.
+> Questo è un avvertimento! (con il colore giallo)
