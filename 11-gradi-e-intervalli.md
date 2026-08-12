@@ -79,6 +79,29 @@ Si parte dall'intestazione e si prende una colonna, ad esempio la colonna D.
 La linea numero 3 rappresenta tutti gli intervalli di SECONDA MAGGIORE che hanno una distanza di 2 semitoni (colonna ST) dalla nota di partenza. 
 Quindi D e E sono un intervallo di SECONDA MAGGIORE e E è la SOPRATONICA di D.
 
-Una volta chiaro il concetto **La tonalità è il centro tonale di un pezzo musicale.** 
+Una volta chiaro il concetto di intervallo, il concetto di grado si spiega con il concetto di **tonalità**.
 
-A partire dalle note della scala tonale si possono costruire accompagnamenti e melodie che risultano in chiave con una certa tonalità. Una tonalità  si stabilisce con la tonica e con gli intervalli della scala. Se partiamo dal C e procediamo con gli intervalli T T S T T T S avremo C D E F G A B C e quindi una scala di C MAGGIORE. Da notare (come illustrato nella tabella dei gradi e degli intervalli) che le note C D E F G A B C corrispondono ai gradi tonica, sopratonica, modale, sottodominante, dominante, sopraddominante, sensibile e tonica. Analogamente per costruire una scala di D MAGGIORE si procede partendo da D, si stabiliscono i gradi attraverso gli intervalli e si ricavano le otto note della scala. Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi della scala maggiore possiamo, con la tabella che segue, ricavare tutte e tredici le tonalità:
+**La tonalità è il centro tonale di un pezzo musicale.**, che significa che a partire da una certa nota, si possono costruire accompagnamenti e melodie che risultano in *chiave* con una certa tonalità.
+
+Una tonalità  si stabilisce con la tonica e con gli intervalli della scala. Se partiamo dal C e procediamo con gli intervalli T T S T T T S avremo C D E F G A B C e quindi una scala di C MAGGIORE. Da notare (come illustrato nella tabella dei gradi e degli intervalli) che le note C D E F G A B C corrispondono ai gradi tonica, sopratonica, modale, sottodominante, dominante, sopraddominante, sensibile e tonica. Analogamente per costruire una scala di D MAGGIORE si procede partendo da D, si stabiliscono i gradi attraverso gli intervalli e si ricavano le otto note della scala. 
+
+Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi della scala maggiore possiamo, con la tabella che segue, ricavare tutte e tredici le tonalità:
+
+┌────┬─────────────────────┬──────────────────────┬────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+│ N. │ GRADO               │ INTERVALLO           │ ST │  C   │  C#  │  D   │  Eb  │  E   │  F   │  F#  │  Gb  │  G   │  Ab  │  A   │  Bb  │  B   │
+├────┼─────────────────────┼──────────────────────┼────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│  1 │ TONICA (I)          │ UNISONO              │  0 │  C   │  C#  │  D   │  Eb  │  E   │  F   │  F#  │  Gb  │  G   │  Ab  │  A   │  Bb  │  B   │
+│  3 │ SOPRATONICA (II)    │ SECONDA MAGGIORE     │  2 │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  Ab  │  A   │  Bc  │  B   │  C   │  C#  │
+│  5 │ MODALE (III)*       │ TERZA   MAGGIORE     │  4 │  E   │  E#  │  F#  │  G   │  G#  │  A   │  A#  │  Bb  │  B   │  C   │  C#  │  D   │  D#  │
+│  6 │ SOTTODOMINANTE (IV) │ QUARTA  GIUSTA       │  5 │  F   │  F#  │  G   │  Ab  │  A   │  Bb  │  B   │  Cb  │  C   │  Db  │  D   │  Eb  │  E   │
+│  8 │ DOMINANTE (V)       │ QUINTA  GIUSTA       │  7 │  G   │  G#  │  A   │  Bb  │  B   │  C   │  C#  │  Db  │  D   │  Eb  │  E   │  F   │  F#  │
+│ 10 │ SOPRADOMINANTE (VI) │ SESTA   MAGGIORE     │  9 │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  Eb  │  E   │  F   │  F#  │  G   │  G#  │
+│ 12 │ SENSIBILE (VII)     │ SETTIMA MAGGIORE     │ 11 │  B   │  B#  │  C#  │  D   │  D#  │  E   │  E#  │  F   │  F#  │  G   │  G#  │  A   │  A#  │
+└────┴─────────────────────┴──────────────────────┴────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+
+Di nuovo, il fatto che alcune tonalità siano indicate con i diesis e alcune con i bemolli non è casuale: ogni scala infatti si ricava con tutti i nomi delle note armoniche e con gli accidenti. 
+
+Esempio: le tonalità di D#, G# e A# si indicano con il secondo nome enarmonico Eb, Ab e Bb. Questo perché se consideriamo le note della scala con i diesis ci sarebbero troppe alterazioni in chiave e una scrittura troppo complessa. 
+
+
+
