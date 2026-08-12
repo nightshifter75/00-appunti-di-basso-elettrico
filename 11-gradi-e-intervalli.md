@@ -87,6 +87,7 @@ Una tonalità  si stabilisce con la tonica e con gli intervalli della scala. Se 
 
 Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi della scala maggiore possiamo, con la tabella che segue, ricavare tutte e tredici le tonalità:
 
+```
 ┌────┬─────────────────────┬──────────────────────┬────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
 │ N. │ GRADO               │ INTERVALLO           │ ST │  C   │  C#  │  D   │  Eb  │  E   │  F   │  F#  │  Gb  │  G   │  Ab  │  A   │  Bb  │  B   │
 ├────┼─────────────────────┼──────────────────────┼────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
@@ -98,6 +99,7 @@ Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi
 │ 10 │ SOPRADOMINANTE (VI) │ SESTA   MAGGIORE     │  9 │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  Eb  │  E   │  F   │  F#  │  G   │  G#  │
 │ 12 │ SENSIBILE (VII)     │ SETTIMA MAGGIORE     │ 11 │  B   │  B#  │  C#  │  D   │  D#  │  E   │  E#  │  F   │  F#  │  G   │  G#  │  A   │  A#  │
 └────┴─────────────────────┴──────────────────────┴────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+```
 
 Di nuovo, il fatto che alcune tonalità siano indicate con i diesis e alcune con i bemolli non è casuale: ogni scala infatti si ricava con tutti i nomi delle note armoniche e con gli accidenti. 
 
