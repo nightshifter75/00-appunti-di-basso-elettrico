@@ -14,7 +14,9 @@ Ecco la scala maggiore di C confrontata con la scala cromatica di C.
 └──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
 
-Le altre tonalità si trovano partendo da qualsiasi nota e rispettando gli intervalli T-T-S-T-T-T-S. L'esempio sotto rappresenta la scala cromatica e maggiore di F.
+Le altre scale maggiori si trovano partendo da qualsiasi nota e rispettando gli intervalli T-T-S-T-T-T-S.
+
+Qui di seguito la scala cromatica e maggiore di F.
 
 ```
 ┌──────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
@@ -26,7 +28,7 @@ Le altre tonalità si trovano partendo da qualsiasi nota e rispettando gli inter
 │ GRADI        │  I   │      │  II  │      │  III │  IV  │      │  V   │      │  VI  │      │  VII │ VIII │
 └──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
-E ora una scala cromatica e maggiore di D:
+E ora la scala cromatica e maggiore di D:
 
 ```
 ┌──────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
