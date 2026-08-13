@@ -20,7 +20,7 @@ Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. 
 > [!TIP]
 > **Ascoltate un sacco di musica.** Se potete andate anche a sentirla dal vivo. È un ottimo esercizio, oltre che un piacere.
 
-> [!NOTE]
+> [!TIP]
 > **Esercitatevi sempre con il metronomo e possibilmente davanti a uno specchio.** Non abbiate fretta di suonare come Speedy Gonzales ma andate a velocità graduali, studiate le parti punto per punto finché non siete sicuri e cercate di esercitarvi in maniera costante, magari pochi minuti, ma a cadenza regolare, meglio se tutti i giorni. Non esistono esercizi scorciatoia e mi sento di ripetervi anche l'ultimissimo consiglio che tutti mi hanno dato: le mani devono muoversi con parsimonia, cercate sempre delle posizioni comode e sulle quali non dovete sollevare troppo le dita o spostare troppo la mano. La tecnica ci deve essere ma è solo un ingrediente che serve per essere un bravo musicista.
 
 Personalmente, nel tentativo di migliorare come musicista, oltre alle lezioni e allo studio, ho ovviamente profuso il massimo impegno possibile nella pratica. Per ovviare a tutti gli inconvenienti che la pratica porta, ho trovato un paio di software parecchio utili. Questi software sono disponibili per qualsiasi aggeggio abbiate come computer, tablet o smartphone.
