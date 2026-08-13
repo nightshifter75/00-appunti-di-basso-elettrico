@@ -5,7 +5,7 @@
 
 <p align="justify">Non sono un musicista, ho solamente una grande passione per questo strumento, perché per me rappresenta il cuore pulsante della musica. Un favoloso intreccio fra ritmo e armonia.</p>
 
-<p align="justify">Quando ero adolescente, la passione per la musica era una cosa piuttosto comune fra i miei coetanei. Non solo ascoltarla, ma anche suonarla: qualcuno suonava la chitarra elettrica, qualcuno la tastiera e altri ancora la batteria. Alcuni di noi suonavano a scuola, altri ancora suonavano insieme a fratelli o sorelle più grandi, altri con amici, ecc… Era naturale quindi voler formare dei piccoli complessi musicali. **Quasi nessuno però conosceva il basso elettrico.** Chi lo conosceva probabilmente non aveva capito bene cosa fosse, perché lo considerava uno *strumento di serie B.*</p>
+<p align="justify">Quando ero adolescente, la passione per la musica era una cosa piuttosto comune fra i miei coetanei. Non solo ascoltarla, ma anche suonarla: qualcuno suonava la chitarra elettrica, qualcuno la tastiera e altri ancora la batteria. Alcuni di noi suonavano a scuola, altri ancora suonavano insieme a fratelli o sorelle più grandi, altri con amici, ecc… Era naturale quindi voler formare dei piccoli complessi musicali. <b>Quasi nessuno però conosceva il basso elettrico.</b> Chi lo conosceva probabilmente non aveva capito bene cosa fosse, perché lo considerava uno <i>strumento di serie B.</i></p>
   
 <p align="justify">A chiunque chiedessi cosa fosse o cosa ne pensasse rispondeva con cose tipo:</p>
 - "Tutto sommato se ne può fare a meno". 
