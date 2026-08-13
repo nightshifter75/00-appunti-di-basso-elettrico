@@ -6,6 +6,8 @@ Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. 
 > **Cercate un bravo insegnante (privato o presso una scuola) e, se potete, tenetevelo.**
 <p align="justify">Non pensate che sia una persona perfetta e non pensate che l'insegnamento sia un rapporto a senso unico fra maestro e allievo. Non pensate che una persona sia per forza disonesta: se non avete una buona sintonia probabilmente non sarete neanche disposti a imparare. Se la persona che vi sta di fronte è sufficentemente onesta sarà lui (o lei) a cercare di indirizzare i suoi e i vostri sforzi affinché il rapporto allievo e maestro porti da qualche parte. Non pensate che il rapporto che avete sia una questione di soldi: non si insegna per soldi (o almeno non solo per quelli). La ricerca dell'insegnante giusto non è impossibile, anche se a volte può essere molto difficile.</p>
 
+![Rapporto Allievo Maestro](img/rapporto-allievo-maestro.png)
+
 > [!WARNING]
 > **Un libro, un CD, un video corso non vi insegneranno a suonare uno strumento.**
 <p align="justify">Ci vogliono anni di studio, diversi libri su diversi argomenti, anni di pratica e di confronto con insegnanti e altri musicisti esperti.</p>
