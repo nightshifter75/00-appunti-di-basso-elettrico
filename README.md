@@ -7,10 +7,7 @@
 
 <p align="justify">Quando ero adolescente, la passione per la musica era una cosa piuttosto comune fra i miei coetanei. Non solo ascoltarla, ma anche suonarla: qualcuno suonava la chitarra elettrica, qualcuno la tastiera e altri ancora la batteria. Alcuni di noi suonavano a scuola, altri ancora suonavano insieme a fratelli o sorelle più grandi, altri con amici, ecc… Era naturale quindi voler formare dei piccoli complessi musicali. <b>Quasi nessuno però conosceva il basso elettrico.</b> Chi lo conosceva probabilmente non aveva capito bene cosa fosse, perché lo considerava uno <i>strumento di serie B.</i></p>
   
-<p align="justify">A chiunque chiedessi cosa fosse o cosa ne pensasse rispondeva con cose tipo:</p>
-- "Tutto sommato se ne può fare a meno". 
-- "Diciamocelo, a che serve?".
-- "Fa solo una nota per volta!".
+<p align="justify">A chiunque chiedessi cosa fosse o cosa ne pensasse rispondeva con cose tipo:</p><ul><li>"Tutto sommato se ne può fare a meno".</li><li>"Diciamocelo, a che serve?".</li><li>"Fa solo una nota per volta!".</li></ul>
 
 <p align="justify">C'era molta diffidenza e scetticismo a riguardo. A quei tempi tutti volevano cantare o suonare. Tutti volevano essere una rock star! Suonare il basso elettrico, "facendo una sola nota per volta", non era considerata la strada giusta. Nessuno voleva sacrificarsi e di conseguenza non si trovavano bassisti. I giovani chitarristi, al contrario, pensavano di essere un gradino sopra tutti gli altri, soprattutto rispetto ai bassisti. Il cantante era generalmente il leader, per ovvi motivi, ma suonare la chitarra elettrica dava una certa importanza. Anche la chitarra classica da cento mila lire era uno strumento ben considerato: si poteva portarla al parco, a casa di amici, in spiaggia e suonare le canzoni di Battisti. Quindi saper fare pochi semplici accordi e avere una voce mediamente intonata dava l'opportunità di avere fama e gloria fra la gente del quartiere. Il bassista mica lo poteva fare. Il batterista nemmeno. Chi non suonava la chitarra era un perdente, soprattutto i bassisti, perché suonavano una "chitarra che non è una chitarra".</p>
 
