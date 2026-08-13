@@ -12,8 +12,6 @@ Di seguito la lista dei libri dei quali mi servo tuttora:
 
 Questa bibliografia crescerà nel tempo.
 
-Infine desidero ringraziare i miei insegnanti più fidati: Stefano Cesare, Bruno Zoia e Andrea Leprotti. Loro sono ottimi insegnanti, io probabilmente un pessimo studente.
-
 ## Legenda
 Nella stesura di questi appunti verranno utilizzate questi tipi di evidenziazioni:
 
