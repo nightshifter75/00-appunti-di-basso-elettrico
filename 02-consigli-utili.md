@@ -30,6 +30,8 @@ Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. 
 > **Le scuole di musica generalmente offrono ore di studio teorico con ore di tecnica e un laboratorio di musica di insieme.**
 <p align="justify">Prendete in considerazione questa possibilità, frequentare un luogo dove ci sono insegnanti, allievi, musicisti, ore di laboratorio e dove si svolgono saggi di fine anno è un buon posto per poter risolvere problemi come suonare dal vivo, registrare una demo, e altri legati al mondo di chi suona la musica davvero.</p>
 
+![Scuola di Musica](img/scuola-di-musica.png)
+
 > [!TIP]
 > **Ascoltate un sacco di musica.**
 <p align="justify">Se potete andate anche a sentirla dal vivo. È un ottimo esercizio, oltre che un piacere.</p>
