@@ -12,6 +12,8 @@ Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. 
 > **Un libro, un CD, un video corso non vi insegneranno a suonare uno strumento.**
 <p align="justify">Ci vogliono anni di studio, diversi libri su diversi argomenti, anni di pratica e di confronto con insegnanti e altri musicisti esperti.</p>
 
+![Un Libro Un CD Un Video Corso](img/un-libro-un-cd-un-video-corso.png)
+
 > [!TIP]
 > **Bisogna confrontarsi e conoscere persone, accettare sempre consigli e suonare il più possibile.**
 <p align="justify">Parlate con chi già suona, chiedete consigli. Per esempio se mentre suonate vi fa male la mano, è possibile che ci sia qualcosa che non va.</p>
