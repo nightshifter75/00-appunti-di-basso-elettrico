@@ -12,7 +12,7 @@ Il **pentagramma** è la notazione musicale per eccellenza, valida per tutti gli
 
 Questo che segue è un pentagramma. Viene usato per scrivere le note suonate da uno strumento con una registro come archi e fiati. Le note che vedete sono C4, D4, E4, F4, G4, A4 e B4. Il simbolo in fondo a forma di "f" rappresenta una pausa.
 
-<img width="537" height="68" src="https://github.com/user-attachments/assets/bd7c7d5e-af39-45f5-a28a-41806f3470db" />
+![Pentagramma](img/pentagramma.png)
 
 Quest'altro invece è un **doppio pentagramma**, l'unione di due pentagrammi uniti con una parentesi graffa. Viene usato per scrivere le note suonate da strumenti con un registro esteso come pianoforte e arpa. Le note sul pentagramma più in basso sono C3, D3, E3, F3, G3, A3 e B3 e le altre sono sempre C4, D4, E4, F4, G4, A4 e B4. Attenzione: non va suonata prima la riga sopra e poi quella sotto! Bisogna suonare C3 e C4 insieme, D3 e D4 insieme, ecc…
 
