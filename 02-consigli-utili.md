@@ -24,6 +24,8 @@ Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. 
 > **Registratevi mentre suonate e riascoltatevi, fate ascoltare a qualcuno più esperto di voi il vostro operato.**
 <p align="justify">A volte ci vogliono 5 minuti per migliorare tantissimo. Altre cose invece si migliorano con la pratica e con lo studio. Non è mai facile.</p>
 
+![Registratevi mentre Suonate](img/registratevi-mentre-suonate.png)
+
 > [!NOTE]
 > **Le scuole di musica generalmente offrono ore di studio teorico con ore di tecnica e un laboratorio di musica di insieme.**
 <p align="justify">Prendete in considerazione questa possibilità, frequentare un luogo dove ci sono insegnanti, allievi, musicisti, ore di laboratorio e dove si svolgono saggi di fine anno è un buon posto per poter risolvere problemi come suonare dal vivo, registrare una demo, e altri legati al mondo di chi suona la musica davvero.</p>
