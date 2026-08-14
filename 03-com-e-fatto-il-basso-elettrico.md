@@ -15,3 +15,5 @@ Quindi a chi non ha ancora capito a che cosa servite quando suonate il basso, ec
 Semplice no?
 
 ![Il Basso Elettrico](img/il-basso-elettrico.png)
+![Parti del Basso Elettrico](img/parti-del-basso-elettrico.png)
+![Suonare il Basso Elettrico](img/suonare-il-basso-elettrico.png)
