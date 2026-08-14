@@ -26,11 +26,11 @@
 
 <p align="justify">Come si può vedere, ci sono due scale che vanno da C a B: quella che parte da C3 e quella che parte da C4. Però le note sono posizionate in maniera diversa. C4 è sotto il primo rigo della chiave di violino e C3 è nel secondo spazio nella chiave di basso. Dite la verità, speravate che le note fossero nello stesso posto anche in chiavi diverse, vero?</p>
 
-<p align="justify">Se una nota è più alta o più bassa di quelle rappresentabili sul rigo si usano dei tagli addizionali. Il DO centrale (C4) è il taglio addizionale in alto sulla chiave di basso e in basso su quella di violino. Nelle due figure sopra potete vedere che la prima nota è un C4 e infatti la testa "tagliata" in due da una piccola linea. Se il pentagramma non ci basta possiamo usare ulteriori tagli addizionali. Guardate qui:</p>
+<p align="justify">Se una nota è più alta o più bassa di quelle rappresentabili sul rigo si usano dei tagli addizionali. Il C4 è il taglio addizionale in alto sulla chiave di basso e in basso su quella di violino. Nelle due figure sopra potete vedere che la prima nota è un C4 e infatti la testa "tagliata" in due da una piccola linea. Se il pentagramma non ci basta possiamo usare ulteriori tagli addizionali. Guardate qui:</p>
 
 <img width="583" height="355" src="https://github.com/user-attachments/assets/2675c1a9-65db-48cb-8e5e-ed1696e0e425" />
 
-<p align="justify">Questa figura mostra la posizione (rispetto a ogni chiave) di tutti i DO di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili.</p>
+<p align="justify">Questa figura mostra la posizione (rispetto a ogni chiave) di tutti i C di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili.</p>
   
 <p align="justify">E adesso un'altra:</p>
 
