@@ -24,7 +24,7 @@
 
 <p align="justify"><i>La mano destra deve essere rilassata. Per usare il plettro è sufficiente impugnarlo fra pollice e indice e pizzicare con la punta le corde dall'alto in basso e dal basso in alto. Se invece si usano le dita bisogna sempre alternare indice e medio, poggiando il pollice sul magnete. Quando si suonano le corde acute il pollice può poggiare su quelle più gravi. Il pollice della mano sinistra deve essere leggermente piegato e appoggiato sul manico. Le mano forma un arco e le dita si posizionano a martello. Non devono essere troppo sollevate rispetto alle corde. La mano sinistra si sposta da sinistra verso destra per suonare le note più acute e viceversa. Ogni posizione della mano comprende quattro tasti che corrispondono alle quattro dita indice, medio, anulare e mignolo. Nella parte dove le note sono più gravi i tasti sono più larghi e a volte si può usare la cosiddetta <b>mezza posizione</b> dove le quattro dita coprono non quattro tasti ma tre.</i></p>
 
-![La Mano Destra nel Basso Elettrico](img/la-mano-destra-nel-basso-elettrico.png)
+![La Mano Destra e La Mano Sinistra](img/la-mano-destra-e-la-mano-sinistra.png)
 
 Semplice no?
 
