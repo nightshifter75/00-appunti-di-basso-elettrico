@@ -1,4 +1,4 @@
-## 2. Consigli utili
+# 2. Consigli utili
 
 Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. Lasciate che vi dica due parole sullo studio di uno strumento: 
 
