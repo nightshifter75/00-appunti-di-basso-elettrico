@@ -27,4 +27,3 @@
 ![La Mano Destra e La Mano Sinistra](img/la-mano-destra-e-la-mano-sinistra.png)
 
 Semplice no?
-
