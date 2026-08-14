@@ -13,3 +13,5 @@ Quindi a chi non ha ancora capito a che cosa servite quando suonate il basso, ec
 >Il basso elettrico va suonato da seduti poggiandolo sulle gambe contro l'addome oppure si può suonare in piedi con l'ausilio di una tracolla che viene fissata sui due bottoni presenti vicino al ponte e sopra il manico. Per suonare una nota si schiaccia la corda contro il tasto con le dita della mano sinistra, nella posizione in cui la corda produce la nota voluta (oppure non si tocca nessuna corda con la mano sinistra) e poi si "pizzica" la stessa corda con la mano destra, con le dita o con il plettro all'altezza del battipenna. I magneti al centro del corpo catturano la vibrazione creata dalla corda e l'amplificatore produce il suono.
 
 Semplice no?
+
+![Il Basso Elettrico](img/il-basso-elettrico.png)
