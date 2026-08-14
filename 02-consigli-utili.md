@@ -18,6 +18,8 @@ Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. 
 > **Bisogna confrontarsi e conoscere persone, accettare sempre consigli e suonare il più possibile.**
 <p align="justify">Parlate con chi già suona, chiedete consigli. Per esempio se mentre suonate vi fa male la mano, è possibile che ci sia qualcosa che non va.</p>
 
+![Confrontarsi e Conoscere Persone](img/confrontarsi-e-conoscere-persone.png)
+
 > [!TIP]
 > **Registratevi mentre suonate e riascoltatevi, fate ascoltare a qualcuno più esperto di voi il vostro operato.**
 <p align="justify">A volte ci vogliono 5 minuti per migliorare tantissimo. Altre cose invece si migliorano con la pratica e con lo studio. Non è mai facile.</p>
