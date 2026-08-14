@@ -30,7 +30,9 @@
 
 <img width="583" height="355" src="https://github.com/user-attachments/assets/2675c1a9-65db-48cb-8e5e-ed1696e0e425" />
 
-<p align="justify">Questa figura mostra la posizione (rispetto a ogni chiave) di tutti i DO di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili. E adesso un'altra:
+<p align="justify">Questa figura mostra la posizione (rispetto a ogni chiave) di tutti i DO di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili.</p>
+  
+<p align="justify">E adesso un'altra:</p>
 
 <img width="1371" height="502" src="https://github.com/user-attachments/assets/f5ddc69f-148f-4f18-80fe-cd8377c06084" />
 
