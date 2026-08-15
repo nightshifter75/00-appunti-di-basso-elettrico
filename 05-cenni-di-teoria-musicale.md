@@ -10,7 +10,7 @@
 
 <p align="justify">Il <b>pentagramma</b> è la notazione musicale per eccellenza, valida per tutti gli strumenti musicali come ad esempio la voce. Si tratta di cinque linee chiamate <b>righi</b> (non righe, righi) separati da quattro <b>spazi</b>. Una nota viene rappresentata con una testa, un gambo e una o più code che ne determinano la durata. L'altezza della nota è invece determinata dal rigo o spazio sul quale poggia. L'altezza può essere modificata dagli accidenti e quindi parliamo di <b>alterazione</b>. Ogni alterazione è scritta a sinistra di ogni nota. L'intensità la vedremo dopo.</p>
 
-<p align="justify">Questo che segue è un pentagramma. Viene usato per scrivere le note suonate da uno strumento con una registro come archi e fiati. Le note che vedete sono C4, D4, E4, F4, G4, A4 e B4. Il simbolo in fondo a forma di "f" rappresenta una pausa.</p>
+<p align="justify">Questo che segue è un pentagramma. Viene usato per scrivere le note suonate da uno strumento con una registro come archi e fiati. Le note che vedete sono C4, D4, E4, F4, G4, A4 e B4.</p>
 
 ![Pentagramma](img/infografica/pentagramma.png)
 
