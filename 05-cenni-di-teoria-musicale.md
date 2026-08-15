@@ -178,7 +178,7 @@
 <li>La legatura di frase si dice <b>portamento</b> o <b>legato</b>;</li>
 <li>La terzina si dice <b>triplet</b>;</li>
 <li>Lo staccato si dice <b>staccato</b>;</li>
-<li>La velocità del branco si dice <b>tempo</b> e si misura in bpm (beats per minute);</li>
+<li>La velocità del branco si dice <b>tempo</b> e si misura in <b>bpm</b> (beats per minute);</li>
 <li>La dinamica si dice <b>velocity</b>;</li>
 <li>Il diesis si dice <b>sharp</b>;</li>
 <li>Il bemolle si dice <b>flat</b>;</li>
