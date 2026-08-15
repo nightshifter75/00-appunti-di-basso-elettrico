@@ -19,8 +19,8 @@
 
 <p align="justify">Le note musicali come dicevo (lo sanno pure i sassi) e lo ripeto si chiamano DO, RE, MI, FA, SOL, LA e SI. La notazione anglosassone (che sarebbe a dire "come scrivono le note le persone che parlano inglese") non comincia dal DO ma dal LA, prosegue con il SI e poi ricomincia (anche se poi l'ottava cambia, ma fa niente) da DO, poi RE, MI, FA per finire con il SOL. Inoltre non usano questi nomi (che usano solo quando solfeggiano) ma usano le lettere dell'alfabeto e quindi la sequenza diventa <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b>, <b>F</b> e <b>G</b>.</p>
 
-> [!TIP]
-><p align="justify"><b>Attenzione!</b> Da adesso in poi utilizzerò la notazione anglosassone, per mille motivi che poi capirete da soli e per i quali, vi giuro, mi ringrazierete.</p>
+> [!WARNING]
+><p align="justify"><b>Attenzione! Da adesso in poi utilizzerò la notazione anglosassone, per mille motivi che poi capirete da soli e per i quali, vi giuro, mi ringrazierete.</b></p>
 
 <p align="justify">Risolto il problema di come si chiamano le note, risolviamo anche quello di individuarle precisamente.</p>
 
