@@ -17,7 +17,7 @@
 <p align="justify">Quest'altro invece è un <b>doppio pentagramma</b>, l'unione di due pentagrammi uniti con una parentesi graffa. Viene usato per scrivere le note suonate da strumenti con un registro esteso come pianoforte e arpa. Le note sul pentagramma più in basso sono C3, D3, E3, F3, G3, A3 e B3 e le altre sono sempre C4, D4, E4, F4, G4, A4 e B4.</p>
 
 > [!WARNING]
-> <b>Non va suonata prima la riga sopra e poi quella sotto! Bisogna suonare C3 e C4 insieme, D3 e D4 insieme, ecc…</b>
+> <p align="justify"><b>Non va suonata prima la riga sopra e poi quella sotto! Bisogna suonare C3 e C4 insieme, D3 e D4 insieme, ecc…</b></p>
 
 ![Doppio Pentagramma](img/infografica/doppio-pentagramma.png)
 
@@ -25,7 +25,8 @@
 
 <p align="justify">Esiste anche una terza chiave detta di DO (che ha una forma indescrivibile, ma ne trovate un esempio dopo) che viene usata per particolari partiture che utilizzano il sistema del DO mobile (che indicherà sempre il C4) e con delle regole differenti per i registri vocali maschili (tenore, baritono e basso) e femminili (soprano, mezzosoprano e contralto). Se dovessimo collocarla nel doppio pentagramma di cui sopra sarebbe esattamente al centro, dove poggia il "taglio" del C4, fra chiave di violino e di basso.</p>
 
-<p align="justify">Ah, dimenticavo: per le note del basso elettrico si usa la chiave di basso! Ma dovete saper leggere anche la chiave di violino, non avete scuse!</p>
+> [!WARNING]
+> <p align="justify"><b>Per scrivere le note per il basso elettrico si usa la chiave di basso! Ma dovete saper leggere anche la chiave di violino, non avete scuse!</b></p>
 
 <p align="justify">Come si può vedere, ci sono due scale che vanno da C a B: quella che parte da C3 e quella che parte da C4. Però le note sono posizionate in maniera diversa. C4 è sotto il primo rigo della chiave di violino e C3 è nel secondo spazio nella chiave di basso. Dite la verità, speravate che le note fossero nello stesso posto anche in chiavi diverse, vero?</p>
 
