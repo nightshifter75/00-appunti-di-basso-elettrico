@@ -21,7 +21,7 @@
 
 ![Doppio Pentagramma](img/infografica/doppio-pentagramma.png)
 
-<p align="justify">La <b>chiave</b> è quel simbolo che si mette all'inizio di ogni pentagramma e serve a determinare il registro, basso o acuto. Si usano comunemente chiave di <b>violino</b> (o chiave di SOL) per le note acute (quella a forma di s rovesciata con un ricciolo) e chiave di <b>basso</b> (o chiave di FA) per le note basse (quella a forma di c rovesciata con due puntini). La chiave di violino poggia sul quarto rigo, ovvero il SOL che viene dopo il C4 (G4) e quella di basso poggia sul secondo rigo, ovvero il FA prima del C4 (F3).</p>
+<p align="justify">La <b>chiave</b> è quel simbolo che si mette all'inizio di ogni pentagramma e serve a determinare il registro, basso o acuto. Si usano comunemente chiave di <b>violino</b> (o chiave di SOL) per le note acute (quella a forma di s rovesciata con un ricciolo) e chiave di <b>basso</b> (o chiave di FA) per le note basse (quella a forma di c rovesciata con due puntini). La chiave di violino poggia sul quarto rigo, sul G4, ovvero il SOL che viene dopo il DO centrale (C4) e quella di basso poggia sul secondo rigo, F3, ovvero il FA che viene prima del C4.</p>
 
 <p align="justify">Esiste anche una terza chiave detta di DO (che ha una forma indescrivibile, ma ne trovate un esempio dopo) che viene usata per particolari partiture che utilizzano il sistema del DO mobile (che indicherà sempre il C4) e con delle regole differenti per i registri vocali maschili (tenore, baritono e basso) e femminili (soprano, mezzosoprano e contralto). Se dovessimo collocarla nel doppio pentagramma di cui sopra sarebbe esattamente al centro, dove poggia il "taglio" del C4, fra chiave di violino e di basso.</p>
 
