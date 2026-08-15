@@ -34,7 +34,7 @@
 
 ![Note Udibili](img/infografica/note-udibili.png)
 
-<p align="justify">Questa figura mostra la posizione (rispetto a ogni chiave) della nota più bassa udibile e smontabile dal pianoforte (A0) e di tutti i C di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili (da C1 a C8).</p>
+<p align="justify">Questa figura mostra la posizione (rispetto a ogni chiave) della nota più bassa udibile e suonabile dal pianoforte (A0) e di tutti i C di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili (da C1 a C8).</p>
   
 <p align="justify">E adesso un'altra:</p>
 
