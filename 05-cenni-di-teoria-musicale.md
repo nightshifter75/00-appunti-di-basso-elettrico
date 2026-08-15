@@ -34,7 +34,7 @@
   
 <p align="justify">E adesso un'altra:</p>
 
-<img width="1371" height="502" src="https://github.com/user-attachments/assets/f5ddc69f-148f-4f18-80fe-cd8377c06084" />
+![Note sulla tastiera](img/infografica/note-sulla-tastiera.png)
 
 <p align="justify">Questa figura mostra la corrispondenza delle note sul pentagramma con i tasti del basso elettrico.</p>
 
