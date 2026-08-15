@@ -182,5 +182,5 @@
 <li>La dinamica si dice <b>velocity</b>;</li>
 <li>Il diesis si dice <b>sharp</b>;</li>
 <li>Il bemolle si dice <b>flat</b>;</li>
-<li>Il bequadro si dice <b>natural sig</b>.</li>
+<li>Il bequadro si dice <b>natural sign</b>.</li>
 </ul>
