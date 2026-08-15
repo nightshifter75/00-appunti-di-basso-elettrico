@@ -6,43 +6,43 @@ Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. 
 > **Cercate un bravo insegnante (privato o presso una scuola) e, se potete, tenetevelo.**
 <p align="justify">Non pensate che sia una persona perfetta e non pensate che l'insegnamento sia un rapporto a senso unico fra maestro e allievo. Non pensate che una persona sia per forza disonesta: se non avete una buona sintonia probabilmente non sarete neanche disposti a imparare. Se la persona che vi sta di fronte è sufficentemente onesta sarà lui (o lei) a cercare di indirizzare i suoi e i vostri sforzi affinché il rapporto allievo e maestro porti da qualche parte. Non pensate che il rapporto che avete sia una questione di soldi: non si insegna per soldi (o almeno non solo per quelli). La ricerca dell'insegnante giusto non è impossibile, anche se a volte può essere molto difficile.</p>
 
-![Rapporto Allievo Maestro](img/rapporto-allievo-maestro.png)
+![Rapporto Allievo Maestro](img/infografica/rapporto-allievo-maestro.png)
 
 > [!WARNING]
 > **Un libro, un CD, un video corso non vi insegneranno a suonare uno strumento.**
 <p align="justify">Ci vogliono anni di studio, diversi libri su diversi argomenti, anni di pratica e di confronto con insegnanti e altri musicisti esperti.</p>
 
-![Un Libro Un CD Un Video Corso](img/un-libro-un-cd-un-video-corso.png)
+![Un Libro Un CD Un Video Corso](img/infografica/un-libro-un-cd-un-video-corso.png)
 
 > [!TIP]
 > **Bisogna confrontarsi e conoscere persone, accettare sempre consigli e suonare il più possibile.**
 <p align="justify">Parlate con chi già suona, chiedete consigli. Per esempio se mentre suonate vi fa male la mano, è possibile che ci sia qualcosa che non va.</p>
 
-![Confrontarsi e Conoscere Persone](img/confrontarsi-e-conoscere-persone.png)
+![Confrontarsi e Conoscere Persone](img/infografica/confrontarsi-e-conoscere-persone.png)
 
 > [!TIP]
 > **Registratevi mentre suonate e riascoltatevi, fate ascoltare a qualcuno più esperto di voi il vostro operato.**
 <p align="justify">A volte ci vogliono 5 minuti per migliorare tantissimo. Altre cose invece si migliorano con la pratica e con lo studio. Non è mai facile.</p>
 
-![Registratevi mentre Suonate](img/registratevi-mentre-suonate.png)
+![Registratevi mentre Suonate](img/infografica/registratevi-mentre-suonate.png)
 
 > [!NOTE]
 > **Le scuole di musica generalmente offrono ore di studio teorico con ore di tecnica e un laboratorio di musica di insieme.**
 <p align="justify">Prendete in considerazione questa possibilità, frequentare un luogo dove ci sono insegnanti, allievi, musicisti, ore di laboratorio e dove si svolgono saggi di fine anno è un buon posto per poter risolvere problemi come suonare dal vivo, registrare una demo, e altri legati al mondo di chi suona la musica davvero.</p>
 
-![Scuola di Musica](img/scuola-di-musica.png)
+![Scuola di Musica](img/infografica/scuola-di-musica.png)
 
 > [!TIP]
 > **Ascoltate un sacco di musica.**
 <p align="justify">Se potete andate anche a sentirla dal vivo. È un ottimo esercizio, oltre che un piacere.</p>
 
-![Ascoltate un sacco di musica](img/ascoltate-un-sacco-di-musica.png)
+![Ascoltate un sacco di musica](img/infografica/ascoltate-un-sacco-di-musica.png)
 
 > [!TIP]
 > **Esercitatevi sempre con il metronomo e possibilmente davanti a uno specchio.**
 <p align="justify">Non abbiate fretta di suonare come Speedy Gonzales ma andate a velocità graduali, studiate le parti punto per punto finché non siete sicuri e cercate di esercitarvi in maniera costante, magari pochi minuti, ma a cadenza regolare, meglio se tutti i giorni. Non esistono esercizi scorciatoia e mi sento di ripetervi anche l'ultimissimo consiglio che tutti mi hanno dato: le mani devono muoversi con parsimonia, cercate sempre delle posizioni comode e sulle quali non dovete sollevare troppo le dita o spostare troppo la mano. La tecnica ci deve essere ma è solo un ingrediente che serve per essere un bravo musicista.</p>
 
-![Metronomo e Specchio](img/metronomo-e-specchio.png)
+![Metronomo e Specchio](img/infografica/metronomo-e-specchio.png)
 
 ## Software utile
 

@@ -12,11 +12,11 @@
 
 <p align="justify">Questo che segue è un pentagramma. Viene usato per scrivere le note suonate da uno strumento con una registro come archi e fiati. Le note che vedete sono C4, D4, E4, F4, G4, A4 e B4. Il simbolo in fondo a forma di "f" rappresenta una pausa.</p>
 
-![Pentagramma](img/pentagramma.png)
+![Pentagramma](img/infografica/pentagramma.png)
 
 <p align="justify">Quest'altro invece è un <b>doppio pentagramma</b>, l'unione di due pentagrammi uniti con una parentesi graffa. Viene usato per scrivere le note suonate da strumenti con un registro esteso come pianoforte e arpa. Le note sul pentagramma più in basso sono C3, D3, E3, F3, G3, A3 e B3 e le altre sono sempre C4, D4, E4, F4, G4, A4 e B4. Attenzione: non va suonata prima la riga sopra e poi quella sotto! Bisogna suonare C3 e C4 insieme, D3 e D4 insieme, ecc…</p>
 
-![Doppio Pentagramma](img/doppio-pentagramma.png)
+![Doppio Pentagramma](img/infografica/doppio-pentagramma.png)
 
 <p align="justify">La <b>chiave</b> è quel simbolo che si mette all'inizio di ogni pentagramma e serve a determinare il registro, basso o acuto. Si usano comunemente chiave di <b>violino</b> (o chiave di SOL) per le note acute (quella a forma di s rovesciata con un ricciolo) e chiave di <b>basso</b> (o chiave di FA) per le note basse (quella a forma di c rovesciata con due puntini). La chiave di violino poggia sul quarto rigo, ovvero il SOL che viene dopo il C4 (G4) e quella di basso poggia sul secondo rigo, ovvero il FA prima del C4 (F3).</p>
 
@@ -28,7 +28,7 @@
 
 <p align="justify">Se una nota è più alta o più bassa di quelle rappresentabili sul rigo si usano dei tagli addizionali. Il C4 è il taglio addizionale in alto sulla chiave di basso e in basso su quella di violino. Nelle due figure sopra potete vedere che la prima nota è un C4 e infatti la testa "tagliata" in due da una piccola linea. Se il pentagramma non ci basta possiamo usare ulteriori tagli addizionali. Guardate qui:</p>
 
-![Note Udibili](img/note-udibili.png)
+![Note Udibili](img/infografica/note-udibili.png)
 
 <p align="justify">Questa figura mostra la posizione (rispetto a ogni chiave) della nota più bassa udibile e smontabile dal pianoforte (A0) e di tutti i C di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili (da C1 a C8).</p>
   
