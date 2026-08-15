@@ -40,7 +40,91 @@
 
 <p align="justify">La <b>durata</b> di una nota (o di una pausa) si specifica con la forma della nota (o della pausa) stessa, e viene indicata in senso relativo (un quarto, un ottavo, ecc…). Più tardi sarà più chiaro a cosa si riferisce il rapporto di un quarto o un ottavo. Come vedete le note hanno una testa "vuota" o "piena" e possono avere o meno un gambo, con o senza una o più code. La direzione del gambo è verso l'alto se la nota è sotto il rigo centrale (qualunque sia la chiave) o verso il basso se la nota si trova dal rigo centrale in su (rigo centrale compreso):</p>
 
-<img width="1005" height="1117" src="https://github.com/user-attachments/assets/ab3065c0-3b8d-4259-ada0-d2208c7e024c" />
+<table>
+  <thead>
+    <tr>
+      <th>NOTA</th>
+      <th>PAUSA</th>
+      <th>NOME</th>
+      <th>VALORE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="img/note-musicali/00-massima-8.png" alt="Massima" width="40"></td>
+      <td align="center"><img src="img/note-musicali/00-massima-pausa-8.png" alt="Pausa di Massima" width="40"></td>
+      <td>Massima</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/01-lunga-4.png" alt="Lunga" width="40"></td>
+      <td align="center"><img src="img/note-musicali/01-lunga-pausa-4.png" alt="Pausa di Lunga" width="40"></td>
+      <td>Lunga</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/02-breve-2.png" alt="Breve" width="40"></td>
+      <td align="center"><img src="img/note-musicali/02-breve-pausa-2.png" alt="Pausa di Breve" width="40"></td>
+      <td>Breve</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/03-semibreve-1.png" alt="Semibreve" width="40"></td>
+      <td align="center"><img src="img/note-musicali/03-semibreve-pausa-1.png" alt="Pausa di Semibreve" width="40"></td>
+      <td>Semibreve</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/04-minima-1-2.png" alt="Minima" width="40"></td>
+      <td align="center"><img src="img/note-musicali/04-minima-pausa-1-2.png" alt="Pausa di Minima" width="40"></td>
+      <td>Minima</td>
+      <td>1/2</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/05-semiminima-1-4.png" alt="Semiminima" width="40"></td>
+      <td align="center"><img src="img/note-musicali/05-semiminima-pausa-1-4.png" alt="Pausa di Semiminima" width="40"></td>
+      <td>Semiminima</td>
+      <td>1/4</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/06-croma-1-8.png" alt="Croma" width="40"></td>
+      <td align="center"><img src="img/note-musicali/06-croma-pausa-1-8.png" alt="Pausa di Croma" width="40"></td>
+      <td>Croma</td>
+      <td>1/8</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/07-semicroma-1-16.png" alt="Semicroma" width="40"></td>
+      <td align="center"><img src="img/note-musicali/07-semicroma-pausa-1-16.png" alt="Pausa di Semicroma" width="40"></td>
+      <td>Semicroma</td>
+      <td>1/16</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/08-biscroma-1-32.png" alt="Biscroma" width="40"></td>
+      <td align="center"><img src="img/note-musicali/08-biscroma-pausa-1-32.png" alt="Pausa di Biscroma" width="40"></td>
+      <td>Biscroma</td>
+      <td>1/32</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/09-semibiscroma-1-64.png" alt="Semibiscroma" width="40"></td>
+      <td align="center"><img src="img/note-musicali/09-semibiscroma-pausa-1-64.png" alt="Pausa di Semibiscroma" width="40"></td>
+      <td>Semibiscroma</td>
+      <td>1/64</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/10-fusa-1-128.png" alt="Fusa" width="40"></td>
+      <td align="center"><img src="img/note-musicali/10-fusa-pausa-1-128.png" alt="Pausa di Fusa" width="40"></td>
+      <td>Fusa</td>
+      <td>1/128</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="img/note-musicali/11-semifusa-1-256.png" alt="Semifusa" width="40"></td>
+      <td align="center"><img src="img/note-musicali/11-semifusa-pausa-1-256.png" alt="Pausa di Semifusa" width="40"></td>
+      <td>Semifusa</td>
+      <td>1/256</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <p align="justify">Le note vengono raggruppate in <b>misure</b> (o <b>battute</b>) separate da barrette verticali che attraversano il pentagramma. Il <b>tempo</b> è la suddivisione delle misure con il quale pulsa la musica e viene indicato all'inizio e accanto alla chiave sotto forma di frazione. Stabilisce all'interno di una misura quante e quali note (e pause) sono contenute, ovvero il <b>battito</b> o <b>movimento</b>. Il numeratore indica di quanti movimenti è fatta una misura e il denominatore indica la durata di ogni movimento. Es. 4/4 vuol dire che una misura è formata da 4 semiminime (o altre note che in totale danno una durata equivalente). 12/8 vuol dire che una misura è composta da 12 crome (idem come sopra).</p>
 
