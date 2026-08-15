@@ -157,7 +157,8 @@
 
 ![Pentagramma e Intavolatura](img/infografica/pentagramma-e-intavolatura.png)
 
-<p align="justify">Attenzione ai termini anglosassoni! Sono falsi amici! Se vi capita un libro in inglese sarà più facile per voi leggerlo se conoscete bene i seguenti termini:</p>
+> [!WARNING]
+> <p align="justify">Attenzione ai termini anglosassoni! Sono falsi amici! Se vi capita un libro in inglese sarà più facile per voi leggerlo se conoscete bene i seguenti termini:</p>
 
 <ul>
 <li>Il pentagramma si dice <b>staff</b>;</li>
