@@ -16,10 +16,10 @@ Questa bibliografia crescerà nel tempo.
 Nella stesura di questi appunti verranno utilizzate questi tipi di evidenziazioni:
 
 > [!NOTE]
-> Qui ci sono dei consigli utili (con il colore blu)
+> Qui ci sono delle note di spiegazione.
 
 > [!TIP]
-> Questa è una dritta! (con il colore verde)
+> <i>Questa è una dritta!</i>
 
 > [!WARNING]
-> Questo è un avvertimento! (con il colore marrone)
+> <b>Questo è un avvertimento!</b>
