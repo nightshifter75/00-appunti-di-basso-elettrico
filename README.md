@@ -33,4 +33,4 @@
 
 **P.S.:** Questi appunti nascono tanti anni fa. Se ci sono errori, segnalatemelo.
 
-![Infografica](img/appunti-di-basso.elettrico.png)
+![Infografica](img/infografica/appunti-di-basso.elettrico.png)
