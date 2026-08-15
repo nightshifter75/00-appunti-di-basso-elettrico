@@ -1,6 +1,8 @@
 # 3. Com'è fatto il Basso Elettrico?
 
-<p align="justify">"Sì, d'accordo, ma che diavolo è un basso elettrico?…". Alzi la mano chi di voi, bassista (o anche persona informata sui fatti) ha dovuto rispondere a questa domanda. Vedo parecchie mani alzate. Ed è ovvio: in genere una persona che guarda il bassista mentre suona non capisce quali sono i suoni che escono dalla quella che sembra una chitarra.</p>
+*"Sì, d'accordo, ma che diavolo è un basso elettrico?…"*
+
+<p align="justify">Alzi la mano chi di voi, bassista (o anche persona informata sui fatti) ha dovuto rispondere a questa domanda. Vedo parecchie mani alzate. Ed è ovvio: in genere una persona che guarda il bassista mentre suona non capisce quali sono i suoni che escono dalla quella che sembra una chitarra.</p>
 
 <p align="justify">Durante la mia "carriera" di bassista ho ricevuto un commento da una signora ultra ottantenne che secondo me la dice lunga sulla natura di questo meraviglioso strumento. La signora Maria (nome di fantasia) è la nonna di uno dei componenti di un gruppo con il quale ho strimpellato per un bel po' di tempo. La povera signora Maria era praticamente costretta ad ascoltare le prove, in quanto proprietaria della villetta di campagna dove ci recavamo per suonare la domenica pomeriggio, perché lì non davamo fastidio a nessuno (tranne alla signora di cui sopra). Una volta ho saltato una prova, e i miei impavidi compagni hanno comunque deciso di provare senza di me, per la gioia della signora Maria. La volta successiva, alla fine della prova, alla quale questa volta mi ero regolarmente presentato, la signora Maria mi prende da parte e mi fa: "ancora non ho capito che fai, ma quando non ci sei si sente che manca qualcosa di importante".</p>
 
