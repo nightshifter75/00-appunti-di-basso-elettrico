@@ -162,8 +162,9 @@
 ![Pentagramma e Intavolatura](img/infografica/pentagramma-e-intavolatura.png)
 
 > [!WARNING]
-> <p align="justify">Attenzione ai termini anglosassoni! Sono falsi amici! Se vi capita un libro in inglese sarà più facile per voi leggerlo se conoscete bene i seguenti termini:</p>
+> <p align="justify"><b>Attenzione ai termini anglosassoni! Sono falsi amici!</b></p>
 
+Se vi capita un libro in inglese sarà più facile per voi leggerlo se conoscete i seguenti termini:
 <ul>
 <li>Il pentagramma si dice <b>staff</b>;</li>
 <li>L'intavolatura si dice <b>tablature</b> (per gli amici <b>tab</b>);</li>
