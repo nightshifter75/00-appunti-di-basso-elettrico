@@ -22,4 +22,4 @@ Nella stesura di questi appunti verranno utilizzate questi tipi di evidenziazion
 > Questa è una dritta! (con il colore verde)
 
 > [!WARNING]
-> Questo è un avvertimento! (con il colore giallo)
+> Questo è un avvertimento! (con il colore marrone)
