@@ -8,9 +8,9 @@
 
 <p align="justify">Le altre caratteristiche (<b>altezza</b>, <b>durata</b> e <b>intensità</b>) si possono descrivere per poter poi essere rilette e riprodotte. Nei secoli ci sono stati diversi metodi per scrivere la musica, e un paio di questi sono arrivati fino a noi: il <b>pentagramma</b> e l'<b>intavolatura</b>.</p>
 
-<p align="justify">Il <b>pentagramma</b> è la notazione musicale per eccellenza, valida per tutti gli strumenti musicali come ad esempio la voce. Si tratta di cinque linee chiamate <b>righi</b> (non righe, righi) separati da quattro <b>spazi</b>. Una nota viene rappresentata con una testa, un gambo e una o più code che ne determinano la durata. L'altezza della nota è invece determinata dal rigo o spazio sul quale poggia. L'altezza può essere modificata dagli accidenti e quindi parliamo di <b>alterazione</b>. Ogni alterazione è scritta a sinistra di ogni nota. L'intensità la vedremo dopo.</p>
+<p align="justify">Il <b>pentagramma</b> è la notazione musicale per eccellenza, valida per tutti gli strumenti musicali come ad esempio la voce. Si tratta di cinque linee chiamate <b>righi</b> (non righe, righi) separati da quattro <b>spazi</b>. Una <b>nota</b> viene rappresentata con una <b>testa</b>, un <b>gambo</b> e, se serve, una o più <b>code</b> che ne determinano la durata. L'<b>altezza</b> della nota è invece <b>determinata dal rigo o spazio sul quale poggia</b>. L'altezza <b>può essere modificata dagli accidenti</b> e quindi parliamo di <b>alterazione</b>. Ogni alterazione è scritta a sinistra di ogni nota. L'intensità la vedremo dopo.</p>
 
-<p align="justify">Questo che segue è un pentagramma. Viene usato per scrivere le note suonate da uno strumento con una registro come archi e fiati. Le note che vedete sono C4, D4, E4, F4, G4, A4 e B4.</p>
+<p align="justify">Questo che segue è un pentagramma semplice. Viene usato per scrivere le note suonate da uno strumento con una registro come archi e fiati. Le note che vedete sono C4, D4, E4, F4, G4, A4 e B4.</p>
 
 ![Pentagramma](img/infografica/pentagramma.png)
 
