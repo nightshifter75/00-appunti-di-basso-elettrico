@@ -8,7 +8,7 @@
 
 <p align="justify">Quindi a chi non ha ancora capito a che cosa servite quando suonate il basso, ecco cosa dovete rispondere:</p>
 
-<p align="justify"><i>Il basso elettrico è uno strumento della famiglia dei cordofoni, derivato dal contrabbasso, del quale riproduce l'estensione delle note. Il primo basso elettrico della storia per popolarità è il Fender Precision Bass, realizzato da Leo Fender nel 1951.</i></p>
+<p align="justify"><i>Il <b>basso elettrico</b> è uno strumento della famiglia dei <b>cordofoni</b>, derivato dal <b>contrabbasso</b>, del quale riproduce l'estensione delle note. Il primo basso elettrico della storia per popolarità è il <b>Fender Precision Bass</b>, realizzato da <b>Leo Fender nel 1951</b>.</i></p>
 
 ![Il Basso Elettrico](img/infografica/il-basso-elettrico.png)
 
