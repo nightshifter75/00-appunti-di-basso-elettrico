@@ -20,7 +20,7 @@
 
 ![Suonare il Basso Elettrico](img/infografica/suonare-il-basso-elettrico.png)
 
-<p align="justify"><i>Per suonare il basso si usano tutte e due le mani. Si usano indice, medio, anulare e mignolo della mano sinistra per decidere quali tasti suonare e indice e medio della mano destra per pizzicare le corde in modo alternato. Esistono comunque anche strumenti costruiti al rovescio, e si può addirittura (per vezzo) prendere uno strumento per destrorsi e trasformarlo in uno per mancini semplicemente invertendo l'ordine delle corde e capovolgendolo, per quanto comodo possa essere. Ovviamente in questo caso le funzioni delle dita sono esattamente al contrario. Inoltre per pizzicare le corde esiste anche un piccolo strumento di plastica dura o metallo da tenere fra indice e pollice che si chiama <b>plettro.</b></i></p>
+<p align="justify"><i>Per suonare il basso si usano <b>tutte e due le mani</b>. Si usano <b>indice</b>, <b>medio</b>, <b>anulare</b> e <b>mignolo</b> della <b>mano sinistra</b> per decidere <b>quali note suonare</b> e <b>indice</b> e <b>medio</b> della <b>mano destra</b> per <b>pizzicare</b> le corde in modo <b>alternato</b>. Esistono comunque anche strumenti costruiti al rovescio. In questo caso le funzioni delle dita sono esattamente al contrario. Inoltre per <b>pizzicare</b> le corde esiste anche un piccolo strumento di plastica dura o metallo da tenere fra indice e pollice che si chiama <b>plettro.</b> che va usato dall'<b>alto verso il basso</b> e dal <b>basso verso l'alto</b>, sempre in maniera <b>alternata</b>.</i></p>
 
 ![Le Mani nel Basso Elettrico](img/infografica/le-mani-nel-basso-elettrico.png)
 
