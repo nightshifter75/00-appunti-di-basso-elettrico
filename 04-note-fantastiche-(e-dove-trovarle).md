@@ -83,4 +83,6 @@
 
 <p align="justify">Per facilitare la ricerca della posizione del tasto esistono dei pallini disegnati sul manico come riferimento. C'è un pallino sui tasti terzo, quinto, settimo, nono, quindicesimo, diciassettesimo e diciannovesimo e un doppio pallino sul dodicesimo e sul ventiquattresimo (se il manico ha 24 tasti). Gli stessi pallini sono riportati sul bordo del manico.</p>
 
-<p align="justify">La nota più grave (E2 o B1) si ottiene pizzicando la corda a vuoto, cioè pizzicandola con l'indice della mano destra. La nota successiva (F2 o C2) si ottiene mettendo l'indice della mano sinistra sul primo tasto della corda più grave e pizzicando la corda con il medio della mano destra. La nota immediatamente successiva (F#2/Gb2 o C#2/Db2) si ottiene mettendo il medio della mano sinistra sul secondo tasto e pizzicando la corda con l'indice della mano destra senza spostare le dita fino ad ora usate. E così via… Non devo continuare, vero?</p>
+<p align="justify">La nota più grave (E2 o B1) si ottiene pizzicando la corda a vuoto, cioè pizzicandola con l'indice della mano destra. La nota successiva (F2 o C2) si ottiene mettendo l'indice della mano sinistra sul primo tasto della corda più grave e pizzicando la corda con il medio della mano destra. La nota immediatamente successiva (F#2/Gb2 o C#2/Db2) si ottiene mettendo il medio della mano sinistra sul secondo tasto e pizzicando la corda con l'indice della mano destra senza spostare le dita fino ad ora usate. E così via…</p>
+
+<p align="justify">Non devo continuare, vero?</p>
