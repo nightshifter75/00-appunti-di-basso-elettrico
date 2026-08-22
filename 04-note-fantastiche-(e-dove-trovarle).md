@@ -15,7 +15,17 @@
 
 <p align="justify">Nei secoli dei secoli dei secoli le classificazioni musicali hanno fatto talmente tanto a botte che oggi a noi è arrivato un sistema che stabilisce i nomi solamente di sette note dette <b>note naturali</b>. Le restanti cinque si chiamano <b>note enarmoniche</b>, che vuol dire note con gli stessi nomi di prima ma con l'aggiunta degli <b>accidenti</b>. Non mi riferisco ai malanni o ai malauguri, ma a dei simboli che aumentano e diminuiscono un suono di un semitono. Ne avrete sentito parlare: <b>diesis</b> (#) e <b>bemolle</b> (b). Per completezza vi dirò, esiste anche un simbolo che annulla l'effetto degli accidenti e si chiama <b>bequadro</b> (♮). I nomi sono solo sette perché si riferiscono a una scala di suoni che hanno un <b>rapporto armonico</b> e <b>melodico</b>. Più semplicemente <i>suonano bene</i>. Le <b>note naturali</b> sono appunto DO, RE, MI, FA, SOL, LA e SI e le <b>note enarmoniche</b> hanno un nome diverso a seconda se stiamo aumentando o diminuendo un suono. Se usiamo un nome anziché un altro, credetemi, c'è una buona ragione. Ma facciamo prima a guardarle su un pianoforte che a spiegarle.</p>
 
-<p align="justify">Si prenda ad esempio la tastiera di un pianoforte. <b>I tasti bianchi sono le note naturali</b> e <b>i tasti neri sono le note enarmoniche</b>. Il nome enarmonico è composto da quello della nota da cui partiamo e dall'accidente usato. Il DO# è un DO aumentato di un semitono, il REb è un RE diminuito di un semitono, ma indovinate un po'? Si riferiscono alla stessa nota, con due nomi diversi. Pare che anni or sono tuttavia le note enarmoniche erano in realtà differenti, come se fra DO e RE non ci fosse una nota di passaggio e basta, ma ce ne fossero due. Quindi DO# e REb probabilmente inizialmente non coincidevano. Con il passare dei secoli il sistema di accordatura e temperamento si è perfezionato e queste due note hanno finito con il sovrapporsi.</p>
+<p align="justify">Si prenda ad esempio la tastiera di un pianoforte. <b>I tasti bianchi sono le note naturali</b> e <b>i tasti neri sono le note enarmoniche</b>. Il nome enarmonico è composto da quello della nota da cui partiamo e dall'accidente usato. Il DO# è un DO aumentato di un semitono, il REb è un RE diminuito di un semitono, ma indovinate un po'? Si riferiscono alla stessa nota, con due nomi diversi.</p>
+
+```
+┌──┬─┬─┬─┬──┬──┬─┬─┬─┬─┬─┬──┐
+│  │ │ │ │  │  │ │ │ │ │ │  │
+│  │ │ │ │  │  │ │ │ │ │ │  │
+│  └┬┘ └┬┘  │  └┬┘ └┬┘ └┬┘  │
+│DO │RE │MI │FA │SOL│LA │SI │
+└───┴───┴───┴───┴───┴───┴───┘
+```
+<p align="justify">Pare che anni or sono tuttavia le note enarmoniche erano in realtà differenti, come se fra DO e RE non ci fosse una nota di passaggio e basta, ma ce ne fossero due. Quindi DO# e REb probabilmente inizialmente non coincidevano. Con il passare dei secoli il sistema di accordatura e temperamento si è perfezionato e queste due note hanno finito con il sovrapporsi.</p>
 
 <p align="justify">Le note musicali come dicevo (lo sanno pure i sassi) e lo ripeto si chiamano DO, RE, MI, FA, SOL, LA e SI. La notazione anglosassone (che sarebbe a dire "come scrivono le note le persone che parlano inglese") non comincia dal DO ma dal LA, prosegue con il SI e poi ricomincia (anche se poi l'ottava cambia, ma fa niente) da DO, poi RE, MI, FA per finire con il SOL. Inoltre non usano questi nomi (che usano solo quando solfeggiano) ma usano le lettere dell'alfabeto e quindi la sequenza diventa <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b>, <b>F</b> e <b>G</b>.</p>
 
