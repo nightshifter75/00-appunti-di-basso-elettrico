@@ -2,7 +2,7 @@
 
 <p align="justify">Non possiamo continuare a suonare senza sapere un accidenti di niente sulla musica. Dobbiamo proseguire sapendo almeno le basi. Quindi bambini adesso cercheremo di imparare tutte le paroline che ci serviranno per affrontare seriamente lo studio della <b>teoria musicale</b>, che altri non è che la disciplina che ci aiuta a scrivere, leggere e capire come si <i>muove</i> la musica.</p> 
 
-<p align="justify">Le note sono suoni, e il suono di per sé ha sfumature infinite (come il colore). Consideriamo le quattro caratteristiche fondamentali del suono: <b>timbro</b>, <b>altezza</b>, <b>durata</b> e <b>intensità</b>.</p>
+<p align="justify">Le <b>note</b> sono <b>suoni</b>, e il suono di per sé ha sfumature infinite (come il colore). Consideriamo le quattro caratteristiche fondamentali del suono: <b>timbro</b>, <b>altezza</b>, <b>durata</b> e <b>intensità</b>.</p>
 
 <p align="justify">Il <b>timbro</b> è la caratteristica che viene data dallo strumento stesso. Un corpo messo in vibrazione ha una serie di caratteristiche a seconda del materiale con cui il corpo vibrante è costruito. Se sollecitiamo un pezzo di legno o di metallo, percepiamo una differenza, a prescindere dalla durata, dall'intensità e dell'altezza del suono. Se un pianoforte e una chitarra suonano un C4 siamo in grado di capire che la nota è la stessa, ma il suono è prodotto da due strumenti diversi. Questo è il timbro.</p>
 
