@@ -25,6 +25,7 @@
 │DO │RE │MI │FA │SOL│LA │SI │
 └───┴───┴───┴───┴───┴───┴───┘
 ```
+
 <p align="justify">Pare che anni or sono tuttavia le note enarmoniche erano in realtà differenti, come se fra DO e RE non ci fosse una nota di passaggio e basta, ma ce ne fossero due. Quindi DO# e REb probabilmente inizialmente non coincidevano. Con il passare dei secoli il sistema di accordatura e temperamento si è perfezionato e queste due note hanno finito con il sovrapporsi.</p>
 
 <p align="justify">Le note musicali come dicevo (lo sanno pure i sassi) e lo ripeto si chiamano DO, RE, MI, FA, SOL, LA e SI. La notazione anglosassone (che sarebbe a dire "come scrivono le note le persone che parlano inglese") non comincia dal DO ma dal LA, prosegue con il SI e poi ricomincia (anche se poi l'ottava cambia, ma fa niente) da DO, poi RE, MI, FA per finire con il SOL. Inoltre non usano questi nomi (che usano solo quando solfeggiano) ma usano le lettere dell'alfabeto e quindi la sequenza diventa <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b>, <b>E</b>, <b>F</b> e <b>G</b>.</p>
