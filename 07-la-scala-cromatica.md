@@ -18,13 +18,13 @@
 
 <p align="justify">Tornando alla scala cromatica, se siete sufficientemente pronti, cimentatevi con gli esercizi che seguono. In pratica si tratta di suonare una scala cromatica dal B1 o E2 al B3 (quindi dalla quinta/quarta corda a vuoto fino ad arrivare alla prima corda quarto tasto) in senso ascendente e discendente.</p>
 
-![Scala
+[Riscaldamento e Stretching](pdf/riscaldamento-e-stretching.pdf)
 
 <p align="justify">Nel primo esercizio (S.C., che sta per scala cromatica) tutto è semplice e lineare.</p>
 
 <p align="justify">Di seguito ci sono 4 esercizi: 2 di riscaldamento e 2 di stretching. Ricordatevi: controllate sempre la postura prima di cominciare, mettete un tempo di metronomo comodo, fate prima i due esercizi di riscaldamento, poi quelli di stretching e l'esercizio proposto. Insisto: eseguite sempre questa routine prima di cominciare ogni esercizio che verrà proposto. Gli esercizi sono proposti e spiegati per il basso a 5 corde ma sono facilmente adattabili per il basso a 4 corde.</p>.
 
-<p align="justify">Eseguite questo primo esercizio di riscaldamento della mano sinistra (R.M.S.): avviate il metronomo a 60 o 80 bpm e sul primo battito e premete con l'indice della mano sinistra la nota alla quinta corda (o quarta corda) primo tasto e aspettate tre battiti. Successivamente, senza sollevare l'indice, premete con il medio sul secondo tasto e aspettate tre battiti. Nella stessa maniera, proseguite con l'anulare sul terzo tasto e il mignolo sul quarto.</p>
+<p align="justify">Eseguite il primo esercizio di riscaldamento della mano sinistra (R.M.S.): avviate il metronomo a 60 o 80 bpm e sul primo battito e premete con l'indice della mano sinistra la nota alla quinta corda (o quarta corda) primo tasto e aspettate tre battiti. Successivamente, senza sollevare l'indice, premete con il medio sul secondo tasto e aspettate tre battiti. Nella stessa maniera, proseguite con l'anulare sul terzo tasto e il mignolo sul quarto.</p>
 
 <p align="justify">Al diciassettesimo battito alzate (poco!) le dita e rimettete l'indice sulla quinta corda (o quarta corda) primo tasto. Proseguite fino al mignolo sempre alla stessa maniera (senza alzare le dita già poggiate e aspettando quattro battiti), ma il mignolo poggerà non sulla stessa corda ma sulla corda sotto premendo il quarto tasto.</p>
 
