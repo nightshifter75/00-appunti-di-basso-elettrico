@@ -1,4 +1,4 @@
-# 4. Note Fantastiche (e dove trovarle)
+# 5. Note Fantastiche (e dove trovarle)
 
 <p align="justify">Dopo aver scoperto cosa sia un basso elettrico è utile sapere cosa sono e dove sono le <b>note</b>.</p>
 
