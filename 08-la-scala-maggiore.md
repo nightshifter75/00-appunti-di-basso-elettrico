@@ -191,7 +191,7 @@ Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi
 
 Di nuovo, il fatto che alcune tonalità siano indicate con i diesis e alcune con i bemolli non è casuale: ogni scala infatti si ricava con tutti i nomi delle note armoniche e con gli accidenti. 
 
-Esempio: le tonalità di D#, E#/Fb, G# e A# si indicano con il secondo nome enarmonico Eb, F, Ab e Bb. Questo perché se consideriamo le note della scala con i diesis **ci sarebbero troppe alterazioni in chiave** (mò ve la spiego) e una scrittura troppo complessa.
+Esempio: le tonalità di D#, E#/Fb, G# e A# si indicano con il secondo nome enarmonico Eb, F (in questo caso il nome della scala è naturale), Ab e Bb. Questo perché se consideriamo le note della scala con i diesis **ci sarebbero troppe alterazioni in chiave** (mò ve la spiego) e una scrittura troppo complessa.
 
 ## Armature di Chiave e Circolo delle quinte
 
