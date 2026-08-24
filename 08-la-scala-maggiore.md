@@ -59,7 +59,7 @@ Per avvalorare tutto questo, notate la scala maggiore di D: D, E, F#, G, A, B, C
 
 **Perché dovete ricordarvela?** Ve lo spiego più avanti.
 
-## Gradi, Intervalli e Tonalità
+## Gradi e Intervalli
 
 Vediamo di nuovo una delle tabelle viste nel paragrafo presente:
 
@@ -133,14 +133,40 @@ Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un de
 ** si può chiamare anche QUINTA DIMINUITA.
 *** si può chiamare anche SESTA MINORE.
 ```
-
 Come si legge questa tabella?
 
-Si parte dall'intestazione e si prende una colonna, ad esempio la colonna D.
-La linea numero 3 rappresenta tutti gli intervalli di SECONDA MAGGIORE che hanno una distanza di 2 semitoni (colonna ST) dalla nota di partenza. 
-Quindi D e E sono un intervallo di SECONDA MAGGIORE e E è la SOPRATONICA di D.
+Semplifichiamo un attimo e consideriamo questa tabella:
+```
+┌──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
+│  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+├──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┼──────┤
+│  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+│  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │
+│  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │
+│  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │
+│  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │
+│  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │
+│  F#  │  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │
+│  G   │  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │
+│  G#  │  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │
+│  A   │  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │
+│  A#  │  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │
+│  B   │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │
+│  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
+└──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
+```
 
-Una volta chiaro il concetto di intervallo, il concetto di grado si spiega con il concetto di **tonalità**.
+Si parte dall'intestazione e si prende una colonna, ad esempio la colonna D. Questa colonna, letta in verticale non rappresenta altro che la scala cromatica di D. La stessa cosa vale per tutte le altre colonne che hanno per intestazione una nota.
+
+In effetti leggendo le righe e le colonne di questa tabella si può constatare che non è altro che una "mappa" delle scale cromatiche a partire da tutte le note, umn po' come le tabelline che avevamo stampate sul retro del quaderno di scuola, quello a quadretti che si usava per aritmetica, matematica e geometria.
+
+Torniamo alla tabella originale, non questa "mozzata": la linea numero 3 rappresenta tutti gli INTERVALLI di SECONDA MAGGIORE che hanno una distanza di 2 SEMITONI (colonna ST) dalla nota di partenza. Quindi la nota D e la nota E sono un intervallo di SECONDA MAGGIORE e la nota E rappresenta la SOPRATONICA di della scala maggiore di D.
+
+Ci siamo?
+
+## Tonalità
+
+Una volta chiaro il concetto di intervallo, il concetto di grado si spiega meglio con il concetto di **tonalità**.
 
 **La tonalità è il centro tonale di un pezzo musicale.**, che significa che a partire da una certa nota, si possono costruire accompagnamenti e melodie che risultano in *chiave* con una certa tonalità.
 
