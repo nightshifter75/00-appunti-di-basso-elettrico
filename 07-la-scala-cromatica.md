@@ -68,10 +68,10 @@
 
 ## Scala Cromatica con pattern a 3 e 4 note ascendenti e discendenti
 
-<p align="justify">Il primo esercizio esercizio utilizza un pattern a 3 note ascendente e poi lo stesso pattern a 3 note discendente. Questo vuol dire che dovete suonare tre note, poi ricominciare dalla seconda nota e farne altre tre, e così via. Come fare tre passi avanti e due indietro con un salto. Una volta raggiunto il B3 ricominciare da quella stessa nota (quindi dovete suonarla due volte) e questa volta eseguite il pattern a 3 discendente. Il terzo esercizio è simile al secondo, ma il pattern è a quattro note. Quindi farete quattro passi avanti e tre indietro con un salto. Il quarto e quinto esercizio usano i pattern a 3 e 4 note, vanno in senso ascendente e discendente, ma il pattern è rovesciato. Suonerete la terza nota, poi la seconda e poi la prima, poi il pattern successivo al contrario, la quarta, la terza e la seconda, e così via.</p>
+<p align="justify">Il primo esercizio esercizio (P.3.A. e P.3.D.) utilizza un pattern a 3 note ascendente e poi lo stesso pattern a 3 note discendente. Questo vuol dire che dovete suonare tre note, poi ricominciare dalla seconda nota e farne altre tre, e così via. Come fare tre passi avanti e due indietro con un salto. Una volta raggiunto il B3 ricominciare da quella stessa nota (quindi dovete suonarla due volte) e questa volta eseguite il pattern a 3 discendente.</p>
+
+<p align="justify">Il secondo esercizio (P.4.A. e P.4.D.) è simile al primo, ma il pattern è a quattro note. Quindi farete quattro passi avanti e tre indietro con un salto.</p>
 
 ## Scala Cromatica con pattern a 3 e 4 note ascendenti e discendenti inversi
 
-<p align="justify">Il primo esercizio esercizio utilizza un pattern a 3 note ascendente e poi lo stesso pattern a 3 note discendente. Questo vuol dire che dovete suonare tre note, poi ricominciare dalla seconda nota e farne altre tre, e così via. Come fare tre passi avanti e due indietro con un salto. Una volta raggiunto il B3 ricominciare da quella stessa nota (quindi dovete suonarla due volte) e questa volta eseguite il pattern a 3 discendente. Il terzo esercizio è simile al secondo, ma il pattern è a quattro note. Quindi farete quattro passi avanti e tre indietro con un salto. Il quarto e quinto esercizio usano i pattern a 3 e 4 note, vanno in senso ascendente e discendente, ma il pattern è rovesciato. Suonerete la terza nota, poi la seconda e poi la prima, poi il pattern successivo al contrario, la quarta, la terza e la seconda, e così via.</p>
-
-
+<p align="justify">Qui i due esercizi (... e ...) usano i pattern a 3 e 4 note, vanno in senso ascendente e discendente, ma il pattern è rovesciato. Suonerete la terza nota, poi la seconda e poi la prima, poi il pattern successivo al contrario, la quarta, la terza e la seconda, e così via.</p>
