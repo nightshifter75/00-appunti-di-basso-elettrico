@@ -1,4 +1,4 @@
-# 8. La Scala Cromatica
+# 6. La Scala Cromatica
 
 <p align="justify">Che cos'è una scala? <b>Una scala è un arrangiamento di note in un ordine specifico di intervalli di toni e semitoni.</b>
 
