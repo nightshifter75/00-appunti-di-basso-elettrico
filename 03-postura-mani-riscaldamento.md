@@ -1,4 +1,4 @@
-# 7. Postura, Mani e Riscaldamento
+# 3. Postura, Mani e Riscaldamento
 
 <p align="justify">Suonare uno strumento richiede esercizio, e gli esercizi fisici (di qualunque tipo) se fatti male possono provocare danni! Quindi ripeto: trovate qualcuno esperto che può correggervi. Non sostituite mai un insegnante! Se siete in dubbio parlategli di questi consigli e chiedete conferma! Se vi fa male la mano, fermatevi, santo cielo!!! I consigli che seguono dovrebbero essere sicuri per tutti e se seguiti correttamente possono portare a buoni risultati.</p>
 
