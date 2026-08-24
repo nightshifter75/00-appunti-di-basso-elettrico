@@ -1,4 +1,4 @@
-# 7. Riscaldamento e Stretching
+# 8. Esercizi per riscaldamento e stretching
 
 <p align="justify">Qui di seguito ci sono 4 esercizi: 2 di riscaldamento e 2 di stretching. Ricordatevi: controllate sempre la postura prima di cominciare, mettete un tempo di metronomo comodo, fate prima i due esercizi di riscaldamento, poi quelli di stretching e l'esercizio proposto. Insisto: eseguite sempre questa routine prima di cominciare ogni esercizio che verrà proposto. Gli esercizi sono proposti e spiegati per il basso a 4 corde e il basso a 5 corde.</p>
 
