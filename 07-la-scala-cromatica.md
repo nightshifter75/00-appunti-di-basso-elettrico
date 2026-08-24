@@ -56,10 +56,6 @@
 
 <p align="justify">Quindi qui di seguito ecco altri esercizi sempre basati sulla scala cromatica.</p>
 
-[Scala Cromatica con pattern ascendenti e discendenti](pdf/scala-cromatica-pattern-ascendenti-e-discendenti.pdf)
-
-[Scala Cromatica con pattern ascendenti e discendenti inversi](pdf/scala-cromatica-pattern-ascendenti-e-discendenti-inversi.pdf)
-
 <p align="justify">Se osservate l'intavolatura vi renderete conto dello schema delle note da eseguire con le dita. Se invece osservate il pentagramma vi renderete conto del cammino che intraprenderete. Le note seguono una strada, come fossero delle impronte di passi che salgono e scendono delle scale (e in effetti la metafora calza). Fate caso che quando una nota sale verso un altra, il passaggio intermedio si scrive con un diesis. Per esempio da F a G si usa F#. L'inverso succede quando si scende: da G a F si usa Gb. Questo per allenarvi anche a leggere il pentagramma.</p>
 
 <p align="justify">A questo proposito un piccolo consiglio: non aggrappatevi sempre all'intavolatura, finirete per essere schiavi dei relativi pattern che il vostro cervello ne ricaverà. Usatela piuttosto come riferimento per posizionare subito le dita. Invece di buttare l'occhio sul numero, guardate il pentagramma e "solfeggiate" la nota. Mentre suonate E2, F2, F#2, G, ecc… e guardate le note sul pentagramma cantate a voce alta (o nella vostra testa) MI, FA, FA DIESIS, SOL, ecc… Cercate di concentrarvi leggendo la nota sul rigo o lo spazio, ascoltando la nota che suonate e cantando il suo nome. Il vostro cervello se la stamperà bene in mente. Imparerà come si chiama la nota, dove si scrive, e che suono ha. Niente male eh?</p>
@@ -68,10 +64,14 @@
 
 ## Scala Cromatica con pattern a 3 e 4 note ascendenti e discendenti
 
+[Scala Cromatica con pattern ascendenti e discendenti](pdf/scala-cromatica-pattern-ascendenti-e-discendenti.pdf)
+
 <p align="justify">Il primo esercizio esercizio (P.3.A. e P.3.D.) utilizza un pattern a 3 note ascendente e poi lo stesso pattern a 3 note discendente. Questo vuol dire che dovete suonare tre note, poi ricominciare dalla seconda nota e farne altre tre, e così via. Come fare tre passi avanti e due indietro con un salto. Una volta raggiunto il B3 ricominciare da quella stessa nota (quindi dovete suonarla due volte) e questa volta eseguite il pattern a 3 discendente.</p>
 
 <p align="justify">Il secondo esercizio (P.4.A. e P.4.D.) è simile al primo, ma il pattern è a quattro note. Quindi farete quattro passi avanti e tre indietro con un salto.</p>
 
 ## Scala Cromatica con pattern a 3 e 4 note ascendenti e discendenti inversi
 
-<p align="justify">Qui i due esercizi (... e ...) usano i pattern a 3 e 4 note, vanno in senso ascendente e discendente, ma il pattern è rovesciato. Suonerete la terza nota, poi la seconda e poi la prima, poi il pattern successivo al contrario, la quarta, la terza e la seconda, e così via.</p>
+[Scala Cromatica con pattern ascendenti e discendenti inversi](pdf/scala-cromatica-pattern-ascendenti-e-discendenti-inversi.pdf)
+
+<p align="justify">Qui i gli esercizi (P.3.A., P.3.D., P.4.A. e P.4.D.) usano i pattern a 3 e 4 note, vanno in senso ascendente e discendente, ma il pattern è rovesciato. Suonerete la terza nota, poi la seconda e poi la prima, poi il pattern successivo al contrario, la quarta, la terza e la seconda, e così via.</p>
