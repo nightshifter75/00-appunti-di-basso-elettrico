@@ -1,4 +1,4 @@
-# 5. Cenni di Teoria Musicale
+# 6. Cenni di Teoria Musicale
 
 <p align="justify">Non possiamo continuare a suonare senza sapere un accidenti di niente sulla musica. Dobbiamo proseguire sapendo almeno le basi. Quindi bambini adesso cercheremo di imparare tutte le paroline che ci serviranno per affrontare seriamente lo studio della <b>teoria musicale</b>, che altri non è che la disciplina che ci aiuta a scrivere, leggere e capire come si <i>muove</i> la musica.</p> 
 
