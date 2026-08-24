@@ -16,15 +16,21 @@
 
 <p align="justify">Cercate <b>sempre</b> di sentire quello che state suonando e di familiarizzare con i suoni e cercate, anche se lo farete inconsciamente, di percepire le similitudini e di aiutarvi con la melodia di quello che state suonando.</p>
 
-<p align="justify">Tornando alla scala cromatica, se siete sufficientemente pronti, cimentatevi con gli esercizi che seguono. In pratica si tratta di suonare una scala cromatica dal B1 o E2 al B3 (quindi dalla quinta/quarta corda a vuoto fino ad arrivare alla prima corda quarto tasto) in senso ascendente e discendente.</p>
+<p align="justify">Tornando alla scala cromatica, se siete sufficientemente pronti, cimentatevi con gli esercizi che seguono:</p>
 
 [Riscaldamento e Stretching](pdf/riscaldamento-e-stretching.pdf)
 
-<p align="justify">Nel primo esercizio (S.C., che sta per scala cromatica) tutto è semplice e lineare.</p>
+## Esercizio sulla Scala Cromatica (S.C.)
+
+<p align="justify">Nel primo esercizio tutto è semplice e lineare. In pratica si tratta di suonare una scala cromatica dal B1 o E2 al B3 (quindi dalla quinta/quarta corda a vuoto fino ad arrivare alla prima corda quarto tasto) in senso ascendente. Dove si trova la battuta vuota potete fermarvi oppure proseguire in senso discendente. Potete anche partire dal B3 e scendere verso il B1 o E2 e ricominciare in senso ascendente. Più lo farete e meglio sarà!</p>
+
+## Esercizi di Riscaldamento e Stretching (R.M.S., R.M.D., S.M.S. e S.M.D.)
 
 <p align="justify">Di seguito ci sono 4 esercizi: 2 di riscaldamento e 2 di stretching. Ricordatevi: controllate sempre la postura prima di cominciare, mettete un tempo di metronomo comodo, fate prima i due esercizi di riscaldamento, poi quelli di stretching e l'esercizio proposto. Insisto: eseguite sempre questa routine prima di cominciare ogni esercizio che verrà proposto. Gli esercizi sono proposti e spiegati per il basso a 5 corde ma sono facilmente adattabili per il basso a 4 corde.</p>.
 
-<p align="justify">Eseguite il primo esercizio di riscaldamento della mano sinistra (R.M.S.): avviate il metronomo a 60 o 80 bpm e sul primo battito e premete con l'indice della mano sinistra la nota alla quinta corda (o quarta corda) primo tasto e aspettate tre battiti. Successivamente, senza sollevare l'indice, premete con il medio sul secondo tasto e aspettate tre battiti. Nella stessa maniera, proseguite con l'anulare sul terzo tasto e il mignolo sul quarto.</p>
+## Riscaldamento Mano Sinistra (R.M.S.)
+
+<p align="justify">Eseguite il primo esercizio di riscaldamento della mano sinistra: avviate il metronomo a 60 o 80 bpm e sul primo battito e premete con l'indice della mano sinistra la nota alla quinta corda (o quarta corda) primo tasto e aspettate tre battiti. Successivamente, senza sollevare l'indice, premete con il medio sul secondo tasto e aspettate tre battiti. Nella stessa maniera, proseguite con l'anulare sul terzo tasto e il mignolo sul quarto.</p>
 
 <p align="justify">Al diciassettesimo battito alzate (poco!) le dita e rimettete l'indice sulla quinta corda (o quarta corda) primo tasto. Proseguite fino al mignolo sempre alla stessa maniera (senza alzare le dita già poggiate e aspettando quattro battiti), ma il mignolo poggerà non sulla stessa corda ma sulla corda sotto premendo il quarto tasto.</p>
 
@@ -32,10 +38,40 @@
 
 <p align="justify">Come dite? Non è uscito nessun suono? Certo! Nessuno vi ha detto di suonare!</p>
 
-<p align="justify">Il secondo esercizio utilizza un pattern a 3 note ascendente e poi lo stesso pattern a 3 note discendente. Questo vuol dire che dovete suonare tre note, poi ricominciare dalla seconda nota e farne altre tre, e così via. Come fare tre passi avanti e due indietro con un salto. Una volta raggiunto il B3 ricominciare da quella stessa nota (quindi dovete suonarla due volte) e questa volta eseguite il pattern a 3 discendente. Il terzo esercizio è simile al secondo, ma il pattern è a quattro note. Quindi farete quattro passi avanti e tre indietro con un salto. Il quarto e quinto esercizio usano i pattern a 3 e 4 note, vanno in senso ascendente e discendente, ma il pattern è rovesciato. Suonerete la terza nota, poi la seconda e poi la prima, poi il pattern successivo al contrario, la quarta, la terza e la seconda, e così via.</p>
+## Riscaldamento Mano Destra (R.M.D.)
+
+<p align="justify">Adesso suonerete ben quattro note! E se usate il basso a 5 corde suonerete ben cinque note! Sempre a tempo di metronomo intorno ai 60-80 bpm, suonate la quinta o quarta corda a vuoto per sedici volte, alternando le due dita, poi la quarta o terza, poi la terzo o la seconda e poi la seconda o prima e via dicendo. Fatto questo eseguite il tutto a rovescio.</p>
+
+## Stretching Mano Sinistra (S.M.S.)
+
+<p align="justify">Dopo aver riscaldato le mani bisogna "stiracchiarle". Eseguite questo esercizio suonando questo pattern con l'indice, la seconda nota con il medio senza staccare l'indice e la terza con il mignolo senza staccare le altre due. Sentirete sicuramente i muscoli che si stano stirando. Tenendo questa posizione suonate anche la quarta nota, a tempo. Alzate le dita (poco!) e ripetete la stessa posizione al secondo tasto per altre due misure, poi al terzo e poi al quarto. Dopo ripetete la stessa cosa ma partendo dal primo tasto prima corda.</p>
+
+## Stretching Mano Destra (S.M.D.)
+
+<p align="justify">Eseguite questo esercizio suonando a tempo le prime 16 note seguendo il pattern con indice, medio, anulare e mignolo della mano sinistra, usandoli uno a uno senza staccarli e alternando indice e medio della mano destra. Dopodiché fate scivolare la mano sinistra in modo che l'indice vada sul quinto tasto e procedete allo stesso modo per le altre 16 note. Ripetete la stessa cosa con le altre corde.</p>
+
+## Altri esercizi sulla scala cromatica
+
+<p align="justify">Come vi sarete resi conto questi esercizi hanno una valenza squisitamente tecnica e non musicale. Tuttavia sono importanti e sono stati costruiti per padroneggiare l'intero manico. Sono esercizi che cercano di toccare tutti i tasti e le corde a vuoto, per permettere di creare una <b>memoria muscolare</b> in grado di collegare subito il pensiero all'azione.</p>
+
+<p align="justify">Quindi qui di seguito ecco altri esercizi sempre basati sulla scala cromatica.</p>
+
+[Scala Cromatica con pattern ascendenti e discendenti](pdf/scala-cromatica-pattern-ascendenti-e-discendenti.pdf)
+
+[Scala Cromatica con pattern ascendenti e discendenti inversi](pdf/scala-cromatica-pattern-ascendenti-e-discendenti-inversi.pdf)
 
 <p align="justify">Se osservate l'intavolatura vi renderete conto dello schema delle note da eseguire con le dita. Se invece osservate il pentagramma vi renderete conto del cammino che intraprenderete. Le note seguono una strada, come fossero delle impronte di passi che salgono e scendono delle scale (e in effetti la metafora calza). Fate caso che quando una nota sale verso un altra, il passaggio intermedio si scrive con un diesis. Per esempio da F a G si usa F#. L'inverso succede quando si scende: da G a F si usa Gb. Questo per allenarvi anche a leggere il pentagramma.</p>
 
 <p align="justify">A questo proposito un piccolo consiglio: non aggrappatevi sempre all'intavolatura, finirete per essere schiavi dei relativi pattern che il vostro cervello ne ricaverà. Usatela piuttosto come riferimento per posizionare subito le dita. Invece di buttare l'occhio sul numero, guardate il pentagramma e "solfeggiate" la nota. Mentre suonate E2, F2, F#2, G, ecc… e guardate le note sul pentagramma cantate a voce alta (o nella vostra testa) MI, FA, FA DIESIS, SOL, ecc… Cercate di concentrarvi leggendo la nota sul rigo o lo spazio, ascoltando la nota che suonate e cantando il suo nome. Il vostro cervello se la stamperà bene in mente. Imparerà come si chiama la nota, dove si scrive, e che suono ha. Niente male eh?</p>
 
 <p align="justify">Ricordate: controllate la postura, impostate il metronomo, fate riscaldamento, stretching e poi gli esercizi. Mentre fate gli esercizi, non guardate le mani, ascoltate quello che suonate e cantatelo.</p>
+
+## Scala Cromatica con pattern a 3 e 4 note ascendenti e discendenti
+
+<p align="justify">Il primo esercizio esercizio utilizza un pattern a 3 note ascendente e poi lo stesso pattern a 3 note discendente. Questo vuol dire che dovete suonare tre note, poi ricominciare dalla seconda nota e farne altre tre, e così via. Come fare tre passi avanti e due indietro con un salto. Una volta raggiunto il B3 ricominciare da quella stessa nota (quindi dovete suonarla due volte) e questa volta eseguite il pattern a 3 discendente. Il terzo esercizio è simile al secondo, ma il pattern è a quattro note. Quindi farete quattro passi avanti e tre indietro con un salto. Il quarto e quinto esercizio usano i pattern a 3 e 4 note, vanno in senso ascendente e discendente, ma il pattern è rovesciato. Suonerete la terza nota, poi la seconda e poi la prima, poi il pattern successivo al contrario, la quarta, la terza e la seconda, e così via.</p>
+
+## Scala Cromatica con pattern a 3 e 4 note ascendenti e discendenti inversi
+
+<p align="justify">Il primo esercizio esercizio utilizza un pattern a 3 note ascendente e poi lo stesso pattern a 3 note discendente. Questo vuol dire che dovete suonare tre note, poi ricominciare dalla seconda nota e farne altre tre, e così via. Come fare tre passi avanti e due indietro con un salto. Una volta raggiunto il B3 ricominciare da quella stessa nota (quindi dovete suonarla due volte) e questa volta eseguite il pattern a 3 discendente. Il terzo esercizio è simile al secondo, ma il pattern è a quattro note. Quindi farete quattro passi avanti e tre indietro con un salto. Il quarto e quinto esercizio usano i pattern a 3 e 4 note, vanno in senso ascendente e discendente, ma il pattern è rovesciato. Suonerete la terza nota, poi la seconda e poi la prima, poi il pattern successivo al contrario, la quarta, la terza e la seconda, e così via.</p>
+
+
