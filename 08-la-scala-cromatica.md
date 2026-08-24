@@ -27,7 +27,3 @@
 <p align="justify">A questo proposito un piccolo consiglio: non aggrappatevi sempre all'intavolatura e conseguentemente di essere schiavi dei relativi pattern che il vostro cervello ne ricaverà. Usatela piuttosto come riferimento per posizionare subito le dita. Invece di buttare l'occhio sul numero, guardate il pentagramma e "solfeggiate" la nota. Mentre suonate E2, F2, F#2, G, ecc… e guardate le note sul pentagramma cantate a voce alta (o nella vostra testa) MI, FA, FA DIESIS, SOL, ecc… Cercate di concentrarvi leggendo la nota sul rigo o lo spazio, ascoltando la nota che suonate e cantando il suo nome. Il vostro cervello se la stamperà bene in mente. Imparerà come si chiama la nota, dove si scrive, e che suono ha. Niente male eh?</p>
 
 <p align="justify">Ricordate: controllate la postura, impostate il metronomo, fate riscaldamento, stretching e poi gli esercizi. Mentre fate gli esercizi, non guardate le mani, ascoltate quello che suonate e cantatelo.</p>
-
-![Pattern ascendenti e discendenti per basso a 4 corde](img/infografica/pattern-4-corde.png)
-
-![Pattern ascendenti e discendenti per basso a 5 corde](img/infografica/pattern-5-corde.png)
