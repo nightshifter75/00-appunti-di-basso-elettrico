@@ -158,7 +158,7 @@ Semplifichiamo un attimo e consideriamo questa tabella:
 
 Si parte dall'intestazione e si prende una colonna, ad esempio la colonna D. Questa colonna, letta in verticale non rappresenta altro che la scala cromatica di D. La stessa cosa vale per tutte le altre colonne che hanno per intestazione una nota.
 
-In effetti leggendo le righe e le colonne di questa tabella si può constatare che non è altro che una "mappa" delle scale cromatiche a partire da tutte le note, umn po' come le tabelline che avevamo stampate sul retro del quaderno di scuola, quello a quadretti che si usava per aritmetica, matematica e geometria.
+In effetti leggendo le righe e le colonne di questa tabella si può constatare che non è altro che una "mappa" delle scale cromatiche a partire da tutte le note, un po' come le tabelline che avevamo stampate sul retro del quaderno di scuola, quello a quadretti che si usava per aritmetica, matematica e geometria.
 
 Torniamo alla tabella originale, non questa "mozzata": la linea numero 3 rappresenta tutti gli INTERVALLI di SECONDA MAGGIORE che hanno una distanza di 2 SEMITONI (colonna ST) dalla nota di partenza. Quindi la nota D e la nota E sono un intervallo di SECONDA MAGGIORE e la nota E rappresenta la SOPRATONICA di della scala maggiore di D.
 
