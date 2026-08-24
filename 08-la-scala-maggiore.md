@@ -57,7 +57,7 @@ Per concludere: F, G, A, Bb, C, D, E, F è il modo corretto di scrivere una scal
 
 Per avvalorare tutto questo, notate la scala maggiore di D: D, E, F#, G, A, B, C#, D. pur avendo due note alterate, queste vengono scritte con il # perché il nome delle note mantiene la successione diatonica (o regoletta dell'alfabeto, tanto lo so che ve la ricorderete così).
 
-**Perché dovete ricordarvela?** Ve lo spiego più avanti.
+**Perché dovete ricordarvela?** Andate avanti.
 
 ## Gradi e Intervalli
 
