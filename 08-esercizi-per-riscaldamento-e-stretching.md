@@ -3,7 +3,6 @@
 
 ## Riscaldamento Mano Destra
 
-[Riscaldamento mano destra per basso a 4 corde](pdf/riscaldamento-mano-destra-4-corde.pdf)
 
 [Riscaldamento mano destra per basso a 5 corde](pdf/riscaldamento-mano-destra-5-corde.pdf)
 
