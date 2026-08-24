@@ -170,7 +170,7 @@ Una volta chiaro il concetto di intervallo, il concetto di grado si spiega megli
 
 **La tonalità è il centro tonale di un pezzo musicale**, che significa che a partire da una certa nota, si possono costruire accompagnamenti e melodie che risultano in **chiave** (ovvero che *suonano bene*) con la tonalità scelta.
 
-Una tonalità  si stabilisce con la tonica e con gli intervalli della scala. Se partiamo dal C e procediamo con gli intervalli T T S T T T S avremo C D E F G A B C e quindi una scala di C MAGGIORE. Da notare (come illustrato nella tabella dei gradi e degli intervalli) che le note C D E F G A B C corrispondono ai gradi tonica, sopratonica, modale, sottodominante, dominante, sopraddominante, sensibile e tonica. Analogamente per costruire una scala di D MAGGIORE si procede partendo da D, si stabiliscono i gradi attraverso gli intervalli e si ricavano le otto note della scala. 
+Una tonalità si stabilisce con la **tonica** e con gli **intervalli della scala**. Se partiamo dal C e procediamo con gli intervalli T T S T T T S avremo C D E F G A B C e quindi una scala di C MAGGIORE. Da notare (come illustrato nella tabella dei gradi e degli intervalli) che le note C D E F G A B C corrispondono ai gradi tonica, sopratonica, modale, sottodominante, dominante, sopraddominante, sensibile e tonica. Analogamente per costruire una scala di D MAGGIORE si procede partendo da D, si stabiliscono i gradi attraverso gli intervalli e si ricavano le otto note della scala. 
 
 Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi della scala maggiore possiamo, con la tabella che segue, ricavare tutte e tredici le tonalità maggiori:
 
