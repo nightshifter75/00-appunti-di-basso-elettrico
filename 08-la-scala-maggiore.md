@@ -213,7 +213,7 @@ Vi ricordate che cos'è la chiave? È quel simbolo che poggia sul G (la chiave d
 
 Quindi, se si prende un pentagramma e si mettono le note sopra per riuscire a capire in che tonalità è il brano, bisogna fare una rapida lettura delle note per capire come poggiano le note naturali e alterate. Che noia vero?
 
-Ma se vi dicessi che c'è un simbolo che si mette fra la chiave e l'indicazione di tempo? La chiave può avere infatti un'armatura, esattamente come un guerriero medievale. Per poter schivare tutte le note con le alterazioni che gli vengono scoccate come frecce da un arco, si mette sulla sua bella armatura tutti i diesis e i bemolle corrispondenti alle note alterate che in maniera naturale porgere ebbero su quel pentagramma, accordandosi appunto con la tonalità.
+Ma se vi dicessi che c'è un simbolo che si mette fra la chiave e l'indicazione di tempo? La chiave può avere infatti un'armatura, esattamente come un guerriero medievale. Per poter schivare tutte le le alterazioni delle note che gli vengono scoccate come frecce da un arco, si mette sulla sua bella armatura tutti i diesis e i bemolle corrispondenti alle note alterate che in maniera naturale porgere ebbero su quel pentagramma, accordandosi appunto con la tonalità.
 
 Bella questa metafora, vero?
 
