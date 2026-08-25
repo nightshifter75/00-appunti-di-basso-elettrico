@@ -197,9 +197,9 @@ Esempio: le tonalità di D#, E#/Fb, G# e A# si indicano con il secondo nome enar
 
 Ma che significa la frase **ci sarebbero troppe alterazioni in chiave**? Ve lo ricordate, sì che la musica si scrive su pentagramma e non con le lettere A, B, C, D, E, F e G, giusto?
 
-Le alterazioni servono per facilitare la scrittura sul pentagramma. Le note che poggiano sui righi e gli spazi del pentagramma sono solo le note naturali. Se ci troviamo in presenza di una nota in armonica in realtà non è aumentata o diminuita, non viene sollevata o abbassata sui righi e gli spazi del pentagramma. Viene come, dice la parola stessa, alterata.
+Le alterazioni servono per facilitare la scrittura sul pentagramma. Le note che poggiano sui righi e gli spazi del pentagramma sono solo le note naturali. Se una nota viene aumentata o diminuita di un semitono non sempre viene automaticamente sollevata o abbassata sui righi e gli spazi del pentagramma. Viene come, dice la parola stessa, alterata.
 
-Se io rendo una scala maggiore di C o una scala maggiore di F io ho sempre gli stessi intervalli da rispettare: T T S T T T S, ovvero C (T) D (T) E (S) F (T) G (T) A (T) B (S) C. Le note della scala di C corrispondono a tutte note naturali senza alterazioni e che quindi poggiano su righi e spazi tranquillamente. Diciamo che a quel punto la tonalità è di C e se io sul mio pentagramma scrivo tutte note a casaccio senza mettere nessuna alterazione, posso ritrovarmi con una melodia che si trova **in chiave** (ovvero che *suona bene*) con la scala di C.
+Se io rendo una scala maggiore di C mi trovo intervalli da rispettare: T T S T T T S, ovvero C (T) D (T) E (S) F (T) G (T) A (T) B (S) C. Le note della scala di C corrispondono a tutte note naturali senza alterazioni e che quindi poggiano su righi e spazi tranquillamente. Quindi la tonalità è di C. Se sul mio pentagramma scrivo tutte note a casaccio senza mettere nessuna alterazione, posso ritrovarmi con una melodia che si trova **in chiave** (ovvero che *suona bene*) con la scala di C.
 
 Se prendo in considerazione la scala di F ci vado abbastanza vicino, devo solo ricordarmi che ogni volta che esce fuori un B devo alterarlo, abbassandolo di un semitono, ovvero non posso scrivere un B ma devo scrivere un Bb. Non posso scrivere quella nota in un rigo o uno spazio al di sotto, devo per forza di cose scrivere l'alterazione. Questo vale per il Bb come per tutte le altre note con una qualsiasi alterazione che sia # o b. Non salgono e non scendono nel pentagramma. Ma siccome la loro altezza non corrisponde alla nota che giace sul rigo sullo spazio, ecco perché si usa l'alterazione.
 
@@ -209,7 +209,7 @@ Immaginate di avere un brano nella tonalità di F con un sacco di note Bb. In ef
 
 Ma una soluzione c'è: le **Armature di Chiave**.
 
-Vi ricordate che cos'è la chiave? È quel simbolo che poggia sul G (la chiave di violino) e e quell'altro che poggia sul F (la chiave di basso). Subito dopo la chiave c'è l'assegnazione di tempo, ovvero quattro quarti (4/4), tre quarti (3/4), due quarti (2/4), sedici ottavi (16/8), eccetera. Come già noto, la chiave attribuisce ai righi e agli spazi le note. Questo significa che sulla chiave di violino il penultimo rigo è il G mentre sulla chiave di basso il secondo rigo è il F. Abbiamo anche imparato che il pentagramma con la chiave di violino ha le note più acte rispetto al pentagramma con la chiave di basso, e che se li mettiamo uno sopra l'altro l'altezza delle note è progressiva. La nota più in basso della chiave di violino, quella con il taglio addizionale è un E. Se si continua a salire con le note sulla chiave di basso, si arriva alla prima nota fuori dal pentagramma con il taglio addizionale che sarebbe il C. Ma questo C è lo stesso C di prima, per cui si continua imperterriti a salire il pentagramma fino ad arrivare alla prima nota fuori dal pentagramma con il taglio addizionale, ovvero il A.
+Vi ricordate che cos'è la chiave? È quel simbolo che poggia sul G (la chiave di violino) e e quell'altro che poggia sul F (la chiave di basso). Subito dopo la chiave c'è l'assegnazione di tempo, ovvero quattro quarti (4/4), tre quarti (3/4), due quarti (2/4), sedici ottavi (16/8), eccetera. Come già noto, la chiave attribuisce ai righi e agli spazi le note. Questo significa che sulla chiave di violino il penultimo rigo è il G mentre sulla chiave di basso il secondo rigo è il F. Abbiamo anche imparato che il pentagramma con la chiave di violino ha le note più acte rispetto al pentagramma con la chiave di basso, e che se li mettiamo uno sopra l'altro l'altezza delle note è progressiva. Nella chiave di basso, la nota sotto all'ultimo rigo con il taglio addizionale è un E. Se si continua a salire con le note sulla chiave di basso, si arriva alla prima nota fuori dal pentagramma con il taglio addizionale che sarebbe il C. Ma questo C è esattamente la nota con il taglio addizionale della chiave di G. È lo stesso C, per cui si continua imperterriti a salire il pentagramma fino ad arrivare alla prima nota fuori dal pentagramma con il taglio addizionale, ovvero il A.
 
 Quindi, se si prende un pentagramma e si mettono le note sopra per riuscire a capire in che tonalità è il brano, bisogna fare una rapida lettura delle note per capire come poggiano le note naturali e alterate. Che noia vero?
 
@@ -217,21 +217,12 @@ Ma se vi dicessi che c'è un simbolo che si mette fra la chiave e l'indicazione 
 
 Bella questa metafora, vero?
 
-Quindi, ricapitolando, se mi trovo in tonalità di C sono muto senza armatura, e se mi trovo in un'altra tonalità dovrò armare tanti più diesis e bemolli quanti corrispondono alla tabella delle tonalità di cui sopra.
+Quindi, ricapitolando, se mi trovo in tonalità di C sono senza armatura, e se mi trovo in un'altra tonalità dovrò armare tanti più diesis e bemolli quanti corrispondono alla tabella delle tonalità di cui sopra.
 
 Ma come si scrivono? Eccolo:
 
 [TABELLA DELLE ARMATURE DI CHIAVE]
 
 [CONCETTO CIRCOLO DELLE QUINTE]
-
-
-
-
-
-
-
-
-
 
 
