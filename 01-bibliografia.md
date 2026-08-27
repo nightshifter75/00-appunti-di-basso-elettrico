@@ -23,3 +23,9 @@ Nella stesura di questi appunti verranno utilizzate questi tipi di evidenziazion
 
 > [!WARNING]
 > <b>Questo è un avvertimento!</b>
+
+## Infografiche su di me, la mia storia, chi sono, che sto facendo...
+
+![Infografica](img/infografica/chi-sono.png)
+![Infografica](img/infografica/chi-sono-aggiornameto.png)
+![Infografica](img/infografica/chi-sono-tiorba.png)
