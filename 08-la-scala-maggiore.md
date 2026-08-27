@@ -257,6 +257,39 @@ Ma come si scrivono? Eccolo:
   </tr>
 </table>
 
-[CONCETTO CIRCOLO DELLE QUINTE]
+ ## Il Circolo delle Quinte: La Ruota della Fortuna (e dei Dolori) del Musicist
 
+<p align="justify">Immagina il Circolo delle Quinte come un enorme <b>orologio cosmico della musica</b>, ma invece di segnare le ore per la pausa caffè, serve a ricordarti quante alterazioni (diesis o bemolli) dovrai gestire prima di sbagliare nota.</p>
+
+<h2>1. L'Ora di Punta: Ore 12:00 – C maggiore (La Zolla di Comfort)</h2>
+<p align="justify">A mezzogiorno spaccato troviamo il <b>C maggiore</b> (Do Maggiore). Il C è la Svizzera della teoria musicale: <b>zero diesis, zero bemolli</b>. È la scala dei pigri, dei principianti e di chi ha appena preso in mano lo strumento. Nessun accidente da ricordare, solo tasti bianchi o note "pulite". Qui la vita è semplice.</p>
+
+<h2>2. Il Clan dei Diesis (#): Gira a Destra (In Senso Orario)</h2>
+<p align="justify">Non appena ti sposti in senso orario, inizi a salire <b>di quinta in quinta</b> (C → G → D → A → E → B → F# → C#). Ma c'è un prezzo da pagare per ogni salto di quinta: <b>un diesis in più nello zaino!</b></p>
+
+<ul>
+  <li><b>Ore 1 (G maggiore):</b> Aggiungi il <b>F#</b>. <em>Proprio lui, il 7° grado (la sensibile) che chiede disperatamente di salire al G.</em></li>
+  <li><b>Ore 2 (D maggiore):</b> Ti tiene il F# di prima e ti regala pure il <b>C#</b>.</li>
+  <li><b>Ore 3 (A maggiore):</b> Ora sono 3 diesis (F#, C#, G#). Il basso comincia a richiedere una ginnastica digitale non indifferente.</li>
+</ul>
+
+<p align="justify">E così via, in un'escalation di cancelletti (#) fino al <b>C# maggiore</b>, dove tutte e 7 le note sono alterate. A quel punto la domanda sorge spontanea: <em>ma non potevamo rimanere a C maggiore?</em></p>
+
+<p align="justify">L'ordine di comparsa dei diesis segue la celebre e spietata sequenza:</p>
+<pre>F – C – G – D – A – E – B</pre>
+
+<h2>3. Il Club dei Bemolli (♭): Gira a Sinistra (In Senso Antiorario)</h2>
+<p align="justify">Se invece di andare a destra decidi di scendere in senso antiorario, ti muovi <b>per quarte ascendenti</b> (o quinte discendenti: C → F → Bb → Eb → Ab → Db → Gb → Cb). Benvenuto nel regno del Jazz e dei fiati!</p>
+
+<p align="justify">Qui non si aggiungono diesis, ma si collezionano <b>bemolli</b>. E come nascono? Ogni volta che scendi di una quarta, il <b>4° grado</b> della nuova scala viene "spianato" e diventa bemolle per rispettare la sacra formula dei toni e semitoni: <code>T - T - S - T - T - T - S</code>.</p>
+
+<p align="justify">L'ordine di comparsa dei bemolli è semplicemente la sequenza dei diesis vista al contrario (perché la teoria musicale adora prenderti in giro):</p>
+<pre>B – E – A – D – G – C – F</pre>
+
+<h2>4. La Zona d'Ombra a Ore 6: L'Enarmonia (I Gemelli Diversi)</h2>
+<p align="justify">A fondo scala (attorno alle 6:00) ci si imbatte nella nebbia dell'<b>Enarmonia</b>: posti come <b>F# maggiore</b> (6 diesis) e <b>Gb maggiore</b> (6 bemolli).</p>
+<p align="justify">Sul manico del basso o sulla tastiera suoni <b>esattamente gli stessi identici tasti</b>, ma sul pentagramma gli spartiti sono scritti in due lingue diverse solo per il gusto di far venire un mal di testa al musicista mentre legge a prima vista.</p>
+
+<h2>In sintesi</h2>
+<p align="justify">Il Circolo delle Quinte non è altro che la dimostrazione che in musica <b>tutto torna sempre al punto di partenza</b>, a patto di aver contato abbastanza toni, semitoni e alterazioni lungo il tragitto!</p>
 
