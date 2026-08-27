@@ -224,7 +224,7 @@ Ma come si scrivono? Eccolo:
 <table>
   <tr>
     <td colspan="2" style="text-align:center;">
-      <img src="/img/armature/solo_maggiore/00_C_maggiore.png" alt="C maggiore" width="30%" height="15%">
+      <img src="/img/armature/solo_maggiore/00_C_maggiore.png" alt="C maggiore" width="50%" height="50%">
     </td>
   </tr>
   <tr>
