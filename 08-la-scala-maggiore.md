@@ -193,7 +193,7 @@ Di nuovo, il fatto che alcune tonalità siano indicate con i diesis e alcune con
 
 Esempio: le tonalità di D#, E#/Fb, G# e A# si indicano con il secondo nome enarmonico Eb, F (in questo caso il nome della scala è naturale), Ab e Bb. Questo perché se consideriamo le note della scala con i diesis **ci sarebbero troppe alterazioni in chiave** (mò ve la spiego) e una scrittura troppo complessa.
 
-## Armature di Chiave e Circolo delle Quinte
+## Armature di Chiave
 
 Ma che significa la frase **ci sarebbero troppe alterazioni in chiave**? Ve lo ricordate, sì che la musica si scrive su pentagramma e non con le lettere A, B, C, D, E, F e G, giusto?
 
