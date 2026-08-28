@@ -26,8 +26,9 @@ Nella stesura di questi appunti verranno utilizzate questi tipi di evidenziazion
 
 ## Infografiche su di me, la mia storia, chi sono, che sto facendo...
 
-![Infografica](img/infografica/chi-sono.png)
-![Infografica](img/infografica/chi-sono-tiorba.png)
+![Infografica](img/infografica/chi-sono-il-bassista.png)
+![Infografica](img/infografica/chi-sono-l-informatico.png)
+![Infografica](img/infografica/chi-sono-il-bardo.png)
 
 ## Aggiornamenti e progetti futuri
 
