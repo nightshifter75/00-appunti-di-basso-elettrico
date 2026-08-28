@@ -1,6 +1,6 @@
 # 2. Consigli utili
 
-Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. Lasciate che vi dica due parole sullo studio di uno strumento: 
+<p align="justify">Se siete ancora qui è molto probabile che vogliate suonare il basso elettrico. Lasciate che vi dica due parole sullo studio di uno strumento:</p> 
 
 > [!NOTE]
 > Cercate un bravo insegnante (privato o presso una scuola) e, se potete, tenetevelo.
