@@ -4,6 +4,8 @@
 
 <p align="justify">La <b>Scala Cromatica</b> è una scala musicale composta <b>da tutti e dodici i semitoni del sistema temperato</b>, la cui estensione copre tutti i suoni compresi in un ottava. <b>Quindi la scala cromatica è la scala che contiene tutte le altre scale.</b> Parte da una qualsiasi nota e arriva alla stessa nota dalla quale è partita, un'ottava sopra. Tuttavia, la scala cromatica completa non ha una validità dal punto di vista dell'armonia e della melodia, non viene quasi mai usata nella sua intera estensione, se non nei casi in cui si intende riprodurre l'effetto di un glissando, con strumenti che non possono modulare in maniera continua i suoni, come il pianoforte.</p>
 
+<p align="justify">Ecco di seguito l'esempio di una scala cromatica di B a due ottave, che come potete notare dal pentagramma e dall'intavolatura parte da B1 (ovvero la quinta corda, quella più grave, suonata a vuoto) e arriva a B3 (ovvero il quarto tasto della prima corda, quella più acuta)</p>
+
 ![Scala Cromatica](img/note-musicali/scala-cromatica.png)
 
 <p align="justify">Conoscere e suonare in continuazione la scala cromatica è il pane quotidiano per qualsiasi musicista. Padroneggiare la tastiera tasto per tasto (sia pianoforte che basso elettrico, ma anche chitarra, violino, contrabbasso, ecc…) è la prima preoccupazione che dovreste avere. E come si fa? Bisogna provare provare provare…</p>
