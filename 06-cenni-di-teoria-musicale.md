@@ -35,12 +35,6 @@
 ![Note Udibili](img/infografica/note-udibili.png)
 
 <p align="justify">Questa figura mostra la posizione (rispetto a ogni chiave) della nota più bassa udibile e suonabile dal pianoforte (A0) e di tutti i C di tutte le ottave che i dotti medici e sapienti hanno stabilito per noi udibili (da C1 a C8).</p>
-  
-<p align="justify">E adesso un'altra:</p>
-
-![Note sulla tastiera](img/infografica/note-sulla-tastiera.png)
-
-<p align="justify">Questa figura mostra la corrispondenza delle note sul pentagramma con i tasti del basso elettrico.</p>
 
 <p align="justify">La <b>durata</b> di una nota (o di una pausa) si specifica con la forma della nota (o della pausa) stessa, e viene indicata in senso relativo (un quarto, un ottavo, ecc…). Più tardi sarà più chiaro a cosa si riferisce il rapporto di un quarto o un ottavo. Come vedete le note hanno una testa "vuota" o "piena" e possono avere o meno un gambo, con o senza una o più code. La direzione del gambo è verso l'alto se la nota è sotto il rigo centrale (qualunque sia la chiave) o verso il basso se la nota si trova dal rigo centrale in su (rigo centrale compreso):</p>
 
