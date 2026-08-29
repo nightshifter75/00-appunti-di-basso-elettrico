@@ -86,3 +86,5 @@
 <p align="justify">La nota più grave (E2 o B1) si ottiene pizzicando la corda a vuoto, cioè pizzicandola con l'indice della mano destra. La nota successiva (F2 o C2) si ottiene mettendo l'indice della mano sinistra sul primo tasto della corda più grave e pizzicando la corda con il medio della mano destra. La nota immediatamente successiva (F#2/Gb2 o C#2/Db2) si ottiene mettendo il medio della mano sinistra sul secondo tasto e pizzicando la corda con l'indice della mano destra senza spostare le dita fino ad ora usate. E così via…</p>
 
 <p align="justify">Non devo continuare, vero?</p>
+
+![Note Fantastiche](img/infografica/note-fantastiche.png)
