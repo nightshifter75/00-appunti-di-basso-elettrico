@@ -270,7 +270,10 @@
   </tr>
 </table>
 
- ## Il Circolo delle Quinte
+![Scala Maggiote](img/infografica/scala-maggiore.png)
+
+
+## Il Circolo delle Quinte
 
 <p align="justify">A me il circolo delle quinte è sempre stato un po' sulle palle. Ho sempre pensato che i musicisti (soprattutto quelli classici, che talvolta sanno a malapena cosa sia un accordo nella pratica moderna) imparino le tonalità e le relative armature di chiave a memoria e amen.</p>
 
