@@ -172,19 +172,19 @@
   <li>L'altezza del suono si dice <b>pitch</b>;</li>
   <li>La durata si dice <b>duration</b>;</li>
   <li>L'alterazione si dice <b>accidental</b>;</li>
-  <li>La chiave si dice <b>clef</b> (es. <i>bass clef</i> per la chiave di FA, <i>treble clef</i> per la chiave di SOL);</li>
-  <li>La tonalità (o armatura di chiave) si dice <b>key</b> (o <i>key signature</i>);</li>
-  <li>La misura o battuta si dice <b>measure</b> oppure <b>bar</b>;</li>
+  <li>La chiave si dice <b>bass clef</b> per la chiave di basso e <b>treble clef</b> per la chiave di violino;</li>
+  <li>La tonalità (o armatura di chiave) si dice <b>key signature</b>;</li>
+  <li>La misura o battuta si dice <b>measure</b> o <b>bar</b>;</li>
   <li>L'indicazione di tempo (il metro) si dice <b>time signature</b>;</li>
   <li>Il battito/movimento si dice <b>beat</b>;</li>
-  <li>La legatura di valore si dice <b>tie</b> (es. <i>tie across the barline</i> quando lega note tra due misure diverse o <i>tie across the beat</i> all'interno della stessa misura);</li>
-  <li>Il punto di valore si dice <b>dot</b> (o <i>augmentation dot</i>), mentre la nota col punto si definisce <b>dotted note</b>;</li>
-  <li>La legatura di frase o di legato si dice <b>slur</b> (mentre l'effetto esecutivo si dice <i>legato</i>);</li>
+  <li>La legatura di valore si dice <b>tie across the barline</b> quando lega note tra due misure diverse o <b>tie across the beat</b> all'interno della stessa misura;</li>
+  <li>Il punto di valore si dice <b>augmentation dot</b> mentre la nota col punto si definisce <b>dotted note</b>;</li>
+  <li>La legatura di frase o di legato si dice <b>slur</b> mentre l'effetto esecutivo tipo glissando si dice <b>legato</b>;</li>
   <li>La terzina si dice <b>triplet</b>;</li>
   <li>Lo staccato si dice <b>staccato</b>;</li>
   <li>La velocità d'esecuzione del brano si dice <b>tempo</b> e si misura in <b>BPM</b> (<i>beats per minute</i>);</li>
-  <li>La dinamica si dice <b>dynamics</b> (mentre in ambito MIDI/digitale la velocità di attacco del tasto è detta <i>velocity</i>);</li>
+  <li>La dinamica si dice <b>dynamics</b> mentre in ambito informatico la velocità di attacco del tasto è detta <b>velocity</b>;</li>
   <li>Il diesis si dice <b>sharp</b> (simbolo ♯);</li>
   <li>Il bemolle si dice <b>flat</b> (simbolo ♭);</li>
-  <li>Il bequadro si dice <b>natural</b> (o <i>natural sign</i>, simbolo ♮).</li>
+  <li>Il bequadro si dice <b>natural sign</b> (simbolo ♮).</li>
 </ul>
