@@ -1,8 +1,9 @@
 # 8. La Scala Maggiore
 
-La **Scala Maggiore** è una scala di 8 **gradi** all'interno della **Scala Cromatica** con i seguenti intervalli: **T-T-S-T-T-T-S**.
+<p align="justify">La <b>scala maggiore</b> è una scala formata da <b>7 gradi differenti</b> (più l'ottava della tonica) selezionati all'interno della <b>scala cromatica</b>. La sua struttura caratteristica è definita dalla seguente successione di intervalli: <b>T - T - S - T - T - T - S</b> (dove <b>T</b> sta per Tono e <b>S</b> sta per Semitono).</p>
 
-Ecco la scala maggiore di C confrontata con la scala cromatica di C.
+<p align="justify">Di seguito viene mostrata la scala maggiore di <b>C</b> posta a diretto confronto con la scala cromatica di <b>C</b>:</p>
+
 ```
 ┌──────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
 │ SCALA E NOTE │  1   │  2   │  3   │  4   │  5   │  6   │  7   │  8   │  9   │  10  │  11  │  12  │  13  │
@@ -14,9 +15,9 @@ Ecco la scala maggiore di C confrontata con la scala cromatica di C.
 └──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
 
-Le altre scale maggiori si trovano partendo da qualsiasi nota e rispettando gli intervalli T-T-S-T-T-T-S.
+<p align="justify">Tutte le altre scale maggiori si ottengono partendo da una qualsiasi nota scelta come tonica e applicando rigorosamente la medesima successione di intervalli: <b>T - T - S - T - T - T - S</b>.</p>
 
-Qui di seguito la scala cromatica e maggiore di F.
+<p align="justify">Applicando questa formula a partire dalla nota <b>F</b>, otteniamo la scala maggiore di F composta dalle note <b>F, G, A, B♭, C, D, E</b> e l'ottava <b>F</b>. Notate l'inserimento dell'alterazione <b>B♭</b> sul quarto grado, necessaria per mantenere l'intervallo di semitono tra il terzo e il quarto grado (A - B♭). Di seguito viene riportato il confronto tra la scala cromatica e la scala maggiore di <b>F</b>:</p>
 
 ```
 ┌──────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
@@ -28,7 +29,7 @@ Qui di seguito la scala cromatica e maggiore di F.
 │ GRADI        │  I   │      │  II  │      │  III │  IV  │      │  V   │      │  VI  │      │  VII │ VIII │
 └──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
-E ora la scala cromatica e maggiore di D:
+<p align="justify">E ora la scala cromatica e maggiore di D:</p>
 
 ```
 ┌──────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
@@ -42,28 +43,29 @@ E ora la scala cromatica e maggiore di D:
 ```
 
 > [!WARNING]
-> **Prima di scandalizzarvi, notando che la sesta nota della scala cromatica di F si chiama A# e invece il quarto grado della scala maggiore di F (che sono la stessa nota) si chiama Bb, vorrei tranquillizzarvi dicendo che non è un errore di battitura**. 
+> <p align="justify"><b>Prima di scandalizzarvi notando che la sesta nota della scala cromatica a partire da F viene indicata come A# mentre il quarto grado della scala maggiore di F (che rappresenta la medesima altezza sonora) viene chiamato Bb, desidero tranquillizzarvi: non si tratta di un errore di battitura.</b></p>
 
-C'è una ragione per cui le note enarmoniche si chiamano con il diesis o con il bemolle, e generalmente, come già detto, si usa l'uno o l'altro se stiamo scendendo o salendo. Nel caso della scala cromatica di F si legge in questo modo: F, F#, G, G#, eccetera… Nel caso volessimo leggere le stesse note in direzione discendente partendo dall'ultima nota e arrivando alla prima dovremmo dire F, E, Eb, D, Db, eccetera eccetera.
+<p align="justify">Esiste una precisa ragione teorica per cui due note enarmoniche vengono nominate con il diesis oppure con il bemolle. Nella scala cromatica, come abbiamo visto, si tende a utilizzare i diesis quando si sale e i bemolli quando si scende: partendo da F in senso ascendente avremo F, F#, G, G#, A, A# e così via, mentre in senso discendente da F avremo F, E, Eb, D, Db, eccetera.</p>
 
-In questo caso no. **Ricordatevi questo trucchetto che vi servirà!**
+<p align="justify">Nel caso della scala maggiore di F, invece, la scelta di chiamare la quarta nota <b>Bb</b> e non <b>A#</b> risponde a una regola aurea della teoria diatonica: <b>in una scala maggiore deve essere presente una e una sola nota per ciascuna lettera dell'alfabeto musicale</b> (F, G, A, B, C, D, E). Se usassimo A#, la scala conterrebbe due tipi di A (A naturale e A#) e non conterrebbe alcuna variante di B. <b>Ricordatevi questo trucchetto fondamentale, perché vi servirà per costruire correttamente qualsiasi scala!</b></p>
 
 > [!NOTE]
-> Fatece caso: la scala maggiore di C è C, D, E, F, G, A, B, C. Quindi tutte le lettere "dell'alfabeto" (per così dire) sono usate in maniera lineare, partendo da una nota qualsiasi, finendo in G e ricominciando da A se serve. La scala maggiore di F ha un'alterazione sulla 6° nota/IV grado: il A, ma non si usa la nota A aumentata di mezzo tono (A#) si usa la nota B diminuita di un semitono (Bb), questo perché le note sono F, G, A, Bb, C, D, E, F. Quindi, trascurando l'accidente di quell'unica nota, la "regoletta dell'alfabeto" è rispettata. Se fosse F, G, A, A#, C, D, E, F ci sarebbe qualcosa che non va.
+> <p align="justify"><i>Fatece caso:</i> la scala maggiore di C è C, D, E, F, G, A, B, C. Quindi tutte le lettere "dell'alfabeto" (per così dire) sono usate in maniera lineare, partendo da una nota qualsiasi, arrivando alla G e ricominciando da A se serve. Nella scala maggiore di F c'è un'alterazione sul IV grado: si tratta della nota B diminuita di un semitono (Bb) e non della nota A aumentata di un semitono (A#), proprio perché la sequenza è F, G, A, Bb, C, D, E, F. Trascurando l'accidente di quell'unica nota, la nostra "regoletta dell'alfabeto" è perfettamente rispettata. Se scrivessimo F, G, A, A#, C, D, E, F ci sarebbe chiaramente qualcosa che non va, poiché mancherebbe la lettera B e avremmo due diciture basate sulla A.</p>
 
-La spiegazione "studiata" è la seguente: **una scala che non fa salti** (ovvero che sale o scende rispettando tutti i gradi senza saltarne neanche uno) si dice che è una **scala per gradi congiunti** o **diatonica**. Il termine **diatonico** è contrapposto al termine **cromatico**, nel senso che la scala cromatica contiene tutti gli intervalli, mentre una scala diatonica è un "sotto insieme" della scala cromatica che ha risponde a una certa successione di intervalli di toni e semitoni che si chiamano gradi. La scala maggiore è un tipo di scala diatonica.
+<p align="justify">La spiegazione "studiata" è la seguente: <b>una scala che non fa salti</b> (ovvero che sale o scende rispettando tutti i gradi senza saltarne neanche uno) si dice <b>scala per gradi congiunti</b> o <b>diatonica</b>. Il termine <b>diatonico</b> si contrappone al termine <b>cromatico</b>: mentre la scala cromatica comprende la totalità dei dodici semitoni, una scala diatonica è un "sottoinsieme" della scala cromatica composto da sette note che rispondono a una precisa successione di toni e semitoni. La scala maggiore è la forma principale di scala diatonica.</p>
 
-Per concludere: F, G, A, Bb, C, D, E, F è il modo corretto di scrivere una scala maggiore **diatonica** di F.
+<p align="justify">Per concludere: F, G, A, Bb, C, D, E, F è l'unico modo corretto di scrivere e concepire la scala maggiore <b>diatonica</b> di F.</p>
 
-Per avvalorare tutto questo, notate la scala maggiore di D: D, E, F#, G, A, B, C#, D. pur avendo due note alterate, queste vengono scritte con il # perché il nome delle note mantiene la successione diatonica (o regoletta dell'alfabeto, tanto lo so che ve la ricorderete così).
+<p align="justify">A conferma di tutto questo, notate la scala maggiore di D: D, E, F#, G, A, B, C#, D. Pur presentando due note alterate, queste vengono indicate rigorosamente con il # (F# e C#) perché la denominazione delle note deve mantenere invariata la successione diatonica (o "regoletta dell'alfabeto", tanto lo so che alla fine ve la ricorderete così!).</p>
 
-**Perché dovete ricordarvela?** Andate avanti.
+<p align="justify"><b>Perché dovete ricordarvela a tutti i costi?</b> Andate avanti e lo scoprirete.</p>
 
 ## Gradi e Intervalli
 
-Vediamo di nuovo una delle tabelle viste nel paragrafo presente:
+<p align="justify">Vediamo di nuovo una delle tabelle analizzate nel paragrafo precedente:</p>
 
-Ecco la scala maggiore di C confrontata con la scala cromatica di C.
+<p align="justify">Di seguito trovate la scala maggiore di <b>C</b> messa a diretto confronto con la scala cromatica di <b>C</b>:</p>
+
 ```
 ┌──────────────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
 │ SCALA E NOTE │  1   │  2   │  3   │  4   │  5   │  6   │  7   │  8   │  9   │  10  │  11  │  12  │  13  │
@@ -75,41 +77,49 @@ Ecco la scala maggiore di C confrontata con la scala cromatica di C.
 └──────────────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
 
-Sarebbe il caso di spiegare alcune cose prima di procedere, e una di queste è il concetto di **grado** e **intervallo**. E fidatevi, è meglio farlo adesso.
+<p align="justify">Sarebbe il caso di spiegare alcune cose prima di procedere, e una di queste è il concetto di <b>grado</b> e di <b>intervallo</b>. E fidatevi, è molto meglio farlo adesso.</p>
 
-Cerchiamo bene di ficcarci in testa questo concetto: **Un grado musicale è la posizione di una nota all'interno di una scala, mentre un intervallo musicale è la distanza di altezza fra due note.** 
+<p align="justify">Cerchiamo di ficcarci bene in testa questo concetto fondamentale: <b>un grado musicale è la posizione di una nota all'interno di una scala, mentre un intervallo musicale è la distanza in altezza tra due note.</b></p>
 
-Nella scala cromatica tutte e 12 le note hanno lo stesso intervallo di un semitono, mentre nella scala diatonica i 7 gradi hanno intervalli misti di toni e semitoni.
+<p align="justify">Nella scala cromatica tutte e 12 le note distano tra loro l'intervallo fisso di un semitono, mentre nella scala diatonica i 7 gradi presentano intervalli misti di toni e semitoni.</p>
 
-**Grado:**
-- È la posizione fissa della nota nella scala;
-- Si indica con numeri romani (da I a VII o VIII);
-- Ogni grado ha un nome specifico (che vediamo sotto).
+<p align="justify"><b>Grado:</b></p>
+<ul>
+  <li>È la posizione fissa occupata da una nota all'interno della scala;</li>
+  <li>Si indica con i numeri romani (da I a VII, fino all'ottava VIII);</li>
+  <li>Ogni grado possiede un nome specifico legato alla sua funzione armonica.</li>
+</ul>
 
-**Intervallo:**
-- È lo spazio di altezza tra due suoni dati;
-- Si misura in toni e semitoni;
-- Si classifica per ampiezza numerica (seconda, terza, quarta, ecc...) e qualità (maggiore, minore, giusta, aumentata, diminuita, ecc...).
+<p align="justify"><b>Intervallo:</b></p>
+<ul>
+  <li>È lo spazio d'altezza sonora che separa due suoni dati;</li>
+  <li>Si misura in toni e semitoni;</li>
+  <li>Si classifica per ampiezza numerica (seconda, terza, quarta, ecc.) e qualità (maggiore, minore, giusta, aumentata, diminuita).</li>
+</ul>
 
-**Rapporto fra scale diatoniche e cromatiche:**
-- La scala cromatica ha 12 note consecutive (tredici  contando anche quella di chiusura). La distanza fissa tra ogni grado adiacente è un semitono (il più piccolo intervallo usato nella musica occidentale);
-- Scala diatonica: Ha 7 gradi principali (più l'ottava di chiusura). La distanza tra i gradi adiacenti alterna toni e semitoni in una determinata sequenza (a seconda del tipo di scala diatonica).
+<p align="justify"><b>Rapporto tra scale diatoniche e cromatiche:</b></p>
+<ul>
+  <li><b>Scala cromatica:</b> comprende 12 note consecutive (tredici considerando la ripetizione dell'ottava). La distanza fissa tra ciascun grado adiacente è di un semitono (il più piccolo intervallo utilizzato nella musica occidentale);</li>
+  <li><b>Scala diatonica:</b> si articola su 7 gradi principali (più l'ottava di chiusura). La distanza tra i gradi adiacenti alterna toni e semitoni secondo una determinata sequenza specifica per ogni tipo di scala.</li>
+</ul>
 
-Ma che motivo c'è di distinguere fra diatonico e cromatico? Semplicissimo: il motivo è **musicale**. 
+<p align="justify">Ma per quale motivo occorre distinguere chiaramente tra diatonico e cromatico? Il motivo è squisitamente <b>musicale</b>.</p>
 
-Una scala cromatica **non ha una funzione musicale:** parte da una nota e si sposta per intervalli di semitono e basta fino all'ottava.
+<p align="justify">Una scala cromatica <b>non ha una funzione tonale propria:</b> si limita a procedere per intervalli costanti di semitono fino al raggiungimento dell'ottava.</p>
 
-Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un determinato rapporto di intervalli variabili da una successione di toni e semitoni per svolgere una funzione musicale emotiva:** allegra, sognante, festosa, malinconica, tesa, ecc... Questo perché i deferenti tipi di intervallo tra il I grado e gli altri gradi formano **l'identità armonica della scala**.
+<p align="justify">Una scala diatonica (qualunque essa sia, e fidatevi ne esistono molte) <b>possiede una precisa struttura di intervalli alternati di toni e semitoni in grado di svolgere una funzione espressiva ed emotiva:</b> allegra, sognante, festosa, malinconica, tesa, ecc. Questo accade perché i differenti tipi di intervallo tra il I grado e gli altri gradi formano l'<b>identità armonica della scala</b>.</p>
 
-**Quindi:**
-- Ogni **nota** all'interno di una scala diatonica si identifica con un **grado** e con un **intervallo**;
-- Negli intervalli il numero fra parentesi è la distanza in semitoni dalla prima nota;
-- I nomi degli intervalli possono cambiare a seconda di come si calcola la distanza;
-- La parte **ordinale** del nome (**seconda**, **terza**, **quarta**, **quinta**, **sesta** e **settima**) corrisponde alla nota;
-- La parte della qualità armonica (**maggiore** o **giusta**) serve per classificare i gradi;
-- Se si diminuisce di un semitono un grado maggiore si ha uno **minore**;
-- Se si diminuisce di un semitono un grado giusto diventa **diminuito**;
-- Se si aumenta di un semitono un grado maggiore o giusto si dice **aumentato**.
+<p align="justify"><b>Quindi:</b></p>
+<ul>
+  <li>Ogni <b>nota</b> all'interno di una scala diatonica si identifica con un determinato <b>grado</b> e forma con la tonica un preciso <b>intervallo</b>;</li>
+  <li>Negli intervalli, la cifra usata per misurare la distanza indica il numero totale di semitoni che separano le due note;</li>
+  <li>I nomi degli intervalli possono variare a seconda del contesto armonico e di come viene calcolata la distanza;</li>
+  <li>La parte <b>ordinale</b> del nome (<b>seconda</b>, <b>terza</b>, <b>quarta</b>, <b>quinta</b>, <b>sesta</b> e <b>settima</b>) definisce la distanza numerica tra i gradi;</li>
+  <li>La parte relativa alla <b>qualità armonica</b> (<b>maggiore</b>, <b>minore</b> o <b>giusta</b>) serve a classificare la natura specifica dell'intervallo;</li>
+  <li>Se si riduce di un semitono un intervallo maggiore si ottiene un intervallo <b>minore</b>;</li>
+  <li>Se si riduce di un semitono un intervallo giusto o minore si ottiene un intervallo <b>diminuito</b>;</li>
+  <li>Se si aumenta di un semitono un intervallo maggiore o giusto si ottiene un intervallo <b>aumentato</b>.</li>
+</ul>
 
 ```
 ┌────┬─────────────────────┬──────────────────────┬────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
@@ -133,9 +143,10 @@ Una scala diatonica (qualunque essa sia, e fidatevi ce ne sono tante) **ha un de
 ** si può chiamare anche QUINTA DIMINUITA.
 *** si può chiamare anche SESTA MINORE.
 ```
-Come si legge questa tabella?
+<p align="justify">Come si legge questa tabella?</p>
 
-Semplifichiamo un attimo e consideriamo questa tabella:
+<p align="justify">Semplifichiamo un attimo e consideriamo questa tabella:</p>
+
 ```
 ┌──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
 │  C   │  C#  │  D   │  D#  │  E   │  F   │  F#  │  G   │  G#  │  A   │  A#  │  B   │
@@ -156,23 +167,23 @@ Semplifichiamo un attimo e consideriamo questa tabella:
 └──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
 
-Si parte dall'intestazione e si prende una colonna, ad esempio la colonna D. Questa colonna, letta in verticale non rappresenta altro che la scala cromatica di D. La stessa cosa vale per tutte le altre colonne che hanno per intestazione una nota.
+<p align="justify">Si parte dall'intestazione e si sceglie una colonna, ad esempio la colonna <b>D</b>. Questa colonna, letta dall'alto verso il basso, non rappresenta altro che la scala cromatica a partire da <b>D</b>. La medesima regola vale per ciascuna delle altre colonne intitolate a una specifica nota.</p>
 
-In effetti leggendo le righe e le colonne di questa tabella si può constatare che non è altro che una "mappa" delle scale cromatiche a partire da tutte le note, un po' come le tabelline che avevamo stampate sul retro del quaderno di scuola, quello a quadretti che si usava per aritmetica, matematica e geometria.
+<p align="justify">In effetti, leggendo sia per riga che per colonna, ci si rende conto che questa tabella funziona come una vera e propria "mappa" delle scale cromatiche costruite su tutte le note: un meccanismo del tutto analogo alla tavola pitagorica che trovavamo stampata sulla copertina posteriore dei quaderni di aritmetica alle scuole elementari.</p>
 
-Torniamo alla tabella originale, non questa "mozzata": la linea numero 3 rappresenta tutti gli INTERVALLI di SECONDA MAGGIORE che hanno una distanza di 2 SEMITONI (colonna ST) dalla nota di partenza. Quindi la nota D e la nota E sono un intervallo di SECONDA MAGGIORE e la nota E rappresenta la SOPRATONICA di della scala maggiore di D.
+<p align="justify">Ritorniamo ora alla tabella originale (quella completa, non questa versione "mozzata"): la riga numero 3 rappresenta tutti gli <b>INTERVALLI</b> di <b>SECONDA MAGGIORE</b> che hanno una distanza di <b>2 SEMITONI</b> (colonna <b>ST</b>) dalla nota di partenza. Quindi la nota <b>D</b> e la nota <b>E</b> sono un intervallo di <b>SECONDA MAGGIORE</b> e la nota <b>E</b> rappresenta la <b>SOPRATONICA</b> della scala maggiore di <b>D</b>.</p>
 
-Ci siamo?
+<p align="justify">Ci siamo?</p>
 
 ## Tonalità
 
-Una volta chiaro il concetto di intervallo, il concetto di grado si spiega meglio con il concetto di **tonalità**.
+<p align="justify">Una volta chiaro il concetto di intervallo, il concetto di grado si spiega ancora meglio attraverso il concetto di <b>tonalità</b>.</p>
 
-**La tonalità è il centro tonale di un pezzo musicale**, che significa che a partire da una certa nota, si possono costruire accompagnamenti e melodie che risultano in **chiave** (ovvero che *suonano bene*) con la tonalità scelta.
+<p align="justify"><b>La tonalità è il centro tonale di un brano musicale</b>: significa che, a partire da una specifica nota fondamentale, si possono costruire accompagnamenti e melodie che risultano perfettamente in <b>chiave</b> (ovvero che <i>suonano bene</i>) con la tonalità di riferimento.</p>
 
-Una tonalità si stabilisce con la **tonica** e con gli **intervalli della scala**. Se partiamo dal C e procediamo con gli intervalli T T S T T T S avremo C D E F G A B C e quindi una scala di C MAGGIORE. Da notare (come illustrato nella tabella dei gradi e degli intervalli) che le note C D E F G A B C corrispondono ai gradi tonica, sopratonica, modale, sottodominante, dominante, sopraddominante, sensibile e tonica. Analogamente per costruire una scala di D MAGGIORE si procede partendo da D, si stabiliscono i gradi attraverso gli intervalli e si ricavano le otto note della scala. 
+<p align="justify">Una tonalità si stabilisce definendo la <b>tonica</b> e gli <b>intervalli della scala</b>. Se partiamo da C e procediamo applicando la sequenza T T S T T T S, otterremo C D E F G A B C, ossia la scala di C <b>MAGGIORE</b>. Da notare (come illustrato nella tabella dei gradi e degli intervalli) che le note C D E F G A B C corrispondono esattamente ai gradi tonica, sopratonica, modale, sottodominante, dominante, sopradominante, sensibile e ottava della tonica. Analogamente, per costruire la scala di D <b>MAGGIORE</b> si parte da D, si determinano i gradi applicando gli intervalli e si ricavano le note della scala.</p>
 
-Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi della scala maggiore possiamo, con la tabella che segue, ricavare tutte e quindici le tonalità maggiori:
+<p align="justify">Isolando dalla tabella dei gradi e degli intervalli unicamente i gradi della scala maggiore, possiamo ricavare, tramite la tabella che segue, la struttura di tutte e quindici le tonalità maggiori:</p>
 
 ```
 ┌────┬─────────────────────┬──────────────────┬────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┐
@@ -189,37 +200,39 @@ Se prendiamo la tabella dei gradi e degli intervalli e consideriamo solo i gradi
 └────┴─────────────────────┴──────────────────┴────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
 ```
 
-Di nuovo, il fatto che alcune tonalità siano indicate con i diesis e alcune con i bemolli non è casuale: ogni scala infatti si ricava con tutti i nomi delle note armoniche e con gli accidenti. 
+<p align="justify">Di nuovo, il fatto che alcune tonalità siano indicate con i diesis e altre con i bemolli non è affatto casuale: ogni scala si ricava infatti rispettando la sequenza ordinata dei nomi delle note e le relative alterazioni.</p>
 
-Esempio: le tonalità di D#, E#/Fb, G# e A# si indicano con il secondo nome enarmonico Eb, F (in questo caso il nome della scala è naturale), Ab e Bb. Questo perché se consideriamo le note della scala con i diesis **ci sarebbero troppe alterazioni in chiave** (mò ve la spiego) e una scrittura troppo complessa.
+<p align="justify">Ad esempio, le tonalità teoriche di D#, E#/Fb, G# e A# vengono comunemente indicate attraverso i rispettivi nomi enarmonici Eb, F (in questo caso con nota fondamentale naturale), Ab e Bb. Questo accade perché, se valutassimo la struttura di tali scale basandoci unicamente sui diesis, <b>ci troveremmo ad avere troppe alterazioni in chiave</b> (mò ve la spiego!) con l'inutile complicazione di dover utilizzare persino i doppi diesis, rendendo la scrittura e la lettura sullo spartito inutilmente complesse.</p>
 
 ## Armature di Chiave
 
-Ma che significa la frase **ci sarebbero troppe alterazioni in chiave**? Ve lo ricordate, sì che la musica si scrive su pentagramma e non con le lettere A, B, C, D, E, F e G, giusto?
+<p align="justify">Ma che cosa significa esattamente la frase <b>ci troveremmo ad avere troppe alterazioni in chiave</b>? Ve lo ricordate, sì, che la musica si scrive sul pentagramma e non con le lettere A, B, C, D, E, F e G, giusto?</p>
 
-Le alterazioni servono per facilitare la scrittura sul pentagramma. Le note che poggiano sui righi e gli spazi del pentagramma sono solo le note naturali. Se una nota viene aumentata o diminuita di un semitono non sempre viene automaticamente sollevata o abbassata sui righi e gli spazi del pentagramma. Viene come, dice la parola stessa, alterata.
+<p align="justify">Le alterazioni servono proprio per facilitare la scrittura e la lettura sul pentagramma. Le note che poggiano originariamente sui righi e negli spazi del pentagramma sono unicamente le note naturali. Se una nota viene aumentata o diminuita di un semitono, non viene spostata fisicamente su un altro rigo o spazio: rimane sullo stesso rigo o spazio, ma viene, come dice la parola stessa, <b>alterata</b> dal simbolo di diesis (#) o bemolle (b).</p>
 
-Se io rendo una scala maggiore di C mi trovo intervalli da rispettare: T T S T T T S, ovvero C (T) D (T) E (S) F (T) G (T) A (T) B (S) C. Le note della scala di C corrispondono a tutte note naturali senza alterazioni e che quindi poggiano su righi e spazi tranquillamente. Quindi la tonalità è di C. Se sul mio pentagramma scrivo tutte note a casaccio senza mettere nessuna alterazione, posso ritrovarmi con una melodia che si trova **in chiave** (ovvero che *suona bene*) con la scala di C.
+<p align="justify">Se prendo in considerazione la scala maggiore di C, i cui intervalli rispettano la formula T T S T T T S, ottengo le note C D E F G A B C. Le note della scala di C corrispondono tutte a note naturali senza alcuna alterazione e poggiano tranquillamente sui righi e negli spazi del pentagramma. La tonalità di riferimento è C maggiore. Se sul mio pentagramma scrivo una successione di note senza inserire alcuna alterazione, ritroverò una melodia che risulta <b>in chiave</b> (ovvero che <i>suona bene</i>) con la scala di C.</p>
 
-Se prendo in considerazione la scala di F ci vado abbastanza vicino, devo solo ricordarmi che ogni volta che esce fuori un B devo alterarlo, abbassandolo di un semitono, ovvero non posso scrivere un B ma devo scrivere un Bb. Non posso scrivere quella nota in un rigo o uno spazio al di sotto, devo per forza di cose scrivere l'alterazione. Questo vale per il Bb come per tutte le altre note con una qualsiasi alterazione che sia # o b. Non salgono e non scendono nel pentagramma. Ma siccome la loro altezza non corrisponde alla nota che giace sul rigo sullo spazio, ecco perché si usa l'alterazione.
+<p align="justify">Se invece prendo in considerazione la scala di F, ci vado molto vicino: devo solo ricordarmi che ogni volta che si incontra la nota B occorre alterarla abbassandola di un semitono, scrivendo quindi un Bb anziché un B naturale. Non si può scrivere quella nota nel rigo o nello spazio sottostante: occorre per forza indicare l'alterazione di bemolle accanto alla nota. Questo principio vale per il Bb così come per qualsiasi altra nota alterata con il # o con il b. Le note alterate non salgono e non scendono di rigo o spazio; ma poiché la loro altezza sonora differisce dalla nota naturale corrispondente a quel rigo o spazio, si rende necessario l'uso dell'alterazione.</p>
 
-Ma tutto questo a che serve?
+<p align="justify">Ma a cosa serve tutto questo nella pratica?</p>
 
-Immaginate di avere un brano nella tonalità di F con un sacco di note Bb. In effetti il Bb è la quarta giusta della scala di F, quindi corrisponde a una nota che genera un intervallo di tipo gioioso, allegro. Perché non dovrai usarla? Però che noia tutte le volte mettere quel bemolle lì a fianco. Non c'è un modo per scordarsi il bemolle? Intendo dire non c'è un modo per suonare sempre quel bemolle senza dover tutte le volte ricordarlo su pentagramma? Con tutte queste alterazioni sul pentagramma, la lettura rimane difficile.
+<p align="justify">Immaginate di avere un brano in tonalità di F colmo di note Bb. Il Bb è la quarta giusta della scala di F, quindi è una nota fondamentale che genera un intervallo di tipo luminoso ed espressivo. Perché mai non dovreste usarla? Però che noia dover scrivere quel bemolle accanto alla nota ogni singola volta! Non c'è un modo per evitare di dover inserire continuamente quel bemolle sul pentagramma? Con tutte queste alterazioni sparse tra le battute, la lettura diventa oltremodo faticosa.</p>
 
-Ma una soluzione c'è: le **Armature di Chiave**.
+<p align="justify">Fortunatamente la soluzione esiste: le <b>Armature di Chiave</b>.</p>
 
-Vi ricordate che cos'è la chiave? È quel simbolo che poggia sul G (la chiave di violino) e e quell'altro che poggia sul F (la chiave di basso). Subito dopo la chiave c'è l'assegnazione di tempo, ovvero quattro quarti (4/4), tre quarti (3/4), due quarti (2/4), sedici ottavi (16/8), eccetera. Come già noto, la chiave attribuisce ai righi e agli spazi le note. Questo significa che sulla chiave di violino il penultimo rigo è il G mentre sulla chiave di basso il secondo rigo è il F. Abbiamo anche imparato che il pentagramma con la chiave di violino ha le note più acte rispetto al pentagramma con la chiave di basso, e che se li mettiamo uno sopra l'altro l'altezza delle note è progressiva. Nella chiave di basso, la nota sotto all'ultimo rigo con il taglio addizionale è un E. Se si continua a salire con le note sulla chiave di basso, si arriva alla prima nota fuori dal pentagramma con il taglio addizionale che sarebbe il C. Ma questo C è esattamente la nota con il taglio addizionale della chiave di G. È lo stesso C, per cui si continua imperterriti a salire il pentagramma fino ad arrivare alla prima nota fuori dal pentagramma con il taglio addizionale, ovvero il A.
+<p align="justify">Vi ricordate che cos'è la chiave? È quel simbolo posto all'inizio del pentagramma che fissa la posizione e il nome di una nota di riferimento: come la chiave di violino (che nasce sul secondo rigo fissando la nota G) o la chiave di basso (che nasce sul quarto rigo fissando la nota F). Subito dopo la chiave troviamo l'indicazione di tempo, come quattro quarti (4/4), tre quarti (3/4), due quarti (2/4), sedici ottavi (16/8), e così via.</p>
 
-Quindi, se si prende un pentagramma e si mettono le note sopra per riuscire a capire in che tonalità è il brano, bisogna fare una rapida lettura delle note per capire come poggiano le note naturali e alterate. Che noia vero?
+<p align="justify">Come già sappiamo, la chiave attribuisce a ciascun rigo e spazio la sua nota specifica. Abbiamo anche imparato che la chiave di violino raccoglie i suoni più acuti rispetto alla chiave di basso, e che sovrapponendo i due pentagrammi nell'endecagramma si ottiene un'altezza delle note perfettamente progressiva. In chiave di basso, la nota sul primo taglio addizionale sopra il pentagramma è il C centrale. Questo medesimo C corrisponde esattamente alla nota scritta sul primo taglio addizionale sotto il pentagramma in chiave di violino! È la stessa identica nota, da cui si continua imperterriti a salire lungo il pentagramma superiore fino a raggiungere le note più acute.</p>
 
-Ma se vi dicessi che c'è un simbolo che si mette fra la chiave e l'indicazione di tempo? La chiave può avere infatti un'armatura, esattamente come un guerriero medievale. Per poter schivare tutte le le alterazioni delle note che gli vengono scoccate come frecce da un arco, si mette sulla sua bella armatura tutti i diesis e i bemolle corrispondenti alle note alterate che in maniera naturale porgere ebbero su quel pentagramma, accordandosi appunto con la tonalità.
+<p align="justify">Quindi, se prendiamo uno spartito e vogliamo capire in quale tonalità sia scritto il brano, dovremmo fare una rapida lettura di tutte le note per controllare quali siano naturali e quali alterate. Che noia, vero?</p>
 
-Bella questa metafora, vero?
+<p align="justify">Ma se vi dicessi che esiste un insieme di simboli che si posiziona esattamente tra la chiave e l'indicazione di tempo? La chiave può infatti indossare un'armatura, proprio come un guerriero medievale! Per potersi riparare da tutte le alterazioni che le verrebbero scagliate contro come frecce lungo il brano, indossa sulla sua bella armatura tutti i diesis o i bemolli corrispondenti alle note alterate di quella specifica tonalità.</p>
 
-Quindi, ricapitolando, se mi trovo in tonalità di C sono senza armatura, e se mi trovo in un'altra tonalità dovrò armare tanti più diesis e bemolli quanti corrispondono alla tabella delle tonalità di cui sopra.
+<p align="justify">Bella questa metafora, vero?</p>
 
-Ma come si scrivono? Eccolo:
+<p align="justify">Ricapitolando: se ci troviamo in tonalità di C saremo senza armatura in chiave; se ci troviamo in un'altra tonalità, dovremo "armare" in chiave tanti diesis o bemolli quanti ne prevede la struttura di quella specifica scala maggiore.</p>
+
+<p align="justify">Ma come si scrivono esattamente? Vediamolo subito!</p>
 
 <table>
   <tr>
@@ -259,8 +272,107 @@ Ma come si scrivono? Eccolo:
 
  ## Il Circolo delle Quinte
 
-<p align="justify">A me il circolo delle quinte mi è sempre stato un po' sulle balle. Ho sempre pensato che i musicisti (soprattutto quelli classici, che sanno a malapena cosa sia un accordo) imparano le tonalità e relative armature di chiave a memoria e amen.</p>
+<<p align="justify">A me il circolo delle quinte è sempre stato un po' sulle palle. Ho sempre pensato che i musicisti (soprattutto quelli classici, che talvolta sanno a malapena cosa sia un accordo nella pratica moderna) imparino le tonalità e le relative armature di chiave a memoria e amen.</p>
 
-<p align="justify">In pratica se si osserva bene la tabella delle armature di chiave di sopra ci si accorge che le tonalità possono essere messe su un quadrante di un orologio, dove le sulle dodici c'è la tonalità di C, Si procede in senso orario all'una dell'orologio facendo un salto di quinta e si passa alla tonalità di G, con un diesis in chiave, sul F#. Andando avanti alle ore due ci troviamo la tonalità di D, con due diesis in chiave, quello di F# e quello di C#. Proseguendo ci fermiamo alle sette dell'orologio, con la tonalità di C# e sette diesis in chiave. Procedendo in senso antiorario, partendo sempre dalle ore 12, si retrocede di una quinta e alle ore 11 la prima tonalità che si incontra è quella di F, con un bemolle in chiave, il Bb. Si procede sempre in senso antiorario di una quinta e alle ore 10 si trova la tonalità di Bd, con il Bb e il Eb in. chiave. E così via sino ad arrivare alle ore 5 con la tonalità di Cb con 7 bemolli in chiave. Come avrete capito, alle ore 5, alle ore 6 e alle ore 7 si sovrappongono due tonalità: alle 5 c'è la tonalità di B con 5 diesis in chiave che corrisponde alla tonalità di Cb, alle sei si sovrappongono la tonalità di F# e Gb con rispettivamente 6 diesis e 6 bemolle in chiave e per finire alle ore 7 abbiamo C# con 7 diesis in chiave e Db con 5 bemolli in chiave. Infine è ovvio che si può procedere in senso orario dopo le 7 e in senso antiorario dopo le 5, ma le alterazioni in chiave rientrano in quelle già occupate dalle tonalità equivalenti. Non si scrivono 8 o più alterazioni in chiave, non servirebbe e non avrebbe senso, se non quello di complicare un sistema già complicato.</p>
+<p align="justify">In pratica, osservando attentamente la tabella delle armature di chiave, ci si accorge che le tonalità possono essere disposte lungo il quadrante di un orologio. Alle ore 12 troviamo la tonalità di C (senza alcuna alterazione). Procedendo in senso orario verso l'una ed effettuando un salto di quinta ascendente, si passa alla tonalità di G, che presenta un diesis in chiave (F#). Proseguendo alle ore due troviamo la tonalità di D, con due diesis in chiave (F# e C#). Continuando su questa strada ci fermiamo alle ore 7 con la tonalità di C#, caratterizzata da 7 diesis in chiave.</p>
+
+<p align="justify">Procedendo invece in senso antiorario a partire dalle ore 12 (retrocedendo di una quinta), la prima tonalità che si incontra alle ore 11 è F, con un bemolle in chiave (Bb). Proseguendo in senso antiorario di un'altra quinta, alle ore 10 troviamo la tonalità di Bb, con due bemolli in chiave (Bb e Eb). E così via, fino a raggiungere le ore 5 con la tonalità di Cb e i suoi 7 bemolli in chiave.</p>
+
+<p align="justify">Come avrete intuito, in corrispondenza delle ore 5, 6 e 7 si verifica una sovrapposizione enarmonica tra due tonalità equivalenti: alle ore 5 la tonalità di B (5 diesis) coincide con la tonalità di Cb (7 bemolli); alle ore 6 si sovrappongono la tonalità di F# (6 diesis) e Gb (6 bemolli); infine alle ore 7 troviamo C# (7 diesis) che corrisponde a Db (5 bemolli). È evidente che si potrebbe teoricamente proseguire oltre le ore 7 in senso orario o oltre le ore 5 in senso antiorario, ma le alterazioni risultanti rientrerebbero in quelle già coperte dalle tonalità enarmoniche equivalenti. Non si scrivono mai 8 o più alterazioni in chiave: non servirebbe a nulla se non a complicare inutilmente un sistema già di per sé strutturato.</p>
+
+<p align="justify">Per visualizzare in modo immediato e pratico quanto spiegato finora, ecco la rappresentazione grafica del <b>Circolo delle Quinte</b> disposta proprio come il quadrante di un orologio. Nella parte esterna trovate la tonalità maggiore principale con il numero e il tipo di alterazioni in chiave; nella parte interna (tra parentesi) sono indicate le relative tonalità minori che condividono la medesima armatura di chiave.</p>
+
+<!-- Tabella Strutturata del Circolo delle Quinte -->
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; text-align: center;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Posizione Orologio</th>
+      <th>Tonalità Maggiore</th>
+      <th>Tonalità Minore Relativa</th>
+      <th>Armatura di Chiave</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Ore 12</b></td>
+      <td><b>C</b></td>
+      <td>(A min)</td>
+      <td>Nessuna alterazione</td>
+    </tr>
+    <tr>
+      <td><b>Ore 1</b></td>
+      <td><b>G</b></td>
+      <td>(E min)</td>
+      <td>1 Diesis (F#)</td>
+    </tr>
+    <tr>
+      <td><b>Ore 2</b></td>
+      <td><b>D</b></td>
+      <td>(B min)</td>
+      <td>2 Diesis (F#, C#)</td>
+    </tr>
+    <tr>
+      <td><b>Ore 3</b></td>
+      <td><b>A</b></td>
+      <td>(F# min)</td>
+      <td>3 Diesis (F#, C#, G#)</td>
+    </tr>
+    <tr>
+      <td><b>Ore 4</b></td>
+      <td><b>E</b></td>
+      <td>(C# min)</td>
+      <td>4 Diesis (F#, C#, G#, D#)</td>
+    </tr>
+    <tr style="background-color: #fcf8e3;">
+      <td><b>Ore 5 (Enarmonia)</b></td>
+      <td><b>B</b> / <b>Cb</b></td>
+      <td>(G# min / Ab min)</td>
+      <td>5 Diesis (F#, C#, G#, D#, A#) <br><i>oppure</i> 7 Bemolli (Bb, Eb, Ab, Db, Gb, Cb, Fb)</td>
+    </tr>
+    <tr style="background-color: #fcf8e3;">
+      <td><b>Ore 6 (Enarmonia)</b></td>
+      <td><b>F#</b> / <b>Gb</b></td>
+      <td>(D# min / Eb min)</td>
+      <td>6 Diesis (F#, C#, G#, D#, A#, E#) <br><i>oppure</i> 6 Bemolli (Bb, Eb, Ab, Db, Gb, Cb)</td>
+    </tr>
+    <tr style="background-color: #fcf8e3;">
+      <td><b>Ore 7 (Enarmonia)</b></td>
+      <td><b>C#</b> / <b>Db</b></td>
+      <td>(A# min / Bb min)</td>
+      <td>7 Diesis (F#, C#, G#, D#, A#, E#, B#) <br><i>oppure</i> 5 Bemolli (Bb, Eb, Ab, Db, Gb)</td>
+    </tr>
+    <tr>
+      <td><b>Ore 8</b></td>
+      <td><b>Ab</b></td>
+      <td>(F min)</td>
+      <td>4 Bemolli (Bb, Eb, Ab, Db)</td>
+    </tr>
+    <tr>
+      <td><b>Ore 9</b></td>
+      <td><b>Eb</b></td>
+      <td>(C min)</td>
+      <td>3 Bemolli (Bb, Eb, Ab)</td>
+    </tr>
+    <tr>
+      <td><b>Ore 10</b></td>
+      <td><b>Bb</b></td>
+      <td>(G min)</td>
+      <td>2 Bemolli (Bb, Eb)</td>
+    </tr>
+    <tr>
+      <td><b>Ore 11</b></td>
+      <td><b>F</b></td>
+      <td>(D min)</td>
+      <td>1 Bemolle (Bb)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="justify">Notate due regole d'oro fondamentali che vi salveranno la vita nell'identificazione immediata delle tonalità sullo spartito:</p>
+
+<ul>
+  <li><b>Per le tonalità con i DIESIS:</b> l'ultimo diesis segnato in chiave è sempre la <b>SENSIBILE</b> (VII grado) della scala. Vi basterà salire di un semitono dall'ultimo diesis per trovare la tonica della scala maggiore! (Esempio: con 2 diesis, F# e C#, l'ultimo è C# &rarr; salendo di un semitono troviamo <b>D maggiore</b>).</li>
+  <li><b>Per le tonalità con i BEMOLLI:</b> il <b>PENULTIMO bemolle</b> indicato nell'armatura di chiave corrisponde esattamente al nome della tonalità maggiore! (Esempio: con 3 bemolli, Bb, Eb, Ab, il penultimo è Eb &rarr; la tonalità è <b>Eb maggiore</b>. Unica eccezione da ricordare a memoria: F maggiore con il suo singolo Bb).</li>
+</ul>
 
 ![Circolo delle Quinte](img/infografica/circolo-delle-quinte.png)
