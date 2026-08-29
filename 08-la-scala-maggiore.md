@@ -327,19 +327,19 @@
       <td><b>Ore 5 (Enarmonia)</b></td>
       <td><b>B</b> / <b>Cb</b></td>
       <td>(G# min / Ab min)</td>
-      <td>5 Diesis (F#, C#, G#, D#, A#) <br><i>oppure</i> 7 Bemolli (Bb, Eb, Ab, Db, Gb, Cb, Fb)</td>
+      <td>5 Diesis (F#, C#, G#, D#, A#) <br>7 Bemolli (Bb, Eb, Ab, Db, Gb, Cb, Fb)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
       <td><b>Ore 6 (Enarmonia)</b></td>
       <td><b>F#</b> / <b>Gb</b></td>
       <td>(D# min / Eb min)</td>
-      <td>6 Diesis (F#, C#, G#, D#, A#, E#) <br><i>oppure</i> 6 Bemolli (Bb, Eb, Ab, Db, Gb, Cb)</td>
+      <td>6 Diesis (F#, C#, G#, D#, A#, E#) <br>6 Bemolli (Bb, Eb, Ab, Db, Gb, Cb)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
       <td><b>Ore 7 (Enarmonia)</b></td>
       <td><b>C#</b> / <b>Db</b></td>
       <td>(A# min / Bb min)</td>
-      <td>7 Diesis (F#, C#, G#, D#, A#, E#, B#) <br><i>oppure</i> 5 Bemolli (Bb, Eb, Ab, Db, Gb)</td>
+      <td>7 Diesis (F#, C#, G#, D#, A#, E#, B#) <br>5 Bemolli (Bb, Eb, Ab, Db, Gb)</td>
     </tr>
     <tr>
       <td><b>Ore 8</b></td>
