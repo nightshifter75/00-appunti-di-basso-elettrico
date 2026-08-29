@@ -272,7 +272,7 @@
 
  ## Il Circolo delle Quinte
 
-<<p align="justify">A me il circolo delle quinte è sempre stato un po' sulle palle. Ho sempre pensato che i musicisti (soprattutto quelli classici, che talvolta sanno a malapena cosa sia un accordo nella pratica moderna) imparino le tonalità e le relative armature di chiave a memoria e amen.</p>
+<p align="justify">A me il circolo delle quinte è sempre stato un po' sulle palle. Ho sempre pensato che i musicisti (soprattutto quelli classici, che talvolta sanno a malapena cosa sia un accordo nella pratica moderna) imparino le tonalità e le relative armature di chiave a memoria e amen.</p>
 
 <p align="justify">In pratica, osservando attentamente la tabella delle armature di chiave, ci si accorge che le tonalità possono essere disposte lungo il quadrante di un orologio. Alle ore 12 troviamo la tonalità di C (senza alcuna alterazione). Procedendo in senso orario verso l'una ed effettuando un salto di quinta ascendente, si passa alla tonalità di G, che presenta un diesis in chiave (F#). Proseguendo alle ore due troviamo la tonalità di D, con due diesis in chiave (F# e C#). Continuando su questa strada ci fermiamo alle ore 7 con la tonalità di C#, caratterizzata da 7 diesis in chiave.</p>
 
