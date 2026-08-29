@@ -168,7 +168,7 @@
 <p align="justify">Se vi capita tra le mani un manuale o uno spartito in lingua inglese, vi sarà utilissimo conoscere i seguenti termini corrispondenti:</p>
 <ul>
   <li>Il pentagramma si dice <b>staff</b> (<b>stave</b> al plurale);</li>
-  <li>L'intavolatura si dice <b>tablature</b> (abbreviata in <b>TAB</b>);</li>
+  <li>L'intavolatura si dice <b>tablature</b> (abbreviata in <b>tab</b>);</li>
   <li>L'altezza del suono si dice <b>pitch</b>;</li>
   <li>La durata si dice <b>duration</b>;</li>
   <li>L'alterazione si dice <b>accidental</b>;</li>
