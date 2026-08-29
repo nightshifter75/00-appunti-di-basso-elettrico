@@ -188,3 +188,5 @@
   <li>Il bemolle si dice <b>flat</b> (simbolo ♭);</li>
   <li>Il bequadro si dice <b>natural sign</b> (simbolo ♮).</li>
 </ul>
+
+![Cenni di Teoria Musicale](img/infografica/cenni-di-teoria-musicale.png)
