@@ -6,43 +6,43 @@
 > Cercate un bravo insegnante (privato o presso una scuola) e, se potete, tenetevelo.
 <p align="justify">Non pensate che esista la persona perfetta e non pensate che l'insegnamento sia un rapporto a senso unico fra maestro e allievo. Non pensate che chi avete di fronte sia per forza disonesto: se non c'è sintonia, probabilmente non sarete neanche disposti a imparare. Se la persona che vi guida è sufficientemente onesta, sarà lei (o lui) a indirizzare i vostri sforzi affinché il percorso porti da qualche parte. E soprattutto non pensate che sia solo una questione di soldi: non si insegna per soldi, o almeno non soltanto per quelli. La ricerca dell'insegnante giusto non è impossibile, anche se a volte può richiedere del tempo.</p>
 
-![Rapporto Allievo Maestro](img/infografica/rapporto-allievo-maestro.png)
+![Rapporto Allievo Maestro](img/infografica/rapporto-allievo-maestro.jpg)
 
 > [!WARNING]
 > **Un libro, un CD, un video corso non vi insegneranno a suonare uno strumento.**
 <p align="justify">Ci vogliono anni di studio, manuali di ogni tipo, ore ed ore di pratica, oltre al confronto costante con insegnanti e musicisti più esperti.</p>
 
-![Un Libro Un CD Un Video Corso](img/infografica/un-libro-un-cd-un-video-corso.png)
+![Un Libro Un CD Un Video Corso](img/infografica/un-libro-un-cd-un-video-corso.jpg)
 
 > [!TIP]
 > *Bisogna confrontarsi e conoscere persone, accettare sempre consigli e suonare il più possibile.*
 <p align="justify">Parlate con chi suona da prima di voi, chiedete consigli. Se per esempio mentre suonate avvertite dolore alla mano, significa che c'è qualcosa da correggere nell'impostazione.</p>
 
-![Confrontarsi e Conoscere Persone](img/infografica/confrontarsi-e-conoscere-persone.png)
+![Confrontarsi e Conoscere Persone](img/infografica/confrontarsi-e-conoscere-persone.jpg)
 
 > [!TIP]
 > *Registratevi mentre suonate e riascoltatevi, fate ascoltare a qualcuno più esperto di voi il vostro operato.*
 <p align="justify">A volte bastano 5 minuti per fare un salto di qualità enorme. Altre cose, invece, richiedono mesi di pratica e studio costante. Non è mai facile, ma fa parte del gioco./p>
 
-![Registratevi mentre Suonate](img/infografica/registratevi-mentre-suonate.png)
+![Registratevi mentre Suonate](img/infografica/registratevi-mentre-suonate.jpg)
 
 > [!NOTE]
 > Le scuole di musica generalmente offrono ore di studio teorico con ore di tecnica e un laboratorio di musica di insieme.
 <p align="justify">Tenete a mente una cosa: frequentare una scuola viva — piena di insegnanti, allievi, laboratori e saggi di fine anno — non serve solo a imparare la tecnica. È il posto ideale per iniziare a masticare la realtà del campo: suonare dal vivo, registrare una demo e affrontare i problemi concreti di chi suona davvero.</p>
 
-![Scuola di Musica](img/infografica/scuola-di-musica.png)
+![Scuola di Musica](img/infografica/scuola-di-musica.jpg)
 
 > [!TIP]
 > *Ascoltate un sacco di musica.*
 <p align="justify">Se potete andate anche a sentirla dal vivo. È un ottimo esercizio, oltre che un piacere.</p>
 
-![Ascoltate un sacco di musica](img/infografica/ascoltate-un-sacco-di-musica.png)
+![Ascoltate un sacco di musica](img/infografica/ascoltate-un-sacco-di-musica.jpg)
 
 > [!TIP]
 > *Esercitatevi sempre con il metronomo e possibilmente davanti a uno specchio.*
 <p align="justify">Non abbiate fretta di suonare come Speedy Gonzales, ma andate a velocità graduali. Studiate le parti punto per punto finché non siete sicuri ed esercitatevi in maniera costante: magari pochi minuti, ma a cadenza regolare, meglio se tutti i giorni. Non esistono esercizi scorciatoia e mi sento di darvi un ultimo, prezioso consiglio: le mani devono muoversi con parsimonia. Cercate sempre posizioni comode, senza sollevare troppo le dita o spostare eccessivamente la mano. La tecnica serve, certo, ma è solo un ingrediente per diventare un bravo musicista.</p>
 
-![Metronomo e Specchio](img/infografica/metronomo-e-specchio.png)
+![Metronomo e Specchio](img/infografica/metronomo-e-specchio.jpg)
 
 ## Software utile
 

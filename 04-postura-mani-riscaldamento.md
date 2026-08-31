@@ -22,4 +22,4 @@
 
 <p align="justify">Gli allenamenti si dividono in esercizi per la mano sinistra (che deve sviluppare forza e indipendenza) ed esercizi per la mano destra (che deve sviluppare controllo e coordinazione). Prima di affrontare qualsiasi esercizio, però, dedicate sempre qualche minuto al riscaldamento. Eseguite sempre i movimenti a tempo con il metronomo, mantenendo una velocità contenuta (60-80 BPM vanno benissimo). Scaldarsi a velocità folli non serve a niente: non dovete vincere una gara di velocità, dovete preparare i muscoli!</p>
 
-![Suona Sicuro](img/infografica/suona-sicuro.png)
+![Suona Sicuro](img/infografica/suona-sicuro.jpg)

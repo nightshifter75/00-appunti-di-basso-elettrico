@@ -90,4 +90,4 @@
 
 <p align="justify">Non devo continuare, vero?</p>
 
-![Note Fantastiche](img/infografica/note-fantastiche.png)
+![Note Fantastiche](img/infografica/note-fantastiche.jpg)

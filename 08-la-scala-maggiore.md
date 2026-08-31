@@ -270,4 +270,4 @@
   </tr>
 </table>
 
-![Scala Maggiote](img/infografica/scala-maggiore.png)
+![Scala Maggiote](img/infografica/scala-maggiore.jpg)

@@ -39,6 +39,6 @@
 
 **P.S.:** Questi appunti nascono tanti anni fa. Se ci sono errori, segnalatemelo.
 
-![Infografica](img/infografica/appunti-di-basso-elettrico.png)
+![Infografica](img/infografica/appunti-di-basso-elettrico.jpg)
 
 **P.P.S.:** Le infografiche sono ovviamente fatte con l'IA. Non sono perfette, quindi non mi segnalate gli errori. Non le rifaccio. Servono solo a visualizzare mentalmente i concetti. E a me vanno bene così.
