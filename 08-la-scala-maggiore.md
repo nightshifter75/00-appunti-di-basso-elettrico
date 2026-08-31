@@ -237,36 +237,36 @@
 <table>
   <tr>
     <td colspan="2" style="text-align:center;">
-      <p align="center"><img src="/img/armature/solo_maggiore/00_C_maggiore.png" alt="C maggiore" width="30%" height="30%"></p>
+      <p align="center"><img src="/img/armature/solo_maggiore/00_c_maggiore.png" alt="C maggiore" width="30%" height="30%"></p>
     </td>
   </tr>
   <tr>
-    <td><img src="/img/armature/solo_maggiore/bemolle/01_F_MAGGIORE.png" alt="F maggiore"></td>
-    <td><img src="/img/armature/solo_maggiore/diesis/01_G_MAGGIORE.png" alt="G maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/bemolle/01_f_maggiore.png" alt="F maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/diesis/01_g_maggiore.png" alt="G maggiore"></td>
   </tr>
   <tr>
-    <td><img src="/img/armature/solo_maggiore/bemolle/02_Bb_MAGGIORE.png" alt="Bb maggiore"></td>
-    <td><img src="/img/armature/solo_maggiore/diesis/02_D_MAGGIORE.png" alt="D maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/bemolle/02_bb_maggiore.png" alt="Bb maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/diesis/02_d_maggiore.png" alt="D maggiore"></td>
   </tr>
   <tr>
-    <td><img src="/img/armature/solo_maggiore/bemolle/03_Eb_MAGGIORE.png" alt="Eb maggiore"></td>
-    <td><img src="/img/armature/solo_maggiore/diesis/03_A_MAGGIORE.png" alt="A maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/bemolle/03_bb_maggiore.png" alt="Eb maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/diesis/03_a_maggiore.png" alt="A maggiore"></td>
   </tr>
   <tr>
-    <td><img src="/img/armature/solo_maggiore/bemolle/04_Ab_MAGGIORE.png" alt="Ab maggiore"></td>
-    <td><img src="/img/armature/solo_maggiore/diesis/04_E_MAGGIORE.png" alt="E maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/bemolle/04_ab_maggiore.png" alt="Ab maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/diesis/04_e_maggiore.png" alt="E maggiore"></td>
   </tr>
   <tr>
-    <td><img src="/img/armature/solo_maggiore/bemolle/05_Db_MAGGIORE.png" alt="Db maggiore"></td>
-    <td><img src="/img/armature/solo_maggiore/diesis/05_B_MAGGIORE.png" alt="B maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/bemolle/05_db_maggiore.png" alt="Db maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/diesis/05_b_maggiore.png" alt="B maggiore"></td>
   </tr>
   <tr>
-    <td><img src="/img/armature/solo_maggiore/bemolle/06_Gb_MAGGIORE.png" alt="Gb maggiore"></td>
-    <td><img src="/img/armature/solo_maggiore/diesis/06_F_MAGGIORE.png" alt="F# maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/bemolle/06_gb_maggiore.png" alt="Gb maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/diesis/06_f_maggiore.png" alt="F# maggiore"></td>
   </tr>
   <tr>
-    <td><img src="/img/armature/solo_maggiore/bemolle/07_Cb_MAGGIORE.png" alt="Cb maggiore"></td>
-    <td><img src="/img/armature/solo_maggiore/diesis/07_C_MAGGIORE.png" alt="C# maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/bemolle/07_cb_maggiore.png" alt="Cb maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/diesis/07_c_maggiore.png" alt="C# maggiore"></td>
   </tr>
 </table>
 
