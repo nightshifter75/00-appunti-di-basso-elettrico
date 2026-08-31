@@ -23,74 +23,74 @@
   <tbody>
     <tr>
       <td><b>Ore 12</b></td>
-      <td><b>C</b></td>
-      <td>(A min)</td>
+      <td><b>C MAGGIORE</b></td>
+      <td>A minore</td>
       <td>Nessuna alterazione</td>
     </tr>
     <tr>
       <td><b>Ore 1</b></td>
-      <td><b>G</b></td>
-      <td>(E min)</td>
+      <td><b>G MAGGIORE</b></td>
+      <td>E minore</td>
       <td>1 Diesis (F#)</td>
     </tr>
     <tr>
       <td><b>Ore 2</b></td>
-      <td><b>D</b></td>
-      <td>(B min)</td>
+      <td><b>D MAGGIORE</b></td>
+      <td>B minore</td>
       <td>2 Diesis (F#, C#)</td>
     </tr>
     <tr>
       <td><b>Ore 3</b></td>
-      <td><b>A</b></td>
-      <td>(F# min)</td>
+      <td><b>A MAGGIORE</b></td>
+      <td>F# minore</td>
       <td>3 Diesis (F#, C#, G#)</td>
     </tr>
     <tr>
       <td><b>Ore 4</b></td>
-      <td><b>E</b></td>
-      <td>(C# min)</td>
+      <td><b>E MAGGIORE</b></td>
+      <td>C# minore</td>
       <td>4 Diesis (F#, C#, G#, D#)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
       <td><b>Ore 5 (Enarmonia)</b></td>
-      <td><b>B</b> / <b>Cb</b></td>
-      <td>(G# min / Ab min)</td>
+      <td><b>B MAGGIORE </b> / <b>Cb MAGGIORE</b></td>
+      <td>G# min / Ab minore</td>
       <td>5 Diesis (F#, C#, G#, D#, A#) <br>7 Bemolli (Bb, Eb, Ab, Db, Gb, Cb, Fb)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
       <td><b>Ore 6 (Enarmonia)</b></td>
-      <td><b>F#</b> / <b>Gb</b></td>
-      <td>(D# min / Eb min)</td>
+      <td><b>F# MAGGIORE</b> / <b>Gb MAGGIORE</b></td>
+      <td>D# min / Eb minore</td>
       <td>6 Diesis (F#, C#, G#, D#, A#, E#) <br>6 Bemolli (Bb, Eb, Ab, Db, Gb, Cb)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
       <td><b>Ore 7 (Enarmonia)</b></td>
-      <td><b>C#</b> / <b>Db</b></td>
-      <td>(A# min / Bb min)</td>
+      <td><b>C# MAGGIORE</b> / <b>Db MAGGIORE</b></td>
+      <td>A# min / Bb minore</td>
       <td>7 Diesis (F#, C#, G#, D#, A#, E#, B#) <br>5 Bemolli (Bb, Eb, Ab, Db, Gb)</td>
     </tr>
     <tr>
       <td><b>Ore 8</b></td>
-      <td><b>Ab</b></td>
-      <td>(F min)</td>
+      <td><b>Ab MAGGIORE</b></td>
+      <td>F minore</td>
       <td>4 Bemolli (Bb, Eb, Ab, Db)</td>
     </tr>
     <tr>
       <td><b>Ore 9</b></td>
-      <td><b>Eb</b></td>
-      <td>(C min)</td>
+      <td><b>Eb MAGGIORE</b></td>
+      <td>C minore</td>
       <td>3 Bemolli (Bb, Eb, Ab)</td>
     </tr>
     <tr>
       <td><b>Ore 10</b></td>
-      <td><b>Bb</b></td>
-      <td>(G min)</td>
+      <td><b>Bb MAGGIORE</b></td>
+      <td>G minore</td>
       <td>2 Bemolli (Bb, Eb)</td>
     </tr>
     <tr>
       <td><b>Ore 11</b></td>
-      <td><b>F</b></td>
-      <td>(D min)</td>
+      <td><b>F MAGGIORE</b></td>
+      <td>D minore</td>
       <td>1 Bemolle (Bb)</td>
     </tr>
   </tbody>
