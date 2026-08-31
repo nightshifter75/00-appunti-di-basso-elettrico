@@ -104,4 +104,6 @@
 >[!WARNING]
 ><p align="justify"><b>Avrete sicuramente notato che nella tabella qui sopra sono spuntate fuori anche le <i>scale minori</i> tra parentesi. Niente panico e per carità non vi impaurite: anche se per il momento stiamo affrontando esclusivamente la scala maggiore, era doveroso accennarle per completezza dato che condividono la stessa identica armatura di chiave della loro "sorella" maggiore. Per adesso prendete per buona questa informazione senza starvi a fare troppe domande o pippe mentali teoriche: le affronteremo a tempo debito in un capitolo interamente dedicato a loro. Una cosa per volta, che diamine!</b></p>
 
-[Circolo delle Quinte](img/infografica/circolo-delle-quinte.png)
+![Circolo delle Quinte](img/infografica/circolo-delle-quinte.png)
+![Registratevi mentre Suonate](img/infografica/registratevi-mentre-suonate.png)
+
