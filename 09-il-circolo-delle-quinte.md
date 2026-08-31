@@ -101,7 +101,7 @@
 <p align="justify"><b>Per le tonalità con i DIESIS:</b> l'ultimo diesis segnato in chiave è sempre la <b>SENSIBILE</b> (VII grado) della scala. Vi basterà salire di un semitono dall'ultimo diesis per trovare la tonica della scala maggiore! (Esempio: con 2 diesis, F# e C#, l'ultimo è C# &rarr; salendo di un semitono troviamo <b>D maggiore</b>).</p>
 <p align="justify"><b>Per le tonalità con i BEMOLLI:</b> il <b>PENULTIMO bemolle</b> indicato nell'armatura di chiave corrisponde esattamente al nome della tonalità maggiore! (Esempio: con 3 bemolli, Bb, Eb, Ab, il penultimo è Eb &rarr; la tonalità è <b>Eb maggiore</b>. Unica eccezione da ricordare a memoria: F maggiore con il suo singolo Bb).</p>
 
-![Circolo delle Quinte](img/infografica/circolo-delle-quinte.png)
+>[!WARNING]
+><p align="justify"><b>Avrete sicuramente notato che nella tabella qui sopra sono spuntate fuori anche le <i>scale minori</i> tra parentesi. Niente panico e per carità non vi impaurite: anche se per il momento stiamo affrontando esclusivamente la scala maggiore, era doveroso accennarle per completezza dato che condividono la stessa identica armatura di chiave della loro "sorella" maggiore. Per adesso prendete per buona questa informazione senza starvi a fare troppe domande o pippe mentali teoriche: le affronteremo a tempo debito in un capitolo interamente dedicato a loro. Una cosa per volta, che diamine!</b></p>
 
-> [!WARNING]
-> <p align="justify"><b>Avrete sicuramente notato che nella tabella qui sopra sono spuntate fuori anche le <i>scale minori</i> tra parentesi. Niente panico e per carità non vi impaurite: anche se per il momento stiamo affrontando esclusivamente la scala maggiore, era doveroso accennarle per completezza dato che condividono la stessa identica armatura di chiave della loro "sorella" maggiore. Per adesso prendete per buona questa informazione senza starvi a fare troppe domande o pippe mentali teoriche: le affronteremo a tempo debito in un capitolo interamente dedicato a loro. Una cosa per volta, che diamine!</b></p>
+![Circolo delle Quinte](img/infografica/circolo-delle-quinte.png)
