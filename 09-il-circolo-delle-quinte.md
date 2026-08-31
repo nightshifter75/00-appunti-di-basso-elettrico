@@ -53,20 +53,20 @@
     </tr>
     <tr style="background-color: #fcf8e3;">
       <td><b>Ore 5 (Enarmonia)</b></td>
-      <td><b>B MAGGIORE </b> / <b>Cb MAGGIORE</b></td>
-      <td>G# minore / Ab minore</td>
+      <td><b>B MAGGIORE </b><br><b>Cb MAGGIORE</b></td>
+      <td>G# minore<br>Ab minore</td>
       <td>5 Diesis (F#, C#, G#, D#, A#) <br>7 Bemolli (Bb, Eb, Ab, Db, Gb, Cb, Fb)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
       <td><b>Ore 6 (Enarmonia)</b></td>
-      <td><b>F# MAGGIORE</b> / <b>Gb MAGGIORE</b></td>
-      <td>D# minore / Eb minore</td>
+      <td><b>F# MAGGIORE</b><br><b>Gb MAGGIORE</b></td>
+      <td>D# minore<br>Eb minore</td>
       <td>6 Diesis (F#, C#, G#, D#, A#, E#) <br>6 Bemolli (Bb, Eb, Ab, Db, Gb, Cb)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
       <td><b>Ore 7 (Enarmonia)</b></td>
-      <td><b>C# MAGGIORE</b> / <b>Db MAGGIORE</b></td>
-      <td>A# minore / Bb minore</td>
+      <td><b>C# MAGGIORE</b><br><b>Db MAGGIORE</b></td>
+      <td>A# minore<br>Bb minore</td>
       <td>7 Diesis (F#, C#, G#, D#, A#, E#, B#) <br>5 Bemolli (Bb, Eb, Ab, Db, Gb)</td>
     </tr>
     <tr>
