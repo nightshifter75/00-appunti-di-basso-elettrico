@@ -12,14 +12,14 @@
 
 <p align="justify">Quello che segue è un pentagramma semplice in chiave di violino, utilizzato solitamente per trascrivere le note del registro medio-acuto (come per flauto o violino). Le note raffigurate a titolo d'esempio sono <b>C4</b>, <b>D4</b>, <b>E4</b>, <b>F4</b>, <b>G4</b>, <b>A4</b> e <b>B4</b>.</p>
 
-![Pentagramma](img/infografica/pentagramma.jpg)
+![Pentagramma](img/infografica/pentagramma.png)
 
 <p align="justify">Quest'altro invece è un <b>doppio pentagramma</b> (o <i>gran pentagramma</i>), formato dall'unione di due pentagrammi affiancati da una parentesi graffa. Viene utilizzato per trascrivere le partiture di strumenti con un registro molto ampio, come il pianoforte e l'arpa. Le note sul pentagramma inferiore (in chiave di basso) rappresentano il registro più grave (come <b>C3</b>, <b>D3</b>, <b>E3</b>, <b>F3</b>, <b>G3</b>, <b>A3</b> e <b>B3</b>), mentre quello superiore (in chiave di violino) ospita le note del registro acuto (come <b>C4</b>, <b>D4</b>, <b>E4</b>, <b>F4</b>, <b>G4</b>, <b>A4</b> e <b>B4</b>).</p>
 
 > [!WARNING]
 > <p align="justify"><p align="justify"><b>Non va suonata prima la riga sopra e poi quella sotto! Bisogna suonare C3 e C4 insieme, D3 e D4 insieme, e così via!</b> Nel doppio pentagramma, infatti, le due righe rappresentano due registri letti in contemporanea (di norma la mano sinistra legge il pentagramma inferiore e la mano destra quello superiore).</p></p>
 
-![Doppio Pentagramma](img/infografica/doppio-pentagramma.jpg)
+![Doppio Pentagramma](img/infografica/doppio-pentagramma.png)
 
 <p align="justify">La <b>chiave</b> è quel simbolo posto all'inizio di ogni pentagramma che serve a fissare la posizione di una nota di riferimento, determinando così il registro (grave o acuto). Le chiavi più comuni sono la chiave di <b>violino</b> (o chiave di SOL) per il registro acuto — quella caratterizzata dal ricciolo finale — e la chiave di <b>basso</b> (o chiave di FA) per il registro grave — quella a forma di C rovesciata affiancata da due puntini. Ricordando che i righi si contano sempre dal basso verso l'alto: la chiave di violino poggia sul <b>secondo rigo</b> (fissando la nota <b>G4</b>, ovvero il SOL subito sopra il DO centrale <b>C4</b>), mentre la chiave di basso si attesta sul <b>quarto rigo</b> (fissando la nota <b>F3</b>, ossia il FA che precede il <b>C4</b>).</p>
 
@@ -32,7 +32,7 @@
 
 <p align="justify">Quando una nota è più acuta o più grave rispetto alle cinque linee del pentagramma, si utilizzano i <b>tagli addizionali</b> (piccole linee orizzontali che estendono provvisoriamente il rigo). Il <b>C4</b> (il DO centrale) costituisce il punto d'incontro perfetto: corrisponde al primo taglio addizionale sopra il rigo in chiave di basso e al primo taglio addizionale sotto il rigo in chiave di violino. Nelle figure precedenti potete notare infatti che la testa della nota C4 appare "tagliata" in due da un piccolo segmento. Qualora l'estensione dello strumento lo richieda, si possono aggiungere ulteriori tagli addizionali sia verso l'alto che verso il basso. Guardate qui:</p>
 
-![Note Udibili](img/infografica/note-udibili.jpg)
+![Note Udibili](img/infografica/note-udibili.png)
 
 <p align="justify">Questa figura mostra la posizione (rispetto a ciascuna chiave) della nota più grave dello strumento (<b>A0</b>) e di tutti i <b>C</b> appartenenti alle ottave definite come udibili per l'orecchio umano (da <b>C1</b> fino a <b>C8</b>).</p>
 
@@ -136,9 +136,9 @@
 
 <p align="justify">Qualche esempio:</p>
 
-![Esempio Legatura 1](img/infografica/esempio-legatura-1.jpg)
+![Esempio Legatura 1](img/infografica/esempio-legatura-1.png)
 
-![Esempio Legatura 2](img/infografica/esempio-legatura-2.jpg)
+![Esempio Legatura 2](img/infografica/esempio-legatura-2.png)
 
 <p align="justify">Entrambi gli esempi presentano un tempo di <b>4/4</b>. Nel primo esempio possiamo osservare una nota <b>G#2</b> sostenuta per una durata complessiva di 8/4 (pari a due misure intere). Nel secondo esempio abbiamo due misure scandite da 4 minime (<b>A3</b>) sulla voce inferiore, mentre la voce superiore (<b>E4</b>) presenta una successione di durate articolate: la prima nota dura 3/8 (una semiminima con punto di valore = 1/4 + 1/8), la seconda 1/4 (due crome unite da legatura di valore = 1/8 + 1/8), seguite da altre note da 3/8, 1/4 e 3/8. La matematica torna perfettamente: due minime sommano a 4/4; due semiminime col punto più due crome legate sommano a 4/4 (3/8 + 3/8 + 2/8 = 8/8); due semiminime col punto più una semiminima sommano a 4/4 (3/8 + 3/8 + 2/8 = 8/8).</p>
 
@@ -146,7 +146,7 @@
 
 <p align="justify">Un celebre esempio di legatura di fraseggio con portamento/glissando è il famosissimo incipit per clarinetto della <i>Rapsodia in blu</i> di George Gershwin, dove una lunga scala ascensionale di semibiscrome sfocia in un fluido e continuo glissando verso l'acuto:</p>
 
-![Rapsodia in Blu](img/infografica/rapsodia-in-blu.jpg)
+![Rapsodia in Blu](img/infografica/rapsodia-in-blu.png)
 
 <p align="justify">Attenzione, perché la curva del legato può trarvi in inganno! Vedete quel "3" posto sopra o sotto la curva nelle due figure di tre crome nella seconda misura? Quella non è una legatura di fraseggio, ma una <b>terzina</b> (un gruppo irregolare). Significa che le tre crome vanno eseguite nello spazio di tempo che normalmente occuperebbero due crome, ossia nel valore complessivo di una sola semiminima (1/4, un singolo movimento del metro). Se fate i conti torna tutto, così come torna per la "diciassettina" della prima misura (sì, se guardate bene c'è scritto 17).</p>
 
@@ -160,7 +160,7 @@
 
 <p align="justify">L'altro sistema di notazione diffuso è l'<b>intavolatura</b>. Mentre il pentagramma indica l'altezza teorica della nota emessa, l'intavolatura indica la posizione fisica delle dita sulla tastiera di uno strumento a corda (come basso, chitarra, liuto o tiorba). Nel caso del basso elettrico è composta da 4 (o 5) linee orizzontali che rappresentano le 4 (o 5) corde dello strumento: la linea superiore rappresenta la corda più acuta (G) e quella inferiore la corda più grave (E o B). Il numero riportato su ciascuna linea indica il tasto da premere (il numero 0 indica la corda suonata a vuoto), mentre sotto il rigo si può specificare la digitazione della mano sinistra (numeri da 1 a 4 per indice, medio, anulare e mignolo). Esistono inoltre simboli specifici per indicare le varie tecniche esecutive (hammer-on, pull-off, slide, slap, ecc.). A torto si ritiene che l'intavolatura sia un'invenzione moderna per musicisti pigri: essa risale in realtà al XV secolo per strumenti a pizzico ed intavolature d'organo, mentre il pentagramma si è consolidato a partire dal IX-XI secolo. Il mio consiglio è di utilizzare l'intavolatura all'inizio principalmente come supporto pratico alla lettura del pentagramma; ometto in questa sede i simboli complessi di durata e articolazione propri delle TAB avanzate, in quanto a mio avviso trovano una rappresentazione ben più chiara e rigorosa direttamente sul pentagramma. Ecco un esempio di notazione combinata con pentagramma ed intavolatura:</p>
 
-![Pentagramma e Intavolatura](img/infografica/pentagramma-e-intavolatura.jpg)
+![Pentagramma e Intavolatura](img/infografica/pentagramma-e-intavolatura.png)
 
 > [!WARNING]
 > <p align="justify"><b>Attenzione ai termini anglosassoni! Non sono tutti falsi amici, ma è fondamentale conoscerli con precisione.</b></p>
