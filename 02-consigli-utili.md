@@ -22,7 +22,7 @@
 
 > [!TIP]
 > *Registratevi mentre suonate e riascoltatevi, fate ascoltare a qualcuno più esperto di voi il vostro operato.*
-<p align="justify">A volte bastano 5 minuti per fare un salto di qualità enorme. Altre cose, invece, richiedono mesi di pratica e studio costante. Non è mai facile, ma fa parte del gioco./p>
+<p align="justify">A volte bastano 5 minuti per fare un salto di qualità enorme. Altre cose, invece, richiedono mesi di pratica e studio costante. Non è mai facile, ma fa parte del gioco.</p>
 
 ![Registratevi mentre Suonate](img/infografica/registratevi-mentre-suonate.jpg)
 
