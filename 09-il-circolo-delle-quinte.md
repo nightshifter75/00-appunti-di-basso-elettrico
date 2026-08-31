@@ -98,10 +98,8 @@
 
 <p align="justify">Notate due regole d'oro fondamentali che vi salveranno la vita nell'identificazione immediata delle tonalità sullo spartito:</p>
 
-<ul>
-  <li><b>Per le tonalità con i DIESIS:</b> l'ultimo diesis segnato in chiave è sempre la <b>SENSIBILE</b> (VII grado) della scala. Vi basterà salire di un semitono dall'ultimo diesis per trovare la tonica della scala maggiore! (Esempio: con 2 diesis, F# e C#, l'ultimo è C# &rarr; salendo di un semitono troviamo <b>D maggiore</b>).</li>
-  <li><b>Per le tonalità con i BEMOLLI:</b> il <b>PENULTIMO bemolle</b> indicato nell'armatura di chiave corrisponde esattamente al nome della tonalità maggiore! (Esempio: con 3 bemolli, Bb, Eb, Ab, il penultimo è Eb &rarr; la tonalità è <b>Eb maggiore</b>. Unica eccezione da ricordare a memoria: F maggiore con il suo singolo Bb).</li>
-</ul>
+<p align="justify"><b>Per le tonalità con i DIESIS:</b> l'ultimo diesis segnato in chiave è sempre la <b>SENSIBILE</b> (VII grado) della scala. Vi basterà salire di un semitono dall'ultimo diesis per trovare la tonica della scala maggiore! (Esempio: con 2 diesis, F# e C#, l'ultimo è C# &rarr; salendo di un semitono troviamo <b>D maggiore</b>).</p>
+<p align="justify"><b>Per le tonalità con i BEMOLLI:</b> il <b>PENULTIMO bemolle</b> indicato nell'armatura di chiave corrisponde esattamente al nome della tonalità maggiore! (Esempio: con 3 bemolli, Bb, Eb, Ab, il penultimo è Eb &rarr; la tonalità è <b>Eb maggiore</b>. Unica eccezione da ricordare a memoria: F maggiore con il suo singolo Bb).</p>
 
 ![Circolo delle Quinte](img/infografica/circolo-delle-quinte.png)
 
