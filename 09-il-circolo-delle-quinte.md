@@ -2,11 +2,11 @@
 
 <p align="justify">A me il circolo delle quinte è sempre stato un po' sulle palle. Ho sempre pensato che i musicisti (soprattutto quelli classici, che talvolta sanno a malapena cosa sia un accordo nella pratica moderna) imparino le tonalità e le relative armature di chiave a memoria e amen. Invece nella didattica moderna della musica prima o poi esce fuori sto circolo delle quinte. Generazioni di musicisti ne hanno fatto a meno, quindi sembra un po' una cosa creata per far capire la musica ai sordi. Inoltre non è un vero e proprio circolo perché è vero che puoi girare a destra e a sinistra all'infinito, ma dopo 7 alterazioni devi comunque fermarti. Ma va bene, ne parlerò, perché se non ne parli sembra che sei un po' <i>stocàzzo</i>, per cui...</p>
 
-<p align="justify">In pratica, osservando attentamente la tabella delle armature di chiave, ci si accorge che le tonalità possono essere disposte lungo il quadrante di un orologio (ma a me piace metterlo anche in una "bussola". Alle ore 12 troviamo la tonalità di C (senza alcuna alterazione). Procedendo in senso orario verso l'una ed effettuando un salto di quinta ascendente, si passa alla tonalità di G, che presenta un diesis in chiave (F#). Proseguendo alle ore due troviamo la tonalità di D, con due diesis in chiave (F# e C#). Continuando su questa strada ci fermiamo alle ore 7 con la tonalità di C#, caratterizzata da 7 diesis in chiave.</p>
+<p align="justify">In pratica, osservando attentamente la tabella delle armature di chiave, ci si accorge che le tonalità possono essere disposte lungo il quadrante di un orologio (ma a me piace metterlo anche in una "bussola" nella sua Rosa dei Venti). Alle ore 12 (N) troviamo la tonalità di C (senza alcuna alterazione). Procedendo in senso orario verso l'una (N-NE) ed effettuando un salto di quinta ascendente, si passa alla tonalità di G, che presenta un diesis in chiave (F#). Proseguendo alle ore due (NE) troviamo la tonalità di D, con due diesis in chiave (F# e C#). Continuando su questa strada ci fermiamo alle ore 7 (S-SO) con la tonalità di C#, caratterizzata da 7 diesis in chiave.</p>
 
-<p align="justify">Procedendo invece in senso antiorario a partire dalle ore 12 (retrocedendo di una quinta), la prima tonalità che si incontra alle ore 11 è F, con un bemolle in chiave (Bb). Proseguendo in senso antiorario di un'altra quinta, alle ore 10 troviamo la tonalità di Bb, con due bemolli in chiave (Bb e Eb). E così via, fino a raggiungere le ore 5 con la tonalità di Cb e i suoi 7 bemolli in chiave.</p>
+<p align="justify">Procedendo invece in senso antiorario a partire dalle ore 12 (N) (retrocedendo di una quinta), la prima tonalità che si incontra alle ore 11 (NO) è F, con un bemolle in chiave (Bb). Proseguendo in senso antiorario di un'altra quinta, alle ore 10 (O-NO) troviamo la tonalità di Bb, con due bemolli in chiave (Bb e Eb). E così via, fino a raggiungere le ore 5 (SE) con la tonalità di Cb e i suoi 7 bemolli in chiave.</p>
 
-<p align="justify">Come avrete intuito, in corrispondenza delle ore 5, 6 e 7 si verifica una sovrapposizione enarmonica tra due tonalità equivalenti: alle ore 5 la tonalità di B (5 diesis) coincide con la tonalità di Cb (7 bemolli); alle ore 6 si sovrappongono la tonalità di F# (6 diesis) e Gb (6 bemolli); infine alle ore 7 troviamo C# (7 diesis) che corrisponde a Db (5 bemolli). È evidente che si potrebbe teoricamente proseguire oltre le ore 7 in senso orario o oltre le ore 5 in senso antiorario, ma le alterazioni risultanti rientrerebbero in quelle già coperte dalle tonalità enarmoniche equivalenti. Non si scrivono mai 8 o più alterazioni in chiave: non servirebbe a nulla se non a complicare inutilmente un sistema già di per sé strutturato.</p>
+<p align="justify">Come avrete intuito, in corrispondenza delle ore 5 (SE), 6 (S) e 7 (S-SO) si verifica una sovrapposizione enarmonica tra due tonalità equivalenti: alle ore 5 (SE) la tonalità di B (5 diesis) coincide con la tonalità di Cb (7 bemolli); alle ore 6 (S) si sovrappongono la tonalità di F# (6 diesis) e Gb (6 bemolli); infine alle ore 7 (S-SO) troviamo C# (7 diesis) che corrisponde a Db (5 bemolli). È evidente che si potrebbe teoricamente proseguire oltre le ore 7 (S-SO) in senso orario o oltre le ore 5 (SE) in senso antiorario, ma le alterazioni risultanti rientrerebbero in quelle già coperte dalle tonalità enarmoniche equivalenti. Non si scrivono mai 8 o più alterazioni in chiave: non servirebbe a nulla se non a complicare inutilmente un sistema già di per sé strutturato.</p>
 
 <p align="justify">Per visualizzare in modo immediato e pratico quanto spiegato finora, ecco di seguito una <b>Tabella</b> e appena sotto la rappresentazione grafica del <b>Circolo delle Quinte</b> disposta proprio come il quadrante di un orologio. Nella parte esterna trovate la tonalità maggiore principale con il numero e il tipo di alterazioni in chiave; nella parte interna (tra parentesi) sono indicate le relative tonalità minori che condividono la medesima armatura di chiave.</p>
 
@@ -14,7 +14,7 @@
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; text-align: center;">
   <thead>
     <tr style="background-color: #f2f2f2;">
-      <th>Posizione Orologio</th>
+      <th>Posizione Orologio (Punto Cardinale)</th>
       <th>Tonalità Maggiore</th>
       <th>Tonalità Minore Relativa</th>
       <th>Armatura di Chiave</th>
@@ -22,73 +22,73 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Ore 12</b></td>
+      <td><b>ore 12 (N)</b></td>
       <td><b>C MAGGIORE</b></td>
       <td>A minore</td>
       <td>Nessuna alterazione</td>
     </tr>
     <tr>
-      <td><b>Ore 1</b></td>
+      <td><b>Ore 1 (N-NE)</b></td>
       <td><b>G MAGGIORE</b></td>
       <td>E minore</td>
       <td>1 Diesis (F#)</td>
     </tr>
     <tr>
-      <td><b>Ore 2</b></td>
+      <td><b>Ore 2 (NE)</b></td>
       <td><b>D MAGGIORE</b></td>
       <td>B minore</td>
       <td>2 Diesis (F#, C#)</td>
     </tr>
     <tr>
-      <td><b>Ore 3</b></td>
+      <td><b>Ore 3 (E) </b></td>
       <td><b>A MAGGIORE</b></td>
       <td>F# minore</td>
       <td>3 Diesis (F#, C#, G#)</td>
     </tr>
     <tr>
-      <td><b>Ore 4</b></td>
+      <td><b>Ore 4 (E-SE)</b></td>
       <td><b>E MAGGIORE</b></td>
       <td>C# minore</td>
       <td>4 Diesis (F#, C#, G#, D#)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
-      <td><b>Ore 5 (Enarmonia)</b></td>
+      <td><b>ore 5 (SE) [Enarmonia]</b></td>
       <td><b>B MAGGIORE </b><br><b>Cb MAGGIORE</b></td>
       <td>G# minore<br>Ab minore</td>
       <td>5 Diesis (F#, C#, G#, D#, A#) <br>7 Bemolli (Bb, Eb, Ab, Db, Gb, Cb, Fb)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
-      <td><b>Ore 6 (Enarmonia)</b></td>
+      <td><b>Ore 6 (S) [Enarmonia]</b></td>
       <td><b>F# MAGGIORE</b><br><b>Gb MAGGIORE</b></td>
       <td>D# minore<br>Eb minore</td>
       <td>6 Diesis (F#, C#, G#, D#, A#, E#) <br>6 Bemolli (Bb, Eb, Ab, Db, Gb, Cb)</td>
     </tr>
     <tr style="background-color: #fcf8e3;">
-      <td><b>Ore 7 (Enarmonia)</b></td>
+      <td><b>ore 7 (S-SO) [Enarmonia]</b></td>
       <td><b>C# MAGGIORE</b><br><b>Db MAGGIORE</b></td>
       <td>A# minore<br>Bb minore</td>
       <td>7 Diesis (F#, C#, G#, D#, A#, E#, B#) <br>5 Bemolli (Bb, Eb, Ab, Db, Gb)</td>
     </tr>
     <tr>
-      <td><b>Ore 8</b></td>
+      <td><b>Ore 8 (SO)</b></td>
       <td><b>Ab MAGGIORE</b></td>
       <td>F minore</td>
       <td>4 Bemolli (Bb, Eb, Ab, Db)</td>
     </tr>
     <tr>
-      <td><b>Ore 9</b></td>
+      <td><b>Ore 9 (O)</b></td>
       <td><b>Eb MAGGIORE</b></td>
       <td>C minore</td>
       <td>3 Bemolli (Bb, Eb, Ab)</td>
     </tr>
     <tr>
-      <td><b>Ore 10</b></td>
+      <td><b>ore 10 (O-NO)</b></td>
       <td><b>Bb MAGGIORE</b></td>
       <td>G minore</td>
       <td>2 Bemolli (Bb, Eb)</td>
     </tr>
     <tr>
-      <td><b>Ore 11</b></td>
+      <td><b>ore 11 (NO)</b></td>
       <td><b>F MAGGIORE</b></td>
       <td>D minore</td>
       <td>1 Bemolle (Bb)</td>
