@@ -249,7 +249,7 @@
     <td><img src="/img/armature/solo_maggiore/diesis/02_d_maggiore.png" alt="D maggiore"></td>
   </tr>
   <tr>
-    <td><img src="/img/armature/solo_maggiore/bemolle/03_bb_maggiore.png" alt="Eb maggiore"></td>
+    <td><img src="/img/armature/solo_maggiore/bemolle/03_eb_maggiore.png" alt="Eb maggiore"></td>
     <td><img src="/img/armature/solo_maggiore/diesis/03_a_maggiore.png" alt="A maggiore"></td>
   </tr>
   <tr>
