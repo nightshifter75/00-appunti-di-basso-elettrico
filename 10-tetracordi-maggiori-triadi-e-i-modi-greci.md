@@ -60,6 +60,15 @@
 
 <p align="justify">Una triade maggiore si ricava prendendo la scala maggiore di riferimento e scegliendo la tonica (I grado), la modale (III grado, terza maggiore rispetto alla tonica, 4 semitoni) e la dominante (V grado, quinta giusta rispetto alla tonica, sette semitoni). La triade maggiore si chiama con il nome della tonica e l'aggettivo maggiore: C MAGGIORE, D MAGGIORE, ecc… Il simbolo è semplicemente la nota della tonica: C, D, ecc…</p>
 
+```
+    DITEGGIATURA 214                   DITEGGIATURA 431                 DITEGGIATURA 1->42
+
+  G |---|---|---|---| G -------      G |---|---|---|---| G -------    G |---|---|---|---|---| G ----------
+  D |---|---|---|---| D -------      D |-o-|---|---|---| D -----1-    D |---|---|---|---|---| D ----------
+  A |-o-|---|---|-o-| A ---1-4-      A |---|---|-o-|---| A ---3---    A |---|---|-o-|---|---| A --------3-
+  E |---|-o-|---|---| E -2-----      E |---|---|---|-o-| E -4-----    E |-o-|---|---|---|-o-| E -1----5---
+      1   2       4      2 1 4           1       3   4      4 3 1         1   ->  2       4      1 -> 4 2
+```
 
 <table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
   <thead>
@@ -159,6 +168,16 @@
 ### Triadi Minori
 
 <p align="justify">Una triade minore si ricava prendendo la scala maggiore di riferimento e scegliendo la tonica (I grado), la modale abbassata di un semitono (III grado b, terza minore rispetto alla tonica, 3 semitoni) e la dominante (V grado, quinta giusta rispetto alla tonica, sette semitoni). La triade minore si chiama con il nome della tonica e l'aggettivo minore: C MINORE, D MINORE, ecc… Il simbolo è la nota della tonica con il suffisso m: Cm, Dm, ecc…</p>
+
+```
+    DITEGGIATURA 143                   DITEGGIATURA 421                 DITEGGIATURA 31->4
+
+  G |---|---|---|---| G -------      G |---|---|---|---| G -------    G |---|---|---|---|---| G ----------
+  D |---|---|---|---| D -------      D |-o-|---|---|---| D -----1-    D |---|---|---|---|---| D ----------
+  A |---|---|-o-|---| A -----3-      A |---|-o-|---|---| A ---2---    A |-o-|---|---|---|-o-| A ---1----5-
+  E |-o-|---|---|-o-| E -1-4---      E |---|---|---|-o-| E -4-----    E |---|---|-o-|---|---| E -3--------
+      1       3   4      1 4 3           1   2       4      4 2 1         1       3   ->  4      3 1 -> 4
+````
 
 <table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
   <thead>
@@ -260,13 +279,13 @@
 <p align="justify">Una triade diminiuta si ricava prendendo la scala maggiore di riferimento e scegliendo la tonica (I grado), la modale abbassata di un semitono (III grado b, terza minore rispetto alla tonica, 3 semitoni) e la dominante abbassata di un semitono (V grado b, quinta diminuita rispetto alla tonica, sei semitoni). La triade diminuita si chiama con il nome della tonica e l'aggettivo diminuito: C DIMINUITO, D DIMINUITO, ecc… Il simbolo è la nota della tonica con il suffisso -: C-, D-, ecc…</p>
 
 ```
-    DITEGGIATURA 214                   DITEGGIATURA 431                 DITEGGIATURA 1->42
+    DITEGGIATURA 341                   DITEGGIATURA 142                 DITEGGIATURA 4<-31
 
   G |---|---|---|---| G -------      G |---|---|---|---| G -------    G |---|---|---|---|---| G ----------
-  D |---|---|---|---| D -------      D |-o-|---|---|---| D -----1-    D |---|---|---|---|---| D ----------
-  A |-o-|---|---|-o-| A ---1-4-      A |---|---|-o-|---| A ---3---    A |---|---|-o-|---|---| A --------3-
-  E |---|-o-|---|---| E -2-----      E |---|---|---|-o-| E -4-----    E |-o-|---|---|---|-o-| E -1----5---
-      1   2       4      2 1 4           1       3   4      4 3 1         1   ->  2       4      1 -> 4 2
+  D |---|---|---|---| D -------      D |---|---|---|---| D -------    D |-o-|---|---|---|---| D --------1-
+  A |-o-|---|---|-o-| A ---4-1-      A |---|-o-|---|---| A -----2-    A |---|---|-o-|---|---| A ------3---
+  E |---|---|-o-|---| E -1-----      E |-o-|---|---|-o-| E -1-4---    E |---|---|---|---|-o-| E -5--------
+      1       3   4      3 4 1           1   2       4      1 4 2         1       3  <-   4      4 <- 3 1
 ```
 
 <table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
@@ -368,6 +387,15 @@
 
 <p align="justify">Una triade aumentata si ricava prendendo la scala maggiore di riferimento e scegliendo la tonica (I grado), la modale (III grado, terza maggiore rispetto alla tonica, 4 semitoni) e la dominante aumentata di un semitono (V grado #, quinta aumentata rispetto alla tonica, otto semitoni). La triade aumentata si chiama con il nome della tonica e aumentato: C AUMENTATO, D AUMENTATO, ecc… Il simbolo è la nota della tonica con il suffisso 5+: C5+, D5+, ecc…</p>
 
+```
+  DITEGGIATURA 321        DITEGGIATURA 1->43        DITEGGIATURA 21->4        
+
+  G |---|---|---| G -------      G |---|---|---|---|---| G ----------    G |---|---|---|---|---| G ----------  
+  D |-o-|---|---| D -----1-      D |---|---|---|---|---| D ----------    D |---|---|---|---|---| D ----------  
+  A |---|-o-|---| A ---2---      A |---|---|---|-o-|---| A --------4-    A |-o-|---|---|---|-o-| A ---1----5-  
+  E |---|---|-o-| E -3-----      E |-o-|---|---|---|-o-| E -1----5---    E |---|-o-|---|---|---| E -2--------  
+      1   2   3      3 2 1           1   ->      3   4      1 -> 4 3         1   2   ->      4      2 1 -> 4
+```
 <table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -462,4 +490,6 @@
     </tr>
   </tbody>
 </table>
+
+## I Modi Greci
 
