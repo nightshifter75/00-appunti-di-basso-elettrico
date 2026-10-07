@@ -3,6 +3,7 @@
 <p align="justify">Un tetracordo maggiore è una sequenza di quattro note entro una quarta giusta. La distanza fra le quattro note è T-T-S. La scala maggiore è formata da due tetracordi: le prime quattro note e le ultime quattro note hanno lo stesso schema.</p>
 
 <p align="justify">Per eseguire una scala maggiore infatti basta eseguire due tetracordi maggiori. Le diteggiature possibili sono tre ed è possibile combinarle fra di loro per eseguire una scala maggiore su una o due ottave. Nella diteggiatura 1334 si usa l'indice (1) e l'anulare (3), prima di fare la terza nota si fa scivolare la mano verso destra (->) in modo che l'anulare si trovi sopra il quinto tasto rispetto all'inizio del tetracordo. La combinazione dei tetracordi può far eseguire le scale a una o due ottave sperimentando le varie combinazioni. Lo scivolamento della mano per posizionare le dita a partire da un altro tasto verso destra o sinistra sarà utile in seguito nelle diteggiature degli accordi.</p>
+
 ```
     DITEGGIATURA 2412
 
