@@ -493,3 +493,152 @@
 
 ## I Modi Greci
 
+<p align="justify">Senza stare troppo a menare il can per l'aia: la faccenda è molto semplice. Se si prende una scala maggiore, si ottiene una sequenza di intervalli di toni e semitoni. Come abbiamo sempre detto, consideriamo quella di C: si parte da C e si arriva a C dell'ottava superiore. Suonata al pianoforte è facilmente individuabile, si suonano solo i tasti bianchi. Se però vogliamo ottenere una scala maggiore partendo da un'altra nota, dobbiamo rispettare gli intervalli e quindi dobbiamo contare i semitoni e utilizzare anche i tasti neri, dove c'è bisogno.</p>
+
+<p align="justify">Tuttavia, non esiste solo la scala maggiore. I greci, tanti anni or sono, hanno classificato altre sei scale. Queste sei scale si ottengono semplicemente partendo da una nota e arrivando alla sua ottava utilizzando sempre i casti bianchi del pianoforte. Ritornando alla scala maggiore di C quindi questa viene classificata come modo ionico. Se però partiamo dal D e suoniamo tutti i tasti bianchi del pianoforte fino ad arrivare al D dell'ottava superiore, sentiamo che è la scala è molto diversa da quella di prima. Questo perché chiaramente la sequenza degli intervalli cambia, non è più T T S T T T S ma è T S T T T S T.</p>
+
+<p align="justify">Possiamo divertirci quindi a fare la stessa cosa partendo dal E, o dal F, eccetera, e giungeremmo come gli antichi greci alla seguente tabella:</p>
+
+```
+┌───────────┬──────────┬─────────────────┬───────────────┬─────────────────────────────────┐
+│ MODO      │ TONALITÀ │ NOTE            │ INTERVALLI    │ SCALA                           │
+├───────────┼──────────┼─────────────────┼───────────────┼─────────────────────────────────┤
+│ IONICO    │ C        │ C D E F G A B C │ T T S T T T S │ MAGGIORE                        │
+│ DORICO    │ Dm       │ D E F G A B C D │ T S T T T S T │ MINORE NATURALE CON 6ª MAGGIORE │
+│ FRIGIO    │ Em       │ E F G A B C D E │ S T T T S T T │ MINORE NATURALE CON 2ª MINORE   │
+│ LIDIO     │ F        │ F G A B C D E F │ T T T S T T S │ MAGGIORE CON 4ª AUMENTATA       │
+│ MISOLIDIO │ G        │ G A B C D E F G │ T T S T T S T │ MAGGIORE CON 7ª MINORE          │
+│ EOLIO     │ Am       │ A B C D E F G A │ T S T T S T T │ MINORE NATURALE                 │
+│ LOCRIO    │ B°       │ B C D E F G A B │ S T T S T T T │ SEMIDIMINUIITA                  │
+└───────────┴──────────┴─────────────────┴───────────────┴─────────────────────────────────┘
+```
+
+<p align="justify">Vi consiglio per adesso di non stare troppo a pensarci, il modo in cui vengono costruite è molto semplice, anche da ricordare. Prendetelo per buono, poi ci torneremo sopra. L'unica cosa che mi preme di farvi notare è la seguente: una scala maggiore di C è lo stesso di dire una scala ionica di C, e per ottenerla basterà premere i tassi bianchi dal C al C. Lo stesso concetto vale per la scala dorica di D, è molto facile suonarla perché basta suonare i tasti bianchi dal D al D. Però se io voglio una scala maggiore di D non devo badare ai tasti, devo calcolare i semitoni e rispettare la sequenza degli intervalli. Allo stesso modo, se volessi una scala dorica di C dovrei rispettare gli intervalli, e quindi dovrei calcolare i semitoni e non basarmi solamente sui tasti bianchi del pianoforte. Questo discorso vale per tutte le scale!</p>
+
+<p align="justify">Tuttavia, diamogli un senso. Di seguito lo schema della tastiera del basso a cinque corde, indicando tutte quante le note in tutte quante le ottave:</p>
+
+```
+TASTIERA DEL BASSO A 5 CORDE NOTE CROMATICHE
+┌────┬┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┐
+│ G3 ││ G#3│ A3 │ A#3│ B3 │ C4 │ C#4│ D4 │ D#4│ E4 │ F4 │ F#4│ G4 │ G#4│ A4 │ A#4│ B4 │ C5 │ C#5│ D5 │ D#5│ E5 │ F5 │ F#5│ G5 │
+├────┼┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤
+│ D3 ││ D#3│ E3 │ F3 │ F#3│ G3 │ G#3│ A3 │ A#3│ B3 │ C4 │ C#4│ D4 │ D#4│ E4 │ F4 │ F#4│ G4 │ G#4│ A4 │ A#4│ B4 │ C5 │ C#5│ D5 │
+├────┼┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤
+│ A2 ││ A#2│ B2 │ C3 │ C#3│ D3 │ D#3│ E3 │ F3 │ F#3│ G3 │ G#3│ A3 │ A#3│ B3 │ C4 │ C#4│ D4 │ D#4│ E4 │ F4 │ F#4│ G4 │ G#4│ A4 │
+├────┼┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤
+│ E2 ││ F2 │ F#2│ G2 │ G#2│ A2 │ A#2│ B2 │ C3 │ C#3│ D3 │ D#3│ E3 │ F3 │ F#3│ G3 │ G#3│ A3 │ A#3│ B3 │ C4 │ C#4│ D4 │ D#4│ E4 │
+├────┼┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤
+│ B1 ││ C2 │ C#2│ D2 │ D#2│ E2 │ F2 │ F#2│ G2 │ G#2│ A2 │ A#2│ B2 │ C3 │ C#3│ D3 │ D#3│ E3 │ F3 │ F#3│ G3 │ G#3│ A3 │ A#3│ B3 │
+└────┴┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘
+  0     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15   16   17   18   19   20   21   22   23   24
+                  .         .         .         .              :              .         .         .         .              :
+```
+
+<p align="justify">Lo schema che invece segue adesso è semplicemente lo stesso schema ma che mantiene solamente le note naturali, non quelle enarmoniche:</p>
+
+```
+TASTIERA DEL BASSO A 5 CORDE NOTE NATURALI
+┌────┬┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┐
+│ G3 ││    │ A3 │    │ B3 │ C4 │    │ D4 │    │ E4 │ F4 │    │ G4 │    │ A4 │    │ B4 │ C5 │    │ D5 │    │ E5 │ F5 │    │ G5 │
+├────┼┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤
+│ D3 ││    │ E3 │ F3 │    │ G3 │    │ A3 │    │ B3 │ C4 │    │ D4 │    │ E4 │ F4 │    │ G4 │    │ A4 │    │ B4 │ C5 │    │ D5 │
+├────┼┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤
+│ A2 ││    │ B2 │ C3 │    │ D3 │    │ E3 │ F3 │    │ G3 │    │ A3 │    │ B3 │ C4 │    │ D4 │    │ E4 │ F4 │    │ G4 │    │ A4 │
+├────┼┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤
+│ E2 ││ F2 │    │ G2 │    │ A2 │    │ B2 │ C3 │    │ D3 │    │ E3 │ F3 │    │ G3 │    │ A3 │    │ B3 │ C4 │    │ D4 │    │ E4 │
+├────┼┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┼────┤
+│ B1 ││ C2 │    │ D2 │    │ E2 │ F2 │    │ G2 │    │ A2 │    │ B2 │ C3 │    │ D3 │    │ E3 │ F3 │    │ G3 │    │ A3 │    │ B3 │
+└────┴┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘
+  0     1    2    3    4    5    6    7    8    9    10   11   12   13   14   15   16   17   18   19   20   21   22   23   24
+                  .         .         .         .              :              .         .         .         .              :
+```
+
+<p align="justify">Semplifichiamo ancora di più mantiendo solamente le note naturali, senza le ottave:</p>
+
+```
+TASTIERA DEL BASSO A 5 CORDE NOTE NATURALI (PATTERN)
+┌───┬┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┬───┐
+│ G ││   │ A │   │ B │ C │   │ D │   │ E │ F │   │ G │   │ A │   │ B │ C │   │ D │   │ E │ F │   │ G │
+├───┼┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┤
+│ D ││   │ E │ F │   │ G │   │ A │   │ B │ C │   │ D │   │ E │ F │   │ G │   │ A │   │ B │ C │   │ D │
+├───┼┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┤
+│ A ││   │ B │ C │   │ D │   │ E │ F │   │ G │   │ A │   │ B │ C │   │ D │   │ E │ F │   │ G │   │ A │
+├───┼┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┤
+│ E ││ F │   │ G │   │ A │   │ B │ C │   │ D │   │ E │ F │   │ G │   │ A │   │ B │ C │   │ D │   │ E │
+├───┼┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┼───┤
+│ B ││ C │   │ D │   │ E │ F │   │ G │   │ A │   │ B │ C │   │ D │   │ E │ F │   │ G │   │ A │   │ B │
+└───┴┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┴───┘
+  0    1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  17  18  19  20  21  22  23  24
+               .       .       .       .           :           .       .       .       .           :
+```
+
+<p align="justify">Dove voglio arrivare? Se guardiamo la tabella in alto con tutte le scale dei modi greci, vediamo che esistono dei pattern. Questi pattern sono facilmente rintracciabili sulla tastiera del basso. Di seguito, ecco uno schema di tutti quanti i pattern di tutti quanti i modi greci:</p>
+
+```
+SCALA IONICA (C)           
+┌───┬───┬───┬───┐
+│ A │   │ B │ C │     
+├───┼───┼───┼───┤
+│ E │ F │   │ G │     
+├───┼───┼───┼───┤
+│   │ C │   │ D │     
+└───┴───┴───┴───┘
+
+SCALA DORICA (Dm)
+┌───┬───┬───┬───┬───┐
+│ B │ C │   │ D │   │
+├───┼───┼───┼───┼───┤
+│   │ G │   │ A │   │
+├───┼───┼───┼───┼───┤
+│   │ D │   │ E │ F │
+└───┴───┴───┴───┴───┘
+
+SCALA FRIGIA (Em)          
+┌───┬───┬───┬───┐
+│ D │   │ E │   │     
+├───┼───┼───┼───┤
+│ A │   │ B │ C │     
+├───┼───┼───┼───┤
+│ E │ F │   │ G │     
+└───┴───┴───┴───┘
+
+SCALA LIDIA (F)
+┌───┬───┬───┬───┐
+│ D │   │ E │ F │
+├───┼───┼───┼───┤
+│ A │   │ B │ C │
+├───┼───┼───┼───┤
+│   │ F │   │ G │
+└───┴───┴───┴───┘
+
+SCALA MISOLIDIA (G)        
+┌───┬───┬───┬───┐
+│ E │ F │   │ G │     
+├───┼───┼───┼───┤
+│ B │ C │   │ D │     
+├───┼───┼───┼───┤
+│   │ G │   │ A │     
+└───┴───┴───┴───┘
+
+SCALA EOLIA (Am)
+┌───┬───┬───┬───┐
+│ G │   │ A │   │
+├───┼───┼───┼───┤
+│ D │   │ E │ F │
+├───┼───┼───┼───┤
+│ A │   │ B │ C │
+└───┴───┴───┴───┘
+
+SCALA LOCRIA (B°)
+┌───┬───┬───┬───┐
+│ A │   │ B │ C │ 
+├───┼───┼───┼───┤
+│ E │ F │   │ G │ 
+├───┼───┼───┼───┤
+│ B │ C │   │ D │ 
+└───┴───┴───┴───┘
+```
+
+<p align="justify">Se volessimo giocare come dei bambini a "ritagliare" i riquadri dei modi greci e sovrapporli alla tastiera del basso, scopriremmo che grazie ai pattern possiamo riprodurre tutte le scale semplicemente ricalcando le diteggiature. Questo ci permette di trasporre tutte le scale su tutta la tastiera per tutte quante le note e ci semplifica molto la costruzione delle scale rispetto alla tastiera del pianoforte, dove per poter rispettare lo schema degli intervalli, dobbiamo utilizzare i tasti bianchi e i tasti neri e non sono sempre in maniera intuitiva o interscambiabile.</p>
+
+<p align="justify">Spero di essere stato chiaro.</p>
