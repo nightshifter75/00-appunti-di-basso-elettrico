@@ -58,6 +58,9 @@
 
 ### Triadi Maggiori
 
+<p align="justify">Una triade maggiore si ricava prendendo la scala maggiore di riferimento e scegliendo la tonica (I grado), la modale (III grado, terza maggiore rispetto alla tonica, 4 semitoni) e la dominante (V grado, quinta giusta rispetto alla tonica, sette semitoni). La triade maggiore si chiama con il nome della tonica e l'aggettivo maggiore: C MAGGIORE, D MAGGIORE, ecc… Il simbolo è semplicemente la nota della tonica: C, D, ecc…</p>
+
+
 <table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -154,6 +157,8 @@
 </table>
 
 ### Triadi Minori
+
+<p align="justify">Una triade minore si ricava prendendo la scala maggiore di riferimento e scegliendo la tonica (I grado), la modale abbassata di un semitono (III grado b, terza minore rispetto alla tonica, 3 semitoni) e la dominante (V grado, quinta giusta rispetto alla tonica, sette semitoni). La triade minore si chiama con il nome della tonica e l'aggettivo minore: C MINORE, D MINORE, ecc… Il simbolo è la nota della tonica con il suffisso m: Cm, Dm, ecc…</p>
 
 <table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
   <thead>
@@ -252,6 +257,18 @@
 
 ### Triadi Diminuite
 
+<p align="justify">Una triade diminiuta si ricava prendendo la scala maggiore di riferimento e scegliendo la tonica (I grado), la modale abbassata di un semitono (III grado b, terza minore rispetto alla tonica, 3 semitoni) e la dominante abbassata di un semitono (V grado b, quinta diminuita rispetto alla tonica, sei semitoni). La triade diminuita si chiama con il nome della tonica e l'aggettivo diminuito: C DIMINUITO, D DIMINUITO, ecc… Il simbolo è la nota della tonica con il suffisso -: C-, D-, ecc…</p>
+
+```
+    DITEGGIATURA 214                   DITEGGIATURA 431                 DITEGGIATURA 1->42
+
+  G |---|---|---|---| G -------      G |---|---|---|---| G -------    G |---|---|---|---|---| G ----------
+  D |---|---|---|---| D -------      D |-o-|---|---|---| D -----1-    D |---|---|---|---|---| D ----------
+  A |-o-|---|---|-o-| A ---1-4-      A |---|---|-o-|---| A ---3---    A |---|---|-o-|---|---| A --------3-
+  E |---|-o-|---|---| E -2-----      E |---|---|---|-o-| E -4-----    E |-o-|---|---|---|-o-| E -1----5---
+      1   2       4      2 1 4           1       3   4      4 3 1         1   ->  2       4      1 -> 4 2
+```
+
 <table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
   <thead>
     <tr style="background-color: #f2f2f2;">
@@ -349,5 +366,100 @@
 
 ### Triadi Aumentate
 
+<p align="justify">Una triade aumentata si ricava prendendo la scala maggiore di riferimento e scegliendo la tonica (I grado), la modale (III grado, terza maggiore rispetto alla tonica, 4 semitoni) e la dominante aumentata di un semitono (V grado #, quinta aumentata rispetto alla tonica, otto semitoni). La triade aumentata si chiama con il nome della tonica e aumentato: C AUMENTATO, D AUMENTATO, ecc… Il simbolo è la nota della tonica con il suffisso 5+: C5+, D5+, ecc…</p>
 
+<table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 8px;">NOTA</th>
+      <th style="padding: 8px;">GRADO</th>
+      <th style="padding: 8px;">INTERVALLO</th>
+      <th style="padding: 8px;">C5+</th>
+      <th style="padding: 8px;">C#5+</th>
+      <th style="padding: 8px;">Db5+</th>
+      <th style="padding: 8px;">D5+</th>
+      <th style="padding: 8px;">D#5+</th>
+      <th style="padding: 8px;">Eb5+</th>
+      <th style="padding: 8px;">E5+</th>
+      <th style="padding: 8px;">F5+</th>
+      <th style="padding: 8px;">F#5+</th>
+      <th style="padding: 8px;">Gb5+</th>
+      <th style="padding: 8px;">G5+</th>
+      <th style="padding: 8px;">G#5+</th>
+      <th style="padding: 8px;">Ab5+</th>
+      <th style="padding: 8px;">A5+</th>
+      <th style="padding: 8px;">A#5+</th>
+      <th style="padding: 8px;">Bb5+</th>
+      <th style="padding: 8px;">B5+</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 6px;">1</td>
+      <td style="padding: 6px;">TONICA (I)</td>
+      <td style="padding: 6px;">UNISONO (0)</td>
+      <td style="padding: 6px;">C</td>
+      <td style="padding: 6px;">C#</td>
+      <td style="padding: 6px;">Db</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D#</td>
+      <td style="padding: 6px;">Eb</td>
+      <td style="padding: 6px;">E</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F#</td>
+      <td style="padding: 6px;">Gb</td>
+      <td style="padding: 6px;">G</td>
+      <td style="padding: 6px;">G#</td>
+      <td style="padding: 6px;">Ab</td>
+      <td style="padding: 6px;">A</td>
+      <td style="padding: 6px;">A#</td>
+      <td style="padding: 6px;">Bb</td>
+      <td style="padding: 6px;">B</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px;">5</td>
+      <td style="padding: 6px;">MODALE (III)*</td>
+      <td style="padding: 6px;">TERZA MAGGIORE (4)</td>
+      <td style="padding: 6px;">E</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F#</td>
+      <td style="padding: 6px;">G</td>
+      <td style="padding: 6px;">G</td>
+      <td style="padding: 6px;">G#</td>
+      <td style="padding: 6px;">A</td>
+      <td style="padding: 6px;">A#</td>
+      <td style="padding: 6px;">Bb</td>
+      <td style="padding: 6px;">B</td>
+      <td style="padding: 6px;">C</td>
+      <td style="padding: 6px;">C</td>
+      <td style="padding: 6px;">C#</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D#</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px;">9</td>
+      <td style="padding: 6px;">-</td>
+      <td style="padding: 6px;">QUINTA AUMENTATA (8)</td>
+      <td style="padding: 6px;">G#</td>
+      <td style="padding: 6px;">A</td>
+      <td style="padding: 6px;">G</td>
+      <td style="padding: 6px;">A#</td>
+      <td style="padding: 6px;">B</td>
+      <td style="padding: 6px;">B</td>
+      <td style="padding: 6px;">C</td>
+      <td style="padding: 6px;">C#</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D#</td>
+      <td style="padding: 6px;">E</td>
+      <td style="padding: 6px;">E</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F#</td>
+      <td style="padding: 6px;">Gb</td>
+      <td style="padding: 6px;">G</td>
+    </tr>
+  </tbody>
+</table>
 
