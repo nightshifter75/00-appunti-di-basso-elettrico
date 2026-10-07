@@ -446,7 +446,7 @@
     </tr>
     <tr>
       <td style="padding: 6px;">5</td>
-      <td style="padding: 6px;">MODALE (III)*</td>
+      <td style="padding: 6px;">MODALE (III)</td>
       <td style="padding: 6px;">TERZA MAGGIORE (4)</td>
       <td style="padding: 6px;">E</td>
       <td style="padding: 6px;">F</td>
