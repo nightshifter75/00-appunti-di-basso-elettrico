@@ -56,6 +56,101 @@
 
 <p align="justify">Le triadi sono accordi formati da tre note. Lo studio degli accordi e delle progressioni sono il fondamento dell'armonia.</p>
 
+<table border="1" style="border-collapse: collapse; text-align: center; padding: 6px;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 8px;">NOTA</th>
+      <th style="padding: 8px;">GRADO</th>
+      <th style="padding: 8px;">INTERVALLO</th>
+      <th style="padding: 8px;">C</th>
+      <th style="padding: 8px;">C#</th>
+      <th style="padding: 8px;">Db</th>
+      <th style="padding: 8px;">D</th>
+      <th style="padding: 8px;">D#</th>
+      <th style="padding: 8px;">Eb</th>
+      <th style="padding: 8px;">E</th>
+      <th style="padding: 8px;">F</th>
+      <th style="padding: 8px;">F#</th>
+      <th style="padding: 8px;">Gb</th>
+      <th style="padding: 8px;">G</th>
+      <th style="padding: 8px;">G#</th>
+      <th style="padding: 8px;">Ab</th>
+      <th style="padding: 8px;">A</th>
+      <th style="padding: 8px;">A#</th>
+      <th style="padding: 8px;">Bb</th>
+      <th style="padding: 8px;">B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 6px;">1</td>
+      <td style="padding: 6px;">TONICA (I)</td>
+      <td style="padding: 6px;">UNISONO (0)</td>
+      <td style="padding: 6px;">C</td>
+      <td style="padding: 6px;">C#</td>
+      <td style="padding: 6px;">Db</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D#</td>
+      <td style="padding: 6px;">Eb</td>
+      <td style="padding: 6px;">E</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F#</td>
+      <td style="padding: 6px;">Gb</td>
+      <td style="padding: 6px;">G</td>
+      <td style="padding: 6px;">G#</td>
+      <td style="padding: 6px;">Ab</td>
+      <td style="padding: 6px;">A</td>
+      <td style="padding: 6px;">A#</td>
+      <td style="padding: 6px;">Bb</td>
+      <td style="padding: 6px;">B</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px;">5</td>
+      <td style="padding: 6px;">MODALE (III)</td>
+      <td style="padding: 6px;">TERZA MAGGIORE (4)</td>
+      <td style="padding: 6px;">E</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F#</td>
+      <td style="padding: 6px;">G</td>
+      <td style="padding: 6px;">G</td>
+      <td style="padding: 6px;">G#</td>
+      <td style="padding: 6px;">A</td>
+      <td style="padding: 6px;">A#</td>
+      <td style="padding: 6px;">Bb</td>
+      <td style="padding: 6px;">B</td>
+      <td style="padding: 6px;">C</td>
+      <td style="padding: 6px;">C</td>
+      <td style="padding: 6px;">C#</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D#</td>
+    </tr>
+    <tr>
+      <td style="padding: 6px;">8</td>
+      <td style="padding: 6px;">DOMINANTE (V)</td>
+      <td style="padding: 6px;">QUINTA GIUSTA (7)</td>
+      <td style="padding: 6px;">G</td>
+      <td style="padding: 6px;">G#</td>
+      <td style="padding: 6px;">Ab</td>
+      <td style="padding: 6px;">A</td>
+      <td style="padding: 6px;">A#</td>
+      <td style="padding: 6px;">Bb</td>
+      <td style="padding: 6px;">B</td>
+      <td style="padding: 6px;">C</td>
+      <td style="padding: 6px;">C#</td>
+      <td style="padding: 6px;">Db</td>
+      <td style="padding: 6px;">D</td>
+      <td style="padding: 6px;">D#</td>
+      <td style="padding: 6px;">Eb</td>
+      <td style="padding: 6px;">E</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F</td>
+      <td style="padding: 6px;">F#</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Triadi Maggiori
 
 
