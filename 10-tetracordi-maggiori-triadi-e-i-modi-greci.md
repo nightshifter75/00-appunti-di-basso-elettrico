@@ -1,4 +1,4 @@
-# 10. Tetracordi Maggiori, Triadi e I Modi Greci (...ovvero tutte le altre scale!)
+# 10. Tetracordi Maggiori, Triadi e I Modi Greci
 
 ## Tetracordi Maggiori
 
@@ -492,6 +492,8 @@
 </table>
 
 ## I Modi Greci
+
+<p align="justify">(...ovvero tutte le altre scale!)</p>
 
 <p align="justify">Senza stare troppo a menare il can per l'aia: la faccenda è molto semplice. Se si prende una scala maggiore, si ottiene una sequenza di intervalli di toni e semitoni. Come abbiamo sempre detto, consideriamo quella di C: si parte da C e si arriva a C dell'ottava superiore. Suonata al pianoforte è facilmente individuabile, si suonano solo i tasti bianchi. Se però vogliamo ottenere una scala maggiore partendo da un'altra nota, dobbiamo rispettare gli intervalli e quindi dobbiamo contare i semitoni e utilizzare anche i tasti neri, dove c'è bisogno.</p>
 
