@@ -1,4 +1,6 @@
-# 10. Tetracordi Maggiori e I Modi Greci (...ovvero tutte le altre scale!)
+# 10. Tetracordi Maggiori, Triadi e I Modi Greci (...ovvero tutte le altre scale!)
+
+## Tetracordi Maggiori
 
 <p align="justify">Un tetracordo maggiore è una sequenza di quattro note entro una quarta giusta. La distanza fra le quattro note è T-T-S. La scala maggiore è formata da due tetracordi: le prime quattro note e le ultime quattro note hanno lo stesso schema.</p>
 
@@ -49,3 +51,24 @@
                           1       3   4
                                       ->  1   2       4
 ```
+
+## Triadi
+
+<p align="justify">Le triadi sono accordi formati da tre note. Lo studio degli accordi e delle progressioni sono il fondamento dell'armonia.</p>
+
+### Triadi Maggiori
+
+
+
+### Triadi Minori
+
+
+
+### Triadi Diminuite
+
+
+
+### Triadi Aumentate
+
+
+
